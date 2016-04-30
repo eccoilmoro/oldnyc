@@ -2,7 +2,7 @@
 import urllib2
 import json
 import datetime
-
+import csv
 
 
 def create_post_url(graph_url, APP_ID, APP_SECRET): 
@@ -25,7 +25,12 @@ def scrape_posts_by_date(graph_url, date, post_data, APP_ID, APP_SECRET):
 	page_posts = render_to_json(graph_url)
 	
 	#extract next page
-	next_page = page_posts["paging"]["next"]
+	try:
+		next_page = page_posts["paging"]["next"]
+	except Exception, e:
+		#forcing the hypothesis that retrieving fails only if there is no further page
+		next_page = "0"
+	
 	
 	#grab all posts
 	page_posts = page_posts["data"]
@@ -37,15 +42,15 @@ def scrape_posts_by_date(graph_url, date, post_data, APP_ID, APP_SECRET):
 	for post in page_posts:
 		try:
 			likes_count = get_likes_count(post["id"], APP_ID, APP_SECRET)
-			current_post = [[post["id"], post["message"], likes_count, post["shares"]["count"], post["created_time"], post["object_id"], post["status_type"], post["full_picture"]]			
+			current_post = [post["id"], post["message"], likes_count, post["shares"]["count"], post["created_time"], post["object_id"], post["status_type"], post["full_picture"],post["link"]]			
 
 		except Exception:
 			current_post = [ "error", "error", "error", "error","error", "error", "error", "error"]
 		
 
 		if current_post[4] != "error":
-			print date
-			print current_post[4]
+			#print date
+			#print current_post[4]
 			if date <= current_post[4]:
 				post_data.append(current_post)
 				
@@ -56,7 +61,7 @@ def scrape_posts_by_date(graph_url, date, post_data, APP_ID, APP_SECRET):
 	
 	
 	#If we still don't meet date requirements, run on next page			
-	if collecting == True:
+	if collecting == True and next_page <> "0" :
 		scrape_posts_by_date(next_page, date, post_data, APP_ID, APP_SECRET)
 	
 	return post_data
@@ -64,10 +69,10 @@ def scrape_posts_by_date(graph_url, date, post_data, APP_ID, APP_SECRET):
 def write_post_data_to_file(post_data, filename):
 	
 	with open(filename, 'w+') as csvfile:
-    		csvwriter = csv.writer(csvfile, delimiter=' ',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    	for post in post_data:
-    		csvwriter.writerow([post[0], post[1], post[2],post[3],post[4],post[5],post[6],post[7] ])
+    		csvwriter = csv.writer(csvfile, delimiter=';') 
+                            #quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    		for post in post_data:
+    			csvwriter.writerow([post[0].encode('utf-8'), post[1].encode('utf-8').replace('\n','<br/>'), post[2],post[3],post[4].encode('utf-8'),post[5].encode('utf-8'),post[6].encode('utf-8'),post[7].encode('utf-8'),post[8].encode('utf-8') ])
 
 def get_likes_count(post_id, APP_ID, APP_SECRET):
 	#create Graph API Call
@@ -91,7 +96,7 @@ def main():
 	graph_url = "https://graph.facebook.com/v2.6/610780312323804"
 	
 	#the time of last weeks crawl
-	last_crawl = datetime.datetime.now() - datetime.timedelta(weeks=5)
+	last_crawl = datetime.datetime.now() - datetime.timedelta(weeks=200)
 	last_crawl = last_crawl.isoformat()
 					
 		
@@ -100,7 +105,7 @@ def main():
 		
 	post_data = []
 	post_data = scrape_posts_by_date(post_url, last_crawl, post_data, APP_ID, APP_SECRET)
-	write_post_data_to_file("facebook-posts.csv",post_data)
+	write_post_data_to_file(post_data,"facebook-posts.csv")
 		
 		
 	print post_data
