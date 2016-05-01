@@ -3,6 +3,8 @@ import urllib2
 import json
 import datetime
 import csv
+import os
+import re
 
 
 def create_post_url(graph_url, APP_ID, APP_SECRET): 
@@ -50,14 +52,16 @@ def scrape_posts_by_date(graph_url, date, post_data, APP_ID, APP_SECRET):
 
 		if current_post[4] != "error":
 			#print date
-			#print current_post[4]
-			if date <= current_post[4]:
-				post_data.append(current_post)
+			print current_post[4]
+			#collects only posts that are photos "added_photos"
+			if current_post[6] == "added_photos":
+				if date <= current_post[4]:
+					post_data.append(current_post)
 				
-			elif date > current_post[4]:
-				print "Done collecting"
-				collecting = False
-				break
+				elif date > current_post[4]:
+					print "Done collecting"
+					collecting = False
+					break
 	
 	
 	#If we still don't meet date requirements, run on next page			
@@ -68,11 +72,39 @@ def scrape_posts_by_date(graph_url, date, post_data, APP_ID, APP_SECRET):
 		
 def write_post_data_to_file(post_data, filename):
 	
+	if os.path.isfile(filename):
+		first_time = False
+	else: 
+		first_time = True
+
 	with open(filename, 'w+') as csvfile:
     		csvwriter = csv.writer(csvfile, delimiter=';') 
                             #quotechar='"', quoting=csv.QUOTE_MINIMAL)
+		#if first_time:
+		csvwriter.writerow(["fb_id","fb_message","fb_likes","fb_shares","fb_create_time","fb_object_id","fb_status_type","fb_full_picture","fb_link","Description","Year","Credits"])
+				
     		for post in post_data:
-    			csvwriter.writerow([post[0].encode('utf-8'), post[1].encode('utf-8').replace('\n','<br/>'), post[2],post[3],post[4].encode('utf-8'),post[5].encode('utf-8'),post[6].encode('utf-8'),post[7].encode('utf-8'),post[8].encode('utf-8') ])
+    			csvwriter.writerow([post[0].encode('utf-8'), post[1].encode('utf-8').replace('\n','<br/>'), post[2],post[3],post[4].encode('utf-8'),post[5].encode('utf-8'),post[6].encode('utf-8'),post[7].encode('utf-8'),post[8].encode('utf-8'),extract_description(post[1].encode('utf-8')).replace('\n','<br/>'),extract_year(post[1].encode('utf-8')).replace('\n','<br/>'),extract_credits(post[1].encode('utf-8')).replace('\n','<br/>') ])
+
+def extract_description(str):
+	return re.sub(r"[Dd]escrizione[:. ]*","",str.split('Anno',2)[0])
+
+def extract_year(str):
+	try:
+		anno = re.sub (r"[:.]*","",str.split('Anno',2)[1])
+		anno = anno.split('\n',2)[0]
+	except Exception, e:
+		anno = ""
+	
+	return anno
+
+def extract_credits(str):
+	try:
+		anno = str.split('Anno',2)[1]
+		credits = anno.split('\n',2)[1]
+	except Exception, e:
+		credits = ""
+	return credits
 
 def get_likes_count(post_id, APP_ID, APP_SECRET):
 	#create Graph API Call
