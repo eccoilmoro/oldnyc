@@ -33,7 +33,7 @@ try:
     date_str = str(row['Year'])
     # date_str is not always present
 
-    full_address = str(row['Description'])
+    full_address = str(row['Description'].replace(".",""))
     creator = str(row['Credits'])
 
     title = str(row['Description'])

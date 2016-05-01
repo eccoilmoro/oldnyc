@@ -18,9 +18,9 @@ import cPickle
 
 # Import order here determines the order in which coders get a crack at each
 # record. We want to go in order from precise to imprecise.
-import coders.extended_grid
 import coders.milstein
 import coders.nyc_parks
+import coders.ravenna_coder
 
 
 if __name__ == '__main__':
@@ -134,6 +134,7 @@ if __name__ == '__main__':
 
       lat_lon = None
       try:
+        sys.stderr.write('Trying to geocode %s \n' % location_data['address'])
         geocode_result = g.Locate(location_data['address'])
         if geocode_result:
           lat_lon = c.getLatLonFromGeocode(geocode_result, location_data, r)
