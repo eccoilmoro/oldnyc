@@ -1,8 +1,7 @@
 #!/usr/bin/python
 #
 # Run whatever's in the "location" field directly through the geocoder.
-# This almost never makes sense for SFPL records, but it does for the
-# NYPL Milstein collection.
+
 
 import fileinput
 import re
@@ -17,10 +16,10 @@ import coders.registration
 import record
 
 
-boros = '(?:Cervia|Borgo San Biagio|Borgo S.Biagio|Borgo San Rocco|Borgo S.Rocco|Bosco Baronio|Marina di Ravenna|Punta Marina|Classe|)'
-boros_re = r'(?:Cervia|Borgo San Biagio|Borgo S.Biagio|Borgo San Rocco|Borgo S.Rocco|Bosco Baronio|Marina di Ravenna|Punta Marina|Classe|)'
+#boros = '(?:Cervia|Borgo San Biagio|Borgo S.Biagio|Borgo San Rocco|Borgo S.Rocco|Bosco Baronio|Marina di Ravenna|Punta Marina|Classe|)'
+#boros_re = r'(?:Cervia|Borgo San Biagio|Borgo S.Biagio|Borgo San Rocco|Borgo S.Rocco|Bosco Baronio|Marina di Ravenna|Punta Marina|Classe|)'
 
-streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via)'
+streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta)'
 
 # example: "100th Street (East) & 1st Avenue, Manhattan, NY"
 # 30337 / 36328 (0.8351)
@@ -38,12 +37,14 @@ streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via)'
 #   313
 #address2_re = r'(\d+)(?:-\d+)? ([a-zA-Z 0-9]*? %s).*, (%s)' % (streets, boros)
 
-address3_re = r'((%s [A-Z][a-zA-Z]* [A-Z][a-zA-Z]* |%s [A-Z][a-zA-Z]*))' % (streets,streets)
+address3_re = r'((%s [A-Z]{1}[a-zA-Z]+ [A-Z]{1}[a-zA-Z]+ |%s [a-z]{1}[a-zA-Z]+ [A-Z]{1}[a-zA-Z]+ |%s [A-Z]{1}[a-zA-Z]+))' % (streets,streets,streets)
 
-address4_re = r'((%s .* ))' % (boros)
+
+
+#address4_re = r'((%s .* ))' % (boros)
 
 #cross_patterns = [cross_and_re, cross_dash_re]
-addr_patterns = [address3_re, address4_re]
+addr_patterns = [address3_re]
 
 # (From Wikipedia)
 #staten_neighborhoods = r'Annadale|Arden Heights|Arlington|Arrochar|Bay Terrace|Bloomfield|Brighton Heights|Bulls Head|Castleton|Castleton Corners|Charleston|Chelsea|Clifton|Concord|Dongan Hills|Egbertville|Elm Park|Eltingville|Emerson Hill|Fort Wadsworth|Graniteville|Grant City|Grasmere|Great Kills|Greenridge|Grymes Hill|Hamilton Park|Heartland Village|Huguenot|Lighthouse Hill|Livingston|Manor Heights|Mariners Harbor|Mariner\'s Harbor|Meiers Corners|Midland Beach|New Brighton|New Dorp|New Springville|Oakwood|Ocean Breeze|Old Place|Old Town|Pleasant Plains|Port Richmond|Prince\'s Bay|Randall Manor|Richmond Valley|Richmondtown|Rosebank|Rossville|Sandy Ground|Shore Acres|Silver Lake|South Beach|St\. George|Stapleton|Stapleton Heights|Sunnyside|Todt Hill|Tompkinsville|Tottenville|Tottenville Beach|Travis|Ward Hill|Westerleigh|West New Brighton|Willowbrook|Woodrow'
@@ -82,9 +83,11 @@ class RavennaCoder:
     
 
     for pattern in addr_patterns:
+      #sys.stderr.write(addr_patterns)
       m = re.match(pattern, loc)
       if m: break
     if m:
+      sys.stderr.write('Trovata la via!')
       #number, street, city = m.groups()
       street, city = m.groups()
       city = 'Ravenna'
@@ -101,6 +104,7 @@ class RavennaCoder:
           'type': 'street_address'
         }
     else:
+       sys.stderr.write('NON Trovata la via!')
        city = 'Ravenna'
        return {
           #'address': '%s %s, %s' % (number, street, city),
@@ -163,7 +167,7 @@ class RavennaCoder:
     pass
 
   def name(self):
-    return 'milstein'
+    return 'ravenna_coder'
 
 
 coders.registration.registerCoderClass(RavennaCoder)

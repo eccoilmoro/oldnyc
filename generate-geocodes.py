@@ -66,8 +66,9 @@ if __name__ == '__main__':
 
   geocoders = coders.registration.coderClasses()
   geocoders = [coder() for coder in geocoders]
-
+  sys.stderr.write('Coder :  %s\n' % ''.join([c.name() for c in geocoders]) )
   if options.ok_coders != 'all':
+    #even only 1 coder is allowed!!! FRANCO
     ok_coders = options.ok_coders.split(',')
     geocoders = [c for c in geocoders if c.name() in ok_coders]
     if len(geocoders) != len(ok_coders):
