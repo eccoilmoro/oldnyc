@@ -1,0 +1,634 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Carlo Pisacane",
+               "short_name" : "Piazza Carlo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Carlo Pisacane, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2614732,
+                  "lng" : 12.3502394
+               },
+               "southwest" : {
+                  "lat" : 44.2607544,
+                  "lng" : 12.349499
+               }
+            },
+            "location" : {
+               "lat" : 44.2612625,
+               "lng" : 12.3499644
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2624627802915,
+                  "lng" : 12.3512181802915
+               },
+               "southwest" : {
+                  "lat" : 44.2597648197085,
+                  "lng" : 12.3485202197085
+               }
+            }
+         },
+         "place_id" : "ChIJEZQW-ga0LBMR-rRlQkXy_LE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Carlo Pisacane",
+               "short_name" : "Viale Carlo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Carlo Pisacane, 48122 Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4894007,
+                  "lng" : 12.2769485
+               },
+               "southwest" : {
+                  "lat" : 44.4816577,
+                  "lng" : 12.2748361
+               }
+            },
+            "location" : {
+               "lat" : 44.4839303,
+               "lng" : 12.2763034
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4894007,
+                  "lng" : 12.2772412802915
+               },
+               "southwest" : {
+                  "lat" : 44.4816577,
+                  "lng" : 12.2745433197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrb3YntT6fUcRKKt0wZrGKZQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Carlo Pisacane",
+               "short_name" : "Via Carlo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fusignano",
+               "short_name" : "Fusignano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fusignano",
+               "short_name" : "Fusignano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Carlo Pisacane, 48010 Fusignano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.472273,
+                  "lng" : 11.9701355
+               },
+               "southwest" : {
+                  "lat" : 44.470304,
+                  "lng" : 11.9690627
+               }
+            },
+            "location" : {
+               "lat" : 44.470994,
+               "lng" : 11.9695596
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4726374802915,
+                  "lng" : 11.9709480802915
+               },
+               "southwest" : {
+                  "lat" : 44.4699395197085,
+                  "lng" : 11.9682501197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5V_Dy_AEfkcR2w7hs5KlFFA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Carlo Pisacane",
+               "short_name" : "Via Carlo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Carlo Pisacane, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2895122,
+                  "lng" : 11.8921862
+               },
+               "southwest" : {
+                  "lat" : 44.2886012,
+                  "lng" : 11.8901042
+               }
+            },
+            "location" : {
+               "lat" : 44.288684,
+               "lng" : 11.8908955
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2904056802915,
+                  "lng" : 11.8924941802915
+               },
+               "southwest" : {
+                  "lat" : 44.2877077197085,
+                  "lng" : 11.8897962197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN_HWkOFRKxMRHbS2sEeAwU0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Carlo Pisacane",
+               "short_name" : "Via Carlo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Massa Lombarda",
+               "short_name" : "Massa Lombarda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massa Lombarda",
+               "short_name" : "Massa Lombarda",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48024",
+               "short_name" : "48024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Carlo Pisacane, 48024 Massa Lombarda RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.445514,
+                  "lng" : 11.8296893
+               },
+               "southwest" : {
+                  "lat" : 44.4443278,
+                  "lng" : 11.8258733
+               }
+            },
+            "location" : {
+               "lat" : 44.4447372,
+               "lng" : 11.8283365
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4462698802915,
+                  "lng" : 11.8296893
+               },
+               "southwest" : {
+                  "lat" : 44.4435719197085,
+                  "lng" : 11.8258733
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPSX1vB4cfkcROpxLBoKje_I",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Carlo Pisacane",
+               "short_name" : "Via Carlo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48011",
+               "short_name" : "48011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Carlo Pisacane, 48011 Alfonsine RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5006944,
+                  "lng" : 12.038886
+               },
+               "southwest" : {
+                  "lat" : 44.4998565,
+                  "lng" : 12.0374965
+               }
+            },
+            "location" : {
+               "lat" : 44.5002193,
+               "lng" : 12.0379536
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5016244302915,
+                  "lng" : 12.0395402302915
+               },
+               "southwest" : {
+                  "lat" : 44.4989264697085,
+                  "lng" : 12.0368422697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY5AztwkGfkcRtd8KYWiGuNU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vicolo Pisacane",
+               "short_name" : "Vicolo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vicolo Pisacane, 48022 Lugo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4202103,
+                  "lng" : 11.9144808
+               },
+               "southwest" : {
+                  "lat" : 44.419612,
+                  "lng" : 11.9139573
+               }
+            },
+            "location" : {
+               "lat" : 44.4202103,
+               "lng" : 11.9144808
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4212601302915,
+                  "lng" : 11.9155680302915
+               },
+               "southwest" : {
+                  "lat" : 44.4185621697085,
+                  "lng" : 11.9128700697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbZBz8i4DfkcRRpwDliDHHq4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Pisacane",
+               "short_name" : "Via Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48012",
+               "short_name" : "48012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Pisacane, 48012 Bagnacavallo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4194573,
+                  "lng" : 11.9790259
+               },
+               "southwest" : {
+                  "lat" : 44.4190008,
+                  "lng" : 11.9785259
+               }
+            },
+            "location" : {
+               "lat" : 44.4190008,
+               "lng" : 11.9785282
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4205780302915,
+                  "lng" : 11.9801248802915
+               },
+               "southwest" : {
+                  "lat" : 44.4178800697085,
+                  "lng" : 11.9774269197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnb4naccDfkcR_9J1WqBtyf0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Carlo Pisacane",
+               "short_name" : "Viale Carlo Pisacane",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Imola",
+               "short_name" : "Imola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Imola",
+               "short_name" : "Imola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Bologna",
+               "short_name" : "BO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40026",
+               "short_name" : "40026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Carlo Pisacane, 40026 Imola BO, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3516231,
+                  "lng" : 11.73944
+               },
+               "southwest" : {
+                  "lat" : 44.343925,
+                  "lng" : 11.719728
+               }
+            },
+            "location" : {
+               "lat" : 44.3460336,
+               "lng" : 11.7289254
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3516231,
+                  "lng" : 11.73944
+               },
+               "southwest" : {
+                  "lat" : 44.343925,
+                  "lng" : 11.719728
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfXypfmhKKxMRX8gn9bgBUd4",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

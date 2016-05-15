@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Duomo",
+               "short_name" : "Piazza Duomo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Duomo, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4160722,
+                  "lng" : 12.1966395
+               },
+               "southwest" : {
+                  "lat" : 44.4155639,
+                  "lng" : 12.1957071
+               }
+            },
+            "location" : {
+               "lat" : 44.4159138,
+               "lng" : 12.1963308
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4171670302915,
+                  "lng" : 12.1975222802915
+               },
+               "southwest" : {
+                  "lat" : 44.4144690697085,
+                  "lng" : 12.1948243197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_zMVi1P5fUcRSff2bW7U3uQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vicolo Gabbiani",
+               "short_name" : "Vicolo Gabbiani",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vicolo Gabbiani, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.419427,
+                  "lng" : 12.1990803
+               },
+               "southwest" : {
+                  "lat" : 44.4190586,
+                  "lng" : 12.1979498
+               }
+            },
+            "location" : {
+               "lat" : 44.4191952,
+               "lng" : 12.1986186
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4205917802915,
+                  "lng" : 12.1998640302915
+               },
+               "southwest" : {
+                  "lat" : 44.4178938197085,
+                  "lng" : 12.1971660697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO0fJwlX5fUcRDQmICiF7hGg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porto Fuori",
+               "short_name" : "Porto Fuori",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "48121 Porto Fuori RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4108419,
+                  "lng" : 12.2611823
+               },
+               "southwest" : {
+                  "lat" : 44.3991929,
+                  "lng" : 12.2440795
+               }
+            },
+            "location" : {
+               "lat" : 44.4026226,
+               "lng" : 12.2475035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4108419,
+                  "lng" : 12.2611823
+               },
+               "southwest" : {
+                  "lat" : 44.3991929,
+                  "lng" : 12.2440795
+               }
+            }
+         },
+         "place_id" : "ChIJgydLHo75fUcRYj_JXmABSmo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

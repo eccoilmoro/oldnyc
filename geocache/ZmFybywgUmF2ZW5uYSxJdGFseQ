@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Ravenna",
+               "short_name" : "Via Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cagliari",
+               "short_name" : "Cagliari",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cagliari",
+               "short_name" : "Cagliari",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Cagliari",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sardegna",
+               "short_name" : "Sardegna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09125",
+               "short_name" : "09125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Ravenna, 09125 Cagliari, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.209006,
+                  "lng" : 9.129955599999999
+               },
+               "southwest" : {
+                  "lat" : 39.2081211,
+                  "lng" : 9.1256793
+               }
+            },
+            "location" : {
+               "lat" : 39.2089517,
+               "lng" : 9.1277609
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2099125302915,
+                  "lng" : 9.129955599999999
+               },
+               "southwest" : {
+                  "lat" : 39.2072145697085,
+                  "lng" : 9.1256793
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpfpjtYsz5xIRFXB0eYZiOqE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

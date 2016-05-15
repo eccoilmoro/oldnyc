@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vicolo Chiesa",
+               "short_name" : "Vicolo Chiesa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bagnara di Romagna",
+               "short_name" : "Bagnara di Romagna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnara di Romagna",
+               "short_name" : "Bagnara di Romagna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Vicolo Chiesa, 48010 Bagnara di Romagna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.38844719999999,
+                  "lng" : 11.826747
+               },
+               "southwest" : {
+                  "lat" : 44.3880932,
+                  "lng" : 11.8264751
+               }
+            },
+            "location" : {
+               "lat" : 44.3882745,
+               "lng" : 11.8266221
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3896191802915,
+                  "lng" : 11.8279600302915
+               },
+               "southwest" : {
+                  "lat" : 44.3869212197085,
+                  "lng" : 11.8252620697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJazTLzosdfkcRj3hiiRhgTbQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

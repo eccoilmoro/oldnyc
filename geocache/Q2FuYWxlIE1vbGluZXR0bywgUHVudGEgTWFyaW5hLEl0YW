@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Circonvallazione Canale Molinetto",
+               "short_name" : "Via Circonvallazione Canale Molinetto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Circonvallazione Canale Molinetto, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4363732,
+                  "lng" : 12.2842768
+               },
+               "southwest" : {
+                  "lat" : 44.4230849,
+                  "lng" : 12.2423977
+               }
+            },
+            "location" : {
+               "lat" : 44.432082,
+               "lng" : 12.2610386
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4363732,
+                  "lng" : 12.2842768
+               },
+               "southwest" : {
+                  "lat" : 44.4230849,
+                  "lng" : 12.2423977
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRWBVGTr6fUcRpJL8zfr4dCA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

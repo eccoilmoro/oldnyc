@@ -1,0 +1,635 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Luigi Einaudi",
+               "short_name" : "Piazza Luigi Einaudi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Luigi Einaudi, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4179981,
+                  "lng" : 12.2010141
+               },
+               "southwest" : {
+                  "lat" : 44.4176797,
+                  "lng" : 12.2006376
+               }
+            },
+            "location" : {
+               "lat" : 44.4176797,
+               "lng" : 12.2007522
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4191878802915,
+                  "lng" : 12.2021748302915
+               },
+               "southwest" : {
+                  "lat" : 44.4164899197085,
+                  "lng" : 12.1994768697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBYkKWFb5fUcRRTDpFKmeHuQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Luigi Carlo Farini",
+               "short_name" : "Piazza Luigi Carlo Farini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Luigi Carlo Farini, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.41959079999999,
+                  "lng" : 12.2080605
+               },
+               "southwest" : {
+                  "lat" : 44.4182184,
+                  "lng" : 12.2073025
+               }
+            },
+            "location" : {
+               "lat" : 44.4188969,
+               "lng" : 12.2074547
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4202535802915,
+                  "lng" : 12.2090304802915
+               },
+               "southwest" : {
+                  "lat" : 44.4175556197085,
+                  "lng" : 12.2063325197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1cjHZFj5fUcRpFklbfINVTA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Luigi Gabici",
+               "short_name" : "Via Luigi Gabici",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Gabici, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4119622,
+                  "lng" : 12.2039253
+               },
+               "southwest" : {
+                  "lat" : 44.411687,
+                  "lng" : 12.20154
+               }
+            },
+            "location" : {
+               "lat" : 44.411902,
+               "lng" : 12.2028501
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4131735802915,
+                  "lng" : 12.2040816302915
+               },
+               "southwest" : {
+                  "lat" : 44.4104756197085,
+                  "lng" : 12.2013836697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ05Eulr5fUcRyj4c-wGy3S0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Luigi Fontana",
+               "short_name" : "Via Luigi Fontana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Fontana, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.40332189999999,
+                  "lng" : 12.1931616
+               },
+               "southwest" : {
+                  "lat" : 44.40009149999999,
+                  "lng" : 12.19258
+               }
+            },
+            "location" : {
+               "lat" : 44.4016502,
+               "lng" : 12.1928207
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.40332189999999,
+                  "lng" : 12.1942197802915
+               },
+               "southwest" : {
+                  "lat" : 44.40009149999999,
+                  "lng" : 12.1915218197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj5t2jUn5fUcRRRcIgpcCG7M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Luigi Cilla",
+               "short_name" : "Viale Luigi Cilla",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Luigi Cilla, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4265304,
+                  "lng" : 12.2000227
+               },
+               "southwest" : {
+                  "lat" : 44.4255923,
+                  "lng" : 12.1937919
+               }
+            },
+            "location" : {
+               "lat" : 44.4263477,
+               "lng" : 12.1969264
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4274103302915,
+                  "lng" : 12.2000227
+               },
+               "southwest" : {
+                  "lat" : 44.4247123697085,
+                  "lng" : 12.1937919
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQwYYpfj7fUcRdElZL8LsqW4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Luigi Antonelli",
+               "short_name" : "Via Luigi Antonelli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Antonelli, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.42537859999999,
+                  "lng" : 12.1888249
+               },
+               "southwest" : {
+                  "lat" : 44.4211317,
+                  "lng" : 12.1882393
+               }
+            },
+            "location" : {
+               "lat" : 44.4231785,
+               "lng" : 12.1885643
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42537859999999,
+                  "lng" : 12.1898810802915
+               },
+               "southwest" : {
+                  "lat" : 44.4211317,
+                  "lng" : 12.1871831197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyYx3JQL8fUcRJxcxlamsuHA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Luigi Rossini",
+               "short_name" : "Via Luigi Rossini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Rossini, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4225108,
+                  "lng" : 12.1803186
+               },
+               "southwest" : {
+                  "lat" : 44.4176677,
+                  "lng" : 12.1796119
+               }
+            },
+            "location" : {
+               "lat" : 44.4188135,
+               "lng" : 12.1798361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4225108,
+                  "lng" : 12.1813142302915
+               },
+               "southwest" : {
+                  "lat" : 44.4176677,
+                  "lng" : 12.1786162697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ41wlS6b-fUcRptGpLiGBPOk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Luigi Galvani",
+               "short_name" : "Via Luigi Galvani",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Galvani, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4350904,
+                  "lng" : 12.2251225
+               },
+               "southwest" : {
+                  "lat" : 44.4336154,
+                  "lng" : 12.2224142
+               }
+            },
+            "location" : {
+               "lat" : 44.43450319999999,
+               "lng" : 12.2240787
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4357018802915,
+                  "lng" : 12.2251225
+               },
+               "southwest" : {
+                  "lat" : 44.4330039197085,
+                  "lng" : 12.2224142
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ2aT3ger7fUcRA6Da6kz2Nek",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Luigi Mercatelli",
+               "short_name" : "Via Luigi Mercatelli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luigi Mercatelli, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4095436,
+                  "lng" : 12.2072596
+               },
+               "southwest" : {
+                  "lat" : 44.4080156,
+                  "lng" : 12.2065065
+               }
+            },
+            "location" : {
+               "lat" : 44.4084837,
+               "lng" : 12.206936
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4101285802915,
+                  "lng" : 12.2082320302915
+               },
+               "southwest" : {
+                  "lat" : 44.4074306197085,
+                  "lng" : 12.2055340697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUe3-YUP5fUcRcLj32VBkhFc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

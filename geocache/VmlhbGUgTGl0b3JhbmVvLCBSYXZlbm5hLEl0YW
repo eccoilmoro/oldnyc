@@ -1,0 +1,140 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Litorale Marina",
+               "short_name" : "Viale Litorale Marina",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cesenatico",
+               "short_name" : "Cesenatico",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Forlì-Cesena",
+               "short_name" : "FC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47042",
+               "short_name" : "47042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Litorale Marina, 47042 Cesenatico FC, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.181515,
+                  "lng" : 12.4281358
+               },
+               "southwest" : {
+                  "lat" : 44.1689589,
+                  "lng" : 12.41393
+               }
+            },
+            "location" : {
+               "lat" : 44.1751492,
+               "lng" : 12.4210896
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.181515,
+                  "lng" : 12.4281358
+               },
+               "southwest" : {
+                  "lat" : 44.1689589,
+                  "lng" : 12.41393
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJU-6vdfO3LBMRn0leixZASQA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Litorale Marina",
+               "short_name" : "Viale Litorale Marina",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cesenatico",
+               "short_name" : "Cesenatico",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cesenatico",
+               "short_name" : "Cesenatico",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Forlì-Cesena",
+               "short_name" : "FC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47042",
+               "short_name" : "47042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Litorale Marina, 47042 Cesenatico FC, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.18769959999999,
+                  "lng" : 12.4154346
+               },
+               "southwest" : {
+                  "lat" : 44.1803242,
+                  "lng" : 12.407194
+               }
+            },
+            "location" : {
+               "lat" : 44.1836595,
+               "lng" : 12.4118076
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.18769959999999,
+                  "lng" : 12.4154346
+               },
+               "southwest" : {
+                  "lat" : 44.1803242,
+                  "lng" : 12.407194
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZZ1kNI23LBMRvzdBWlhCgFc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

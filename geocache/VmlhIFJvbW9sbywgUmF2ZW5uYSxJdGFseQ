@@ -1,0 +1,355 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Romolo Ricci",
+               "short_name" : "Via Romolo Ricci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Romolo Ricci, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.411687,
+                  "lng" : 12.2016869
+               },
+               "southwest" : {
+                  "lat" : 44.4112983,
+                  "lng" : 12.2002379
+               }
+            },
+            "location" : {
+               "lat" : 44.4114317,
+               "lng" : 12.2010466
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4128416302915,
+                  "lng" : 12.2023113802915
+               },
+               "southwest" : {
+                  "lat" : 44.4101436697085,
+                  "lng" : 12.1996134197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn6ykEVD5fUcRJ_CxLzcsXHg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Romolo Conti",
+               "short_name" : "Via Romolo Conti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Romolo Conti, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4224342,
+                  "lng" : 12.1813181
+               },
+               "southwest" : {
+                  "lat" : 44.418588,
+                  "lng" : 12.1804884
+               }
+            },
+            "location" : {
+               "lat" : 44.42100970000001,
+               "lng" : 12.1808914
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4224342,
+                  "lng" : 12.1822522302915
+               },
+               "southwest" : {
+                  "lat" : 44.418588,
+                  "lng" : 12.1795542697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJbU47z6f-fUcRckJHpzfRSzY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Romolo Murri",
+               "short_name" : "Via Romolo Murri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Romolo Murri, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4172884,
+                  "lng" : 12.1746031
+               },
+               "southwest" : {
+                  "lat" : 44.41604900000001,
+                  "lng" : 12.1733678
+               }
+            },
+            "location" : {
+               "lat" : 44.41642299999999,
+               "lng" : 12.1737298
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4180176802915,
+                  "lng" : 12.1753344302915
+               },
+               "southwest" : {
+                  "lat" : 44.4153197197085,
+                  "lng" : 12.1726364697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaV4MiKP-fUcRl2zf5UJ2bG4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Romolo Gessi",
+               "short_name" : "Via Romolo Gessi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Romolo Gessi, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4159955,
+                  "lng" : 12.1983375
+               },
+               "southwest" : {
+                  "lat" : 44.4156347,
+                  "lng" : 12.1979796
+               }
+            },
+            "location" : {
+               "lat" : 44.4158998,
+               "lng" : 12.1982415
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4171640802915,
+                  "lng" : 12.1995075302915
+               },
+               "southwest" : {
+                  "lat" : 44.4144661197085,
+                  "lng" : 12.1968095697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ18GzVFH5fUcRXZzxIK9NNa8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Romolo Zaccaroni",
+               "short_name" : "Via Romolo Zaccaroni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Pietro In Vincoli",
+               "short_name" : "San Pietro In Vincoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Romolo Zaccaroni, 48125 San Pietro In Vincoli RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3000092,
+                  "lng" : 12.149667
+               },
+               "southwest" : {
+                  "lat" : 44.2994147,
+                  "lng" : 12.1485543
+               }
+            },
+            "location" : {
+               "lat" : 44.2997235,
+               "lng" : 12.1491049
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3010609302915,
+                  "lng" : 12.1504596302915
+               },
+               "southwest" : {
+                  "lat" : 44.2983629697085,
+                  "lng" : 12.1477616697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ_YMKJKrLBMRkCl8cxCzTSE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

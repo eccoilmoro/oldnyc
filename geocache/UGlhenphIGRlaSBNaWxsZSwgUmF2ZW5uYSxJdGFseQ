@@ -1,0 +1,560 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale dei Mille",
+               "short_name" : "Viale dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale dei Mille, 48122 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4880336,
+                  "lng" : 12.281156
+               },
+               "southwest" : {
+                  "lat" : 44.4872504,
+                  "lng" : 12.2730234
+               }
+            },
+            "location" : {
+               "lat" : 44.4875672,
+               "lng" : 12.2769464
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4889909802915,
+                  "lng" : 12.281156
+               },
+               "southwest" : {
+                  "lat" : 44.4862930197085,
+                  "lng" : 12.2730234
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx1gPvSzlfUcRy0_NpkarvkI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale dei Mille",
+               "short_name" : "Viale dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale dei Mille, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.26305,
+                  "lng" : 12.358812
+               },
+               "southwest" : {
+                  "lat" : 44.2595709,
+                  "lng" : 12.3503055
+               }
+            },
+            "location" : {
+               "lat" : 44.2609769,
+               "lng" : 12.3549516
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.26305,
+                  "lng" : 12.358812
+               },
+               "southwest" : {
+                  "lat" : 44.2595709,
+                  "lng" : 12.3503055
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgQiv_wS0LBMR5m4hDwaVbzU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via dei Mille",
+               "short_name" : "Via dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castel Bolognese",
+               "short_name" : "Castel Bolognese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castel Bolognese",
+               "short_name" : "Castel Bolognese",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48014",
+               "short_name" : "48014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via dei Mille, 48014 Castel Bolognese RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3180709,
+                  "lng" : 11.803444
+               },
+               "southwest" : {
+                  "lat" : 44.3157463,
+                  "lng" : 11.8003105
+               }
+            },
+            "location" : {
+               "lat" : 44.3167278,
+               "lng" : 11.8020212
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.31825758029149,
+                  "lng" : 11.803444
+               },
+               "southwest" : {
+                  "lat" : 44.3155596197085,
+                  "lng" : 11.8003105
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb1sxAQFMKxMRPKurBq3xO18",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via dei Mille",
+               "short_name" : "Via dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48011",
+               "short_name" : "48011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via dei Mille, 48011 Alfonsine RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5052499,
+                  "lng" : 12.0425485
+               },
+               "southwest" : {
+                  "lat" : 44.5049123,
+                  "lng" : 12.0412422
+               }
+            },
+            "location" : {
+               "lat" : 44.505021,
+               "lng" : 12.0419172
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5064300802915,
+                  "lng" : 12.0432443302915
+               },
+               "southwest" : {
+                  "lat" : 44.5037321197085,
+                  "lng" : 12.0405463697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZXd_WAYGfkcRIje7VPv9Tvk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via dei Mille",
+               "short_name" : "Via dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via dei Mille, 48022 Lugo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4135251,
+                  "lng" : 11.916158
+               },
+               "southwest" : {
+                  "lat" : 44.4120719,
+                  "lng" : 11.9150142
+               }
+            },
+            "location" : {
+               "lat" : 44.4129046,
+               "lng" : 11.9156707
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4141474802915,
+                  "lng" : 11.9169350802915
+               },
+               "southwest" : {
+                  "lat" : 44.4114495197085,
+                  "lng" : 11.9142371197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJq-jbAtgCfkcR5JCW3e54hwk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via dei Mille",
+               "short_name" : "Via dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barbiano",
+               "short_name" : "Barbiano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cotignola",
+               "short_name" : "Cotignola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via dei Mille, 48010 Barbiano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3840849,
+                  "lng" : 11.8860077
+               },
+               "southwest" : {
+                  "lat" : 44.3838234,
+                  "lng" : 11.8853878
+               }
+            },
+            "location" : {
+               "lat" : 44.3838234,
+               "lng" : 11.8859834
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3853031302915,
+                  "lng" : 11.8870467302915
+               },
+               "southwest" : {
+                  "lat" : 44.3826051697085,
+                  "lng" : 11.8843487697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUddr_1MdfkcRIey4tXJj_Uc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via dei Mille",
+               "short_name" : "Via dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fognano",
+               "short_name" : "Fognano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brisighella",
+               "short_name" : "Brisighella",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48013",
+               "short_name" : "48013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via dei Mille, 48013 Fognano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.20503799999999,
+                  "lng" : 11.739639
+               },
+               "southwest" : {
+                  "lat" : 44.204265,
+                  "lng" : 11.739008
+               }
+            },
+            "location" : {
+               "lat" : 44.2043579,
+               "lng" : 11.7392513
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.20600048029149,
+                  "lng" : 11.7406724802915
+               },
+               "southwest" : {
+                  "lat" : 44.20330251970849,
+                  "lng" : 11.7379745197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_5t86whHKxMRI-9nR-s9-GM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Quarto dei Mille",
+               "short_name" : "Via Quarto dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Voltana",
+               "short_name" : "Voltana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Quarto dei Mille, 48022 Voltana RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5428195,
+                  "lng" : 11.9380388
+               },
+               "southwest" : {
+                  "lat" : 44.5412192,
+                  "lng" : 11.9365889
+               }
+            },
+            "location" : {
+               "lat" : 44.54196950000001,
+               "lng" : 11.937844
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5433683302915,
+                  "lng" : 11.9386628302915
+               },
+               "southwest" : {
+                  "lat" : 44.5406703697085,
+                  "lng" : 11.9359648697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJq9ImMD4QfkcRl58pvIBycWE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

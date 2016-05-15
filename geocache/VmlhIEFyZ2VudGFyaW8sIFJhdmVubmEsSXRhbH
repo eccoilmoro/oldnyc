@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giuliano Argentario",
+               "short_name" : "Via Giuliano Argentario",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giuliano Argentario, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4199261,
+                  "lng" : 12.1964627
+               },
+               "southwest" : {
+                  "lat" : 44.419209,
+                  "lng" : 12.195898
+               }
+            },
+            "location" : {
+               "lat" : 44.41956829999999,
+               "lng" : 12.1961555
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42091653029149,
+                  "lng" : 12.1975293302915
+               },
+               "southwest" : {
+                  "lat" : 44.41821856970849,
+                  "lng" : 12.1948313697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlWWxdFX5fUcRtY6ajlDJDms",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

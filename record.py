@@ -142,15 +142,43 @@ class Record:
     if txt == 'nd':
       return [None, None]
 
+    # Just a string like Primi dell'800
+    year = ExtractRegex(r'^Primi.*(\d{3}\s)', txt)
+    if year:
+      start = date(int(year)+1000, 1, 1)
+      end = date(int(year)+1000, 12, 31)
+      return [start, end]
+
+    # Just a string like Fine dell'800
+    year = ExtractRegex(r'^Fine.*(\d{3}\s)', txt)
+    if year:
+      start = date(int(year)+1000, 1, 1)
+      end = date(int(year)+1000, 12, 31)
+      return [start, end]
+
+    # Just a string starting AA e.g. 80 
+    year = ExtractRegex(r'^(\d{2}\s)', txt)
+    if year:
+      start = date(int(year)+1900, 1, 1)
+      end = date(int(year)+1900, 12, 31)
+      return [start, end]
+
+    # Just a string like Anni 90 or Anni '80'
+    year = ExtractRegex(r'[A|a]nni.*(\d{2})', txt)
+    if year:
+      start = date(int(year)+1900, 1, 1)
+      end = date(int(year)+1900, 12, 31)
+      return [start, end]
+
     # Just a year, e.g. "1928."
-    year = ExtractRegex(r'^(\d{4})$', txt)
+    year = ExtractRegex(r'(\d{4})$', txt)
     if year:
       start = date(int(year), 1, 1)
       end = date(int(year), 12, 31)
       return [start, end]
 
     # A "circa" year, e.g. "[ca. 1915]"
-    ca_year = ExtractRegex(r'^ca? ?(\d{4})$', txt)
+    ca_year = ExtractRegex(r'^ca? ?(\d{4})$', txt)  
     if ca_year:
       y = int(ca_year)
       start = date(y - 1, 1, 1)

@@ -1,0 +1,214 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazzale Foro Boario",
+               "short_name" : "Piazzale Foro Boario",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fognano",
+               "short_name" : "Fognano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brisighella",
+               "short_name" : "Brisighella",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48013",
+               "short_name" : "48013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazzale Foro Boario, 48013 Fognano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2029149,
+                  "lng" : 11.7290063
+               },
+               "southwest" : {
+                  "lat" : 44.2021163,
+                  "lng" : 11.7279378
+               }
+            },
+            "location" : {
+               "lat" : 44.202258,
+               "lng" : 11.7287588
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.20386458029149,
+                  "lng" : 11.7298210302915
+               },
+               "southwest" : {
+                  "lat" : 44.20116661970849,
+                  "lng" : 11.7271230697085
+               }
+            }
+         },
+         "place_id" : "ChIJkZ7OPXNHKxMRY-MG_BMZ3QQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza del foro boario",
+               "short_name" : "Piazza del foro boario",
+               "types" : []
+            },
+            {
+               "long_name" : "San Pietro In Vincoli",
+               "short_name" : "San Pietro In Vincoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza del foro boario, 48125 San Pietro In Vincoli RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3000686,
+                  "lng" : 12.1482584
+               },
+               "southwest" : {
+                  "lat" : 44.2992278,
+                  "lng" : 12.1470541
+               }
+            },
+            "location" : {
+               "lat" : 44.29962949999999,
+               "lng" : 12.1476388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3009971802915,
+                  "lng" : 12.1490052302915
+               },
+               "southwest" : {
+                  "lat" : 44.2982992197085,
+                  "lng" : 12.1463072697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqabD3ZOrLBMRuaQqyKCWMKQ",
+         "types" : []
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Foro Boario",
+               "short_name" : "Via Foro Boario",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Foro Boario, 48022 Lugo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4240867,
+                  "lng" : 11.9116729
+               },
+               "southwest" : {
+                  "lat" : 44.42170249999999,
+                  "lng" : 11.9048716
+               }
+            },
+            "location" : {
+               "lat" : 44.4231815,
+               "lng" : 11.9079651
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42424358029149,
+                  "lng" : 11.9116729
+               },
+               "southwest" : {
+                  "lat" : 44.42154561970849,
+                  "lng" : 11.9048716
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQaunUS0DfkcRG38e6BZFsPc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

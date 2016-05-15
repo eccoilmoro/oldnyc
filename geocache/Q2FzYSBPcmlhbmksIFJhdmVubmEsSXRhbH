@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Alfredo Oriani in Granarolo",
+               "short_name" : "Via Alfredo Oriani in Granarolo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Granarolo",
+               "short_name" : "Granarolo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Alfredo Oriani in Granarolo, 48018 Granarolo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.35912,
+                  "lng" : 11.93566
+               },
+               "southwest" : {
+                  "lat" : 44.3583825,
+                  "lng" : 11.9350958
+               }
+            },
+            "location" : {
+               "lat" : 44.358702,
+               "lng" : 11.9353845
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.36010023029149,
+                  "lng" : 11.9367268802915
+               },
+               "southwest" : {
+                  "lat" : 44.35740226970849,
+                  "lng" : 11.9340289197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpyZDmSBTKxMR5Yo7czgfm5o",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

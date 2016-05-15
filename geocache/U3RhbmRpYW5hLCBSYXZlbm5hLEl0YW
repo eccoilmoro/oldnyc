@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Standiana",
+               "short_name" : "Via Standiana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Standiana, 48125 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3340093,
+                  "lng" : 12.2715395
+               },
+               "southwest" : {
+                  "lat" : 44.323655,
+                  "lng" : 12.2508255
+               }
+            },
+            "location" : {
+               "lat" : 44.3287211,
+               "lng" : 12.261911
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3340093,
+                  "lng" : 12.2715395
+               },
+               "southwest" : {
+                  "lat" : 44.323655,
+                  "lng" : 12.2508255
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVfA0XrGyLBMRLPxsfMHtRwY",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

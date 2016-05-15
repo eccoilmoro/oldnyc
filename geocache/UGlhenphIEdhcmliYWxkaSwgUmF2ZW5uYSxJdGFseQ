@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Giuseppe Garibaldi",
+               "short_name" : "Piazza Giuseppe Garibaldi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Giuseppe Garibaldi, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4179405,
+                  "lng" : 12.2010077
+               },
+               "southwest" : {
+                  "lat" : 44.4170154,
+                  "lng" : 12.2002664
+               }
+            },
+            "location" : {
+               "lat" : 44.41760619999999,
+               "lng" : 12.2003912
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4188269302915,
+                  "lng" : 12.2019860302915
+               },
+               "southwest" : {
+                  "lat" : 44.4161289697085,
+                  "lng" : 12.1992880697085
+               }
+            }
+         },
+         "place_id" : "ChIJ88AQ8Fb5fUcRPvY3Hxg234A",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

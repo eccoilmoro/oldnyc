@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Voltana Fronte Casa Del Popolo",
+               "short_name" : "Voltana Fronte Casa Del Popolo",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Voltana",
+               "short_name" : "Voltana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Voltana Fronte Casa Del Popolo, 48022 Voltana RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.540598,
+               "lng" : 11.933716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.54194698029149,
+                  "lng" : 11.9350649802915
+               },
+               "southwest" : {
+                  "lat" : 44.53924901970849,
+                  "lng" : 11.9323670197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgfz5MhUQfkcRd6HqwUvS2Qs",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

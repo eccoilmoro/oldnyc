@@ -1,0 +1,210 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Piero Calamandrei",
+               "short_name" : "Via Piero Calamandrei",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Piero Calamandrei, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4077208,
+                  "lng" : 12.1772226
+               },
+               "southwest" : {
+                  "lat" : 44.407469,
+                  "lng" : 12.1763255
+               }
+            },
+            "location" : {
+               "lat" : 44.40764420000001,
+               "lng" : 12.1767741
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4089438802915,
+                  "lng" : 12.1781230302915
+               },
+               "southwest" : {
+                  "lat" : 44.4062459197085,
+                  "lng" : 12.1754250697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD3rxabf-fUcRtsGF4B0XWtI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Piero Gobetti",
+               "short_name" : "Via Piero Gobetti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Piero Gobetti, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4080156,
+                  "lng" : 12.2073919
+               },
+               "southwest" : {
+                  "lat" : 44.4068557,
+                  "lng" : 12.2070207
+               }
+            },
+            "location" : {
+               "lat" : 44.4074017,
+               "lng" : 12.207265
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4087846302915,
+                  "lng" : 12.2085552802915
+               },
+               "southwest" : {
+                  "lat" : 44.4060866697085,
+                  "lng" : 12.2058573197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ60AGm0P5fUcRykMbpu1Be9M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Piero della Francesca",
+               "short_name" : "Via Piero della Francesca",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Piero della Francesca, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4087324,
+                  "lng" : 12.1164664
+               },
+               "southwest" : {
+                  "lat" : 44.4077353,
+                  "lng" : 12.1158472
+               }
+            },
+            "location" : {
+               "lat" : 44.4084773,
+               "lng" : 12.1160392
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.40958283029151,
+                  "lng" : 12.1175057802915
+               },
+               "southwest" : {
+                  "lat" : 44.40688486970851,
+                  "lng" : 12.1148078197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKx6PeD_-fUcR_fE03cbSitk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

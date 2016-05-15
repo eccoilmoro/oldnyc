@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Giardini Pubblici",
+               "short_name" : "Giardini Pubblici",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale Santi Baldini",
+               "short_name" : "Viale Santi Baldini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Giardini Pubblici, Viale Santi Baldini, 4, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.41445909999999,
+               "lng" : 12.2081345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41580808029149,
+                  "lng" : 12.2094834802915
+               },
+               "southwest" : {
+                  "lat" : 44.41311011970849,
+                  "lng" : 12.2067855197085
+               }
+            }
+         },
+         "place_id" : "ChIJzdr45Vv5fUcRpHJd_cVSj14",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

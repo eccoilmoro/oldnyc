@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Ravenna",
+               "short_name" : "Via Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bellaria-Igea Marina",
+               "short_name" : "Bellaria-Igea Marina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Rimini",
+               "short_name" : "RN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47814",
+               "short_name" : "47814",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Ravenna, 47814 Bellaria-Igea Marina RN, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.1295156,
+                  "lng" : 12.4827383
+               },
+               "southwest" : {
+                  "lat" : 44.1107172,
+                  "lng" : 12.470825
+               }
+            },
+            "location" : {
+               "lat" : 44.1197281,
+               "lng" : 12.4755263
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1295156,
+                  "lng" : 12.4827383
+               },
+               "southwest" : {
+                  "lat" : 44.1107172,
+                  "lng" : 12.470825
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPYJBcAjHLBMRs1wTxiPdwMg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

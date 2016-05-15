@@ -1,0 +1,271 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Chiesa",
+               "short_name" : "Via Chiesa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Chiesa, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4211933,
+                  "lng" : 12.1924341
+               },
+               "southwest" : {
+                  "lat" : 44.42038340000001,
+                  "lng" : 12.1922962
+               }
+            },
+            "location" : {
+               "lat" : 44.4207929,
+               "lng" : 12.1923393
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4221373302915,
+                  "lng" : 12.1937141302915
+               },
+               "southwest" : {
+                  "lat" : 44.41943936970851,
+                  "lng" : 12.1910161697085
+               }
+            }
+         },
+         "place_id" : "ChIJf7fdmKr-fUcRjTD-fv6PTbw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Chiesa",
+               "short_name" : "Via Chiesa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Massa",
+               "short_name" : "Massa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Chiesa, 48125 Massa RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2857807,
+                  "lng" : 12.1626866
+               },
+               "southwest" : {
+                  "lat" : 44.2651079,
+                  "lng" : 12.1310968
+               }
+            },
+            "location" : {
+               "lat" : 44.2700308,
+               "lng" : 12.143929
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2857807,
+                  "lng" : 12.1626866
+               },
+               "southwest" : {
+                  "lat" : 44.2651079,
+                  "lng" : 12.1310968
+               }
+            }
+         },
+         "place_id" : "ChIJX3EJyVipLBMRdJ-BBwO-ves",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Chiesa",
+               "short_name" : "Via Chiesa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Marco",
+               "short_name" : "San Marco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Chiesa, 48124 San Marco RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3732766,
+                  "lng" : 12.1432112
+               },
+               "southwest" : {
+                  "lat" : 44.3697943,
+                  "lng" : 12.1331605
+               }
+            },
+            "location" : {
+               "lat" : 44.372172,
+               "lng" : 12.1390426
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3732766,
+                  "lng" : 12.1432112
+               },
+               "southwest" : {
+                  "lat" : 44.3697943,
+                  "lng" : 12.1331605
+               }
+            }
+         },
+         "place_id" : "ChIJtWuJtxL_fUcRIUDbGWMFg3Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Chiesa",
+               "short_name" : "Via Chiesa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Chiesa, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3310535,
+                  "lng" : 12.1496357
+               },
+               "southwest" : {
+                  "lat" : 44.3229974,
+                  "lng" : 12.1378266
+               }
+            },
+            "location" : {
+               "lat" : 44.3274039,
+               "lng" : 12.1438912
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3310535,
+                  "lng" : 12.1496357
+               },
+               "southwest" : {
+                  "lat" : 44.3229974,
+                  "lng" : 12.1378266
+               }
+            }
+         },
+         "place_id" : "ChIJ8R9CXGyrLBMRhlW3J9EVZmU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -137,9 +137,18 @@ if __name__ == '__main__':
 
       lat_lon = None
       try:
+        sys.stderr.write('Tryng to geocode %s\n' % location_data['address'])
         geocode_result = g.Locate(location_data['address'])
+        #sys.stderr.write('%s\n' % geocode_result)
         if geocode_result:
           lat_lon = c.getLatLonFromGeocode(geocode_result, location_data, r)
+
+          
+          #sys.stderr.write( '%s\t%f,%f\t%s\t%s' % (
+          #    r.photo_id(), lat_lon[0], lat_lon[1], c.name(),
+          #    json.dumps(location_data)))
+
+
         else:
           sys.stderr.write('Failed to geocode %s\n' % r.photo_id())
           # sys.stderr.write('Location: %s\n' % location_data['address'])

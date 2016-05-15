@@ -41,9 +41,9 @@ streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|
 
 #
 
-address3_re = r'((?:Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Chiesa di)\s+(?:San|S.|Santi|Santissimo|Santissima|XX|IV)\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Mausoleo|Palazzo|Circonvallazione|Battistero|Molo|Canale)\s+[a-z]+\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Piazza Anita|Piazza Dora|Piazza Andrea|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Ponte|Giardini|giardini|Porto|Darsena|S.|San|Santa|Sant.|Biblioteca|Loggetta|Bagno|Villaggio|Torre|Pialassa|Molo|Hotel|Circolo|Battistero|Teatro|Canale)\s+[A-Z]{1}[a-z]+|(?:Darsena|darsena|[S,s]tazione|[I,i]ppodromo|Mirabilandia|Standiana|Candiano|Baretto|Mercato Coperto|Anic|Sarom|Portonaccio|Pala de Andr.|colonia|Colonia|S.Apollinare|Duomo|Diga|Capanno Garibaldi|Rocca Brancaleone|Piazza dell.Aquila|Sant.Apollinare|[O,o]spedale|[f,F]aro|Tomba di Dante|Stadio))'
+address3_re = ur'(?:Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Chiesa di)\s+(?:San|S.|Santi|Santissimo|Santissima|XX|IV)\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Mausoleo|Palazzo|Circonvallazione|Battistero|Molo|Canale)\s+[a-zA-Z]+\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Piazza Anita|Piazza Dora|Piazza Andrea|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Ponte|Giardini|giardini|Porto|Darsena|S.|San|Santa|Sant.|Biblioteca|Loggetta|Bagno|Villaggio|Torre|Pialassa|Molo|Hotel|Circolo|Battistero|Teatro|Canale)\s+[A-Z]{1}[a-z]+|(?:Darsena|darsena|[S,s]tazione|[I,i]ppodromo|Mirabilandia|Standiana|Candiano|Baretto|Mercato Coperto|Anic|Sarom|Portonaccio|Pala de Andr.|colonia|Colonia|S.Apollinare|Duomo|Diga|Capanno Garibaldi|Rocca Brancaleone|Piazza dell.Aquila|Sant.Apollinare|[O,o]spedale|[f,F]aro|Tomba di Dante|Stadio|S Giovanni Evangelista)'
 
-city_re = r'(?:Marina di Ravenna|Punta Marina|Cervia|Milano Marittima|Classe|Lido Adriano|Casal Borsetti|Marina Romea|Porto Corsini|Lido di Savio|Lido di Dante|Fosso Ghiaia|Coccolia)'
+city_re = ur'(?:Marina di Ravenna|Punta Marina|Cervia|Milano Marittima|Classe|Lido Adriano|Casal Borsetti|Marina Romea|Porto Corsini|Lido di Savio|Lido di Dante|Fosso Ghiaia|Coccolia)'
 
 #address4_re = r'((%s .* ))' % (boros)
 
@@ -90,21 +90,27 @@ class RavennaCoder:
     #determine the city
     for pattern in city_patterns:
         #sys.stderr.write("0-City:" + loc+" ")
-        m = re.match(pattern, loc)
+        #m = re.match(pattern, loc)
+        p = re.compile(pattern)
+        m = re.search(p, loc)
         if m: break
     if m:
-      city=m.group(0)
+      city=m.group(0)+',Italy'
     else:
-      city='Ravenna'
+      city='Ravenna,Italy'
 
     m = None
 
     for pattern in addr_patterns:
-      #sys.stderr.write("1-Loc:" + loc+" ")
-      m = re.match(pattern, loc)
+      sys.stderr.write("1-Loc:" + loc+" ")
+
+      p = re.compile(pattern)
+      m = re.search(p, loc)
+
+      #m = re.match(pattern, loc)
       if m: break
     if m:
-      #sys.stderr.write('2-Resp : Trovata la via! ')
+      sys.stderr.write('2-Resp : Trovata la via! ')
       #number, street, city = m.groups()
       #sys.stderr.write('3-Trovato ' + m.group(0) + ' \n')
       street = m.group(0)
@@ -122,7 +128,7 @@ class RavennaCoder:
           'type': 'street_address'
         }
     else:
-       #sys.stderr.write('2-Resp : NON Trovata la via! \n')
+       sys.stderr.write('2-Resp : NON Trovata la via! \n')
        #geocodes just the city
        return {
           #'address': '%s %s, %s' % (number, street, city),
@@ -146,7 +152,7 @@ class RavennaCoder:
       # partial matches tend to be inaccurate.
       # if result.get('partial_match'): continue
       # data['type'] is something like 'address' or 'intersection'.
-      if data['type'] in result['types']:
+      #if data['type'] in result['types']:
         loc = result['geometry']['location']
         return (loc['lat'], loc['lng'])
 

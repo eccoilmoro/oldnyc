@@ -1,0 +1,260 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Circonvallazione Canale Molinetto",
+               "short_name" : "Via Circonvallazione Canale Molinetto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Circonvallazione Canale Molinetto, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4359259,
+                  "lng" : 12.2738707
+               },
+               "southwest" : {
+                  "lat" : 44.4315007,
+                  "lng" : 12.2587126
+               }
+            },
+            "location" : {
+               "lat" : 44.4344475,
+               "lng" : 12.2658128
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4359259,
+                  "lng" : 12.2738707
+               },
+               "southwest" : {
+                  "lat" : 44.4315007,
+                  "lng" : 12.2587126
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRWBVGTr6fUcRpJL8zfr4dCA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Canale Magni",
+               "short_name" : "Via Canale Magni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Area Industriale",
+               "short_name" : "Area Industriale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Canale Magni, 48123 Area Industriale RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4649951,
+                  "lng" : 12.2382715
+               },
+               "southwest" : {
+                  "lat" : 44.4571376,
+                  "lng" : 12.2195114
+               }
+            },
+            "location" : {
+               "lat" : 44.4624338,
+               "lng" : 12.2313821
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4649951,
+                  "lng" : 12.2382715
+               },
+               "southwest" : {
+                  "lat" : 44.4571376,
+                  "lng" : 12.2195114
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF1TRP3L7fUcRcmXmBvlhKJs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Canale Marini",
+               "short_name" : "Via Canale Marini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Canale Marini, 48122 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4419397,
+                  "lng" : 12.2726003
+               },
+               "southwest" : {
+                  "lat" : 44.441593,
+                  "lng" : 12.2571852
+               }
+            },
+            "location" : {
+               "lat" : 44.4417779,
+               "lng" : 12.2657838
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4431153302915,
+                  "lng" : 12.2726003
+               },
+               "southwest" : {
+                  "lat" : 44.4404173697085,
+                  "lng" : 12.2571852
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJt2r6yFr6fUcRqTz_YK34nNM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Destra Canale Molinetto",
+               "short_name" : "Via Destra Canale Molinetto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Destra Canale Molinetto, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4187868,
+                  "lng" : 12.2312013
+               },
+               "southwest" : {
+                  "lat" : 44.41204,
+                  "lng" : 12.21432
+               }
+            },
+            "location" : {
+               "lat" : 44.4172549,
+               "lng" : 12.227183
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4187868,
+                  "lng" : 12.2312013
+               },
+               "southwest" : {
+                  "lat" : 44.41204,
+                  "lng" : 12.21432
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz9XButf7fUcRTxh5tojG3sM",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

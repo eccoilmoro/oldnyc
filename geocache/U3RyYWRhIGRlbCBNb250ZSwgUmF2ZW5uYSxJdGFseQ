@@ -1,0 +1,700 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte Sabotino",
+               "short_name" : "Via Monte Sabotino",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte Sabotino, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4089192,
+                  "lng" : 12.1964824
+               },
+               "southwest" : {
+                  "lat" : 44.4086732,
+                  "lng" : 12.1943156
+               }
+            },
+            "location" : {
+               "lat" : 44.4088125,
+               "lng" : 12.1957572
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41014518029149,
+                  "lng" : 12.1967479802915
+               },
+               "southwest" : {
+                  "lat" : 44.4074472197085,
+                  "lng" : 12.1940500197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgX_NhU75fUcRacCjxvGT57E",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte Rosa",
+               "short_name" : "Via Monte Rosa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte Rosa, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4371198,
+                  "lng" : 12.1949749
+               },
+               "southwest" : {
+                  "lat" : 44.4364382,
+                  "lng" : 12.193297
+               }
+            },
+            "location" : {
+               "lat" : 44.4368732,
+               "lng" : 12.1938818
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4381279802915,
+                  "lng" : 12.1954849302915
+               },
+               "southwest" : {
+                  "lat" : 44.4354300197085,
+                  "lng" : 12.1927869697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJubdVbwz8fUcRwYciDLFAKXQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte Bianco",
+               "short_name" : "Via Monte Bianco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte Bianco, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.439117,
+                  "lng" : 12.1950118
+               },
+               "southwest" : {
+                  "lat" : 44.4361659,
+                  "lng" : 12.1924218
+               }
+            },
+            "location" : {
+               "lat" : 44.4375918,
+               "lng" : 12.1936884
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.439117,
+                  "lng" : 12.1950657802915
+               },
+               "southwest" : {
+                  "lat" : 44.4361659,
+                  "lng" : 12.1923678197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSVxn8wz8fUcR47W7ZRdaAM8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte Grappa",
+               "short_name" : "Via Monte Grappa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte Grappa, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4140895,
+                  "lng" : 12.1934575
+               },
+               "southwest" : {
+                  "lat" : 44.4119851,
+                  "lng" : 12.1894002
+               }
+            },
+            "location" : {
+               "lat" : 44.4129504,
+               "lng" : 12.1915918
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4143862802915,
+                  "lng" : 12.1934575
+               },
+               "southwest" : {
+                  "lat" : 44.4116883197085,
+                  "lng" : 12.1894002
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRVEEuFL5fUcRXPOUa1uenAA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte Nero",
+               "short_name" : "Via Monte Nero",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Monte Nero, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4078589,
+                  "lng" : 12.1985552
+               },
+               "southwest" : {
+                  "lat" : 44.4068888,
+                  "lng" : 12.194139
+               }
+            },
+            "location" : {
+               "lat" : 44.4073581,
+               "lng" : 12.1963326
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4087228302915,
+                  "lng" : 12.1985552
+               },
+               "southwest" : {
+                  "lat" : 44.4060248697085,
+                  "lng" : 12.194139
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqxJqxU75fUcRYfio6mW4UNQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte Adamello",
+               "short_name" : "Via Monte Adamello",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte Adamello, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4119629,
+                  "lng" : 12.1976303
+               },
+               "southwest" : {
+                  "lat" : 44.4116039,
+                  "lng" : 12.194855
+               }
+            },
+            "location" : {
+               "lat" : 44.4118293,
+               "lng" : 12.1960227
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4131323802915,
+                  "lng" : 12.1976303
+               },
+               "southwest" : {
+                  "lat" : 44.4104344197085,
+                  "lng" : 12.194855
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ4BY-FH5fUcRDlVBHXaDm54",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte San Marco",
+               "short_name" : "Via Monte S. Marco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte S. Marco, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4101777,
+                  "lng" : 12.194206
+               },
+               "southwest" : {
+                  "lat" : 44.4082624,
+                  "lng" : 12.1933066
+               }
+            },
+            "location" : {
+               "lat" : 44.4095162,
+               "lng" : 12.1935764
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4105690302915,
+                  "lng" : 12.1951052802915
+               },
+               "southwest" : {
+                  "lat" : 44.4078710697085,
+                  "lng" : 12.1924073197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn03qNEz5fUcRAJOL3buOrzs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte San Michele",
+               "short_name" : "Via Monte S. Michele",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte S. Michele, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4103715,
+                  "lng" : 12.1945123
+               },
+               "southwest" : {
+                  "lat" : 44.4100585,
+                  "lng" : 12.192444
+               }
+            },
+            "location" : {
+               "lat" : 44.4102423,
+               "lng" : 12.1932251
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4115639802915,
+                  "lng" : 12.1948271302915
+               },
+               "southwest" : {
+                  "lat" : 44.4088660197085,
+                  "lng" : 12.1921291697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS14MvE35fUcRVXIFb0DJxBU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte Cimone",
+               "short_name" : "Via Monte Cimone",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte Cimone, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4088753,
+                  "lng" : 12.1991349
+               },
+               "southwest" : {
+                  "lat" : 44.4084555,
+                  "lng" : 12.1988977
+               }
+            },
+            "location" : {
+               "lat" : 44.4087091,
+               "lng" : 12.1990717
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41001438029149,
+                  "lng" : 12.2003652802915
+               },
+               "southwest" : {
+                  "lat" : 44.4073164197085,
+                  "lng" : 12.1976673197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJr_95Ck_5fUcRvIgbhfW2cGQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Monte San Gabriele",
+               "short_name" : "Via Monte S. Gabriele",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Monte S. Gabriele, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4102423,
+                  "lng" : 12.1932464
+               },
+               "southwest" : {
+                  "lat" : 44.408599,
+                  "lng" : 12.1924242
+               }
+            },
+            "location" : {
+               "lat" : 44.4094256,
+               "lng" : 12.192702
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41076963029149,
+                  "lng" : 12.1941842802915
+               },
+               "southwest" : {
+                  "lat" : 44.4080716697085,
+                  "lng" : 12.1914863197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJW9ZVrU35fUcROSWMysy4Fi0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

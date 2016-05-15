@@ -1,0 +1,145 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via del Mercato",
+               "short_name" : "Via del Mercato",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bubano",
+               "short_name" : "Bubano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mordano",
+               "short_name" : "Mordano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Bologna",
+               "short_name" : "BO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "40027",
+               "short_name" : "40027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via del Mercato, 40027 Bubano BO, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.411012,
+                  "lng" : 11.7824651
+               },
+               "southwest" : {
+                  "lat" : 44.4106041,
+                  "lng" : 11.7814838
+               }
+            },
+            "location" : {
+               "lat" : 44.4109794,
+               "lng" : 11.7814838
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4121570302915,
+                  "lng" : 11.7833234302915
+               },
+               "southwest" : {
+                  "lat" : 44.4094590697085,
+                  "lng" : 11.7806254697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXX4RSkAefkcRBAnmh25KXRk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Mercato Vecchio",
+               "short_name" : "Via Mercato Vecchio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Modigliana",
+               "short_name" : "Modigliana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Modigliana",
+               "short_name" : "Modigliana",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Forlì-Cesena",
+               "short_name" : "FC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47015",
+               "short_name" : "47015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Mercato Vecchio, 47015 Modigliana FC, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.158186,
+                  "lng" : 11.7964953
+               },
+               "southwest" : {
+                  "lat" : 44.1572049,
+                  "lng" : 11.7949144
+               }
+            },
+            "location" : {
+               "lat" : 44.1578103,
+               "lng" : 11.7958375
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1590444302915,
+                  "lng" : 11.7970538302915
+               },
+               "southwest" : {
+                  "lat" : 44.1563464697085,
+                  "lng" : 11.7943558697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEzHRSFZBKxMRdrSwM-QXcKU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
