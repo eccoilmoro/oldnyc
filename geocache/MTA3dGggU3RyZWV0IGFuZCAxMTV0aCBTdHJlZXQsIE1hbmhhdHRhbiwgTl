@@ -1,0 +1,145 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 115th Street",
+               "short_name" : "W 115th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Manhattan",
+               "short_name" : "Upper Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W 115th St, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.80827439999999,
+                  "lng" : -73.9469727
+               },
+               "southwest" : {
+                  "lat" : 40.7999117,
+                  "lng" : -73.9665785
+               }
+            },
+            "location" : {
+               "lat" : 40.8043677,
+               "lng" : -73.95731499999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.80827439999999,
+                  "lng" : -73.9469727
+               },
+               "southwest" : {
+                  "lat" : 40.7999117,
+                  "lng" : -73.9665785
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJBXYvWRb2wokRM92rL2q95MY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 115th Street",
+               "short_name" : "E 115th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Harlem",
+               "short_name" : "East Harlem",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "E 115th St, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8000793,
+                  "lng" : -73.93364769999999
+               },
+               "southwest" : {
+                  "lat" : 40.794326,
+                  "lng" : -73.9469727
+               }
+            },
+            "location" : {
+               "lat" : 40.7972632,
+               "lng" : -73.94051899999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8000793,
+                  "lng" : -73.93364769999999
+               },
+               "southwest" : {
+                  "lat" : 40.794326,
+                  "lng" : -73.9469727
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ22IKQAb2wokROFsxNM_VqZ8",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

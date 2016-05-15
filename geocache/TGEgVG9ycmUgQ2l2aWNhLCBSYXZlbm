@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torre Civica dell'Orologio",
+               "short_name" : "Torre Civica dell'Orologio",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Piazza del Popolo",
+               "short_name" : "Piazza del Popolo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Torre Civica dell'Orologio, Piazza del Popolo, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2856283,
+                  "lng" : 11.8836344
+               },
+               "southwest" : {
+                  "lat" : 44.285516,
+                  "lng" : 11.8834774
+               }
+            },
+            "location" : {
+               "lat" : 44.2855807,
+               "lng" : 11.8835359
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2869211302915,
+                  "lng" : 11.8849048802915
+               },
+               "southwest" : {
+                  "lat" : 44.2842231697085,
+                  "lng" : 11.8822069197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJw4uAyJOKxMRwGvSsRSZHx8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Nicholas Avenue",
+               "short_name" : "St Nicholas Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fort George",
+               "short_name" : "Fort George",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10033",
+               "short_name" : "10033",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "St Nicholas Ave & W 184th St, New York, NY 10033, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8511061,
+               "lng" : -73.9324275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8524550802915,
+                  "lng" : -73.93107851970849
+               },
+               "southwest" : {
+                  "lat" : 40.8497571197085,
+                  "lng" : -73.9337764802915
+               }
+            }
+         },
+         "place_id" : "EjVTdCBOaWNob2xhcyBBdmUgJiBXIDE4NHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMzMsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

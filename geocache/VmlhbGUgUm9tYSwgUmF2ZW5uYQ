@@ -1,0 +1,691 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via di Roma",
+               "short_name" : "Via di Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via di Roma, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4232621,
+                  "lng" : 12.2062848
+               },
+               "southwest" : {
+                  "lat" : 44.4120407,
+                  "lng" : 12.2014173
+               }
+            },
+            "location" : {
+               "lat" : 44.4176408,
+               "lng" : 12.203782
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4232621,
+                  "lng" : 12.2062848
+               },
+               "southwest" : {
+                  "lat" : 44.4120407,
+                  "lng" : 12.2014173
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJm69veFf5fUcRkuH0vIcC5RQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Roma",
+               "short_name" : "Via Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Casola Valsenio",
+               "short_name" : "Casola Valsenio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Casola Valsenio",
+               "short_name" : "Casola Valsenio",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Roma, 48010 Casola Valsenio RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2288436,
+                  "lng" : 11.630355
+               },
+               "southwest" : {
+                  "lat" : 44.2195834,
+                  "lng" : 11.6173895
+               }
+            },
+            "location" : {
+               "lat" : 44.223876,
+               "lng" : 11.6241881
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2288436,
+                  "lng" : 11.630355
+               },
+               "southwest" : {
+                  "lat" : 44.2195834,
+                  "lng" : 11.6173895
+               }
+            }
+         },
+         "place_id" : "ChIJMTde0Jo5KxMRxbdfX3nFPJ8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Roma",
+               "short_name" : "Via Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russi",
+               "short_name" : "Russi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Russi",
+               "short_name" : "Russi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48026",
+               "short_name" : "48026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Roma, 48026 Russi RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.37512299999999,
+                  "lng" : 12.0359334
+               },
+               "southwest" : {
+                  "lat" : 44.3731211,
+                  "lng" : 12.0324352
+               }
+            },
+            "location" : {
+               "lat" : 44.3740421,
+               "lng" : 12.0343451
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3754710302915,
+                  "lng" : 12.0359334
+               },
+               "southwest" : {
+                  "lat" : 44.3727730697085,
+                  "lng" : 12.0324352
+               }
+            }
+         },
+         "place_id" : "ChIJNbAgEjIAfkcRD0ibkSVjIZo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Roma",
+               "short_name" : "Viale Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castel Bolognese",
+               "short_name" : "Castel Bolognese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castel Bolognese",
+               "short_name" : "Castel Bolognese",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48014",
+               "short_name" : "48014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Roma, 48014 Castel Bolognese RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3203599,
+                  "lng" : 11.8013464
+               },
+               "southwest" : {
+                  "lat" : 44.3168245,
+                  "lng" : 11.7962086
+               }
+            },
+            "location" : {
+               "lat" : 44.3175219,
+               "lng" : 11.7980361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3203599,
+                  "lng" : 11.8013464
+               },
+               "southwest" : {
+                  "lat" : 44.3168245,
+                  "lng" : 11.7962086
+               }
+            }
+         },
+         "place_id" : "ChIJp9oUvQBMKxMRkMMTfNuF0co",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Roma",
+               "short_name" : "Via Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48011",
+               "short_name" : "48011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Roma, 48011 Alfonsine RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4994184,
+                  "lng" : 12.0479509
+               },
+               "southwest" : {
+                  "lat" : 44.4941639,
+                  "lng" : 12.0421865
+               }
+            },
+            "location" : {
+               "lat" : 44.4970237,
+               "lng" : 12.0448233
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4994184,
+                  "lng" : 12.0479509
+               },
+               "southwest" : {
+                  "lat" : 44.4941639,
+                  "lng" : 12.0421865
+               }
+            }
+         },
+         "place_id" : "ChIJyxN3mw4GfkcR6IXuG8TW3fc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Roma",
+               "short_name" : "Via Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Roma, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2930289,
+                  "lng" : 11.8859259
+               },
+               "southwest" : {
+                  "lat" : 44.29083,
+                  "lng" : 11.8829978
+               }
+            },
+            "location" : {
+               "lat" : 44.2923281,
+               "lng" : 11.8848862
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.29327843029149,
+                  "lng" : 11.8859259
+               },
+               "southwest" : {
+                  "lat" : 44.29058046970849,
+                  "lng" : 11.8829978
+               }
+            }
+         },
+         "place_id" : "ChIJkcXvbBxOKxMRofYIGix2YwI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Roma",
+               "short_name" : "Via Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brisighella",
+               "short_name" : "Brisighella",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brisighella",
+               "short_name" : "Brisighella",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48013",
+               "short_name" : "48013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Roma, 48013 Brisighella RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2230458,
+                  "lng" : 11.7717429
+               },
+               "southwest" : {
+                  "lat" : 44.2217543,
+                  "lng" : 11.7690537
+               }
+            },
+            "location" : {
+               "lat" : 44.22236059999999,
+               "lng" : 11.7704079
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2237490302915,
+                  "lng" : 11.7717472802915
+               },
+               "southwest" : {
+                  "lat" : 44.2210510697085,
+                  "lng" : 11.7690493197085
+               }
+            }
+         },
+         "place_id" : "ChIJD9fhmEBGKxMRJ1ah9mnDRt8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Roma",
+               "short_name" : "Viale Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conselice",
+               "short_name" : "Conselice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conselice",
+               "short_name" : "Conselice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48017",
+               "short_name" : "48017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Roma, 48017 Conselice RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5118163,
+                  "lng" : 11.8316225
+               },
+               "southwest" : {
+                  "lat" : 44.511076,
+                  "lng" : 11.8299131
+               }
+            },
+            "location" : {
+               "lat" : 44.5114663,
+               "lng" : 11.8306992
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.51279513029149,
+                  "lng" : 11.8321167802915
+               },
+               "southwest" : {
+                  "lat" : 44.51009716970849,
+                  "lng" : 11.8294188197085
+               }
+            }
+         },
+         "place_id" : "ChIJ1y3mGZQZfkcRwTPtvHZXt2g",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Roma",
+               "short_name" : "Viale Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Roma, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2639806,
+                  "lng" : 12.357989
+               },
+               "southwest" : {
+                  "lat" : 44.26120299999999,
+                  "lng" : 12.3505205
+               }
+            },
+            "location" : {
+               "lat" : 44.2629276,
+               "lng" : 12.3548989
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2639806,
+                  "lng" : 12.357989
+               },
+               "southwest" : {
+                  "lat" : 44.26120299999999,
+                  "lng" : 12.3505205
+               }
+            }
+         },
+         "place_id" : "ChIJQ4dxmgW0LBMRe6AEL8S5mHY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Roma",
+               "short_name" : "Via Roma",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cotignola",
+               "short_name" : "Cotignola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cotignola",
+               "short_name" : "Cotignola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Roma, 48010 Cotignola RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.38662,
+                  "lng" : 11.942273
+               },
+               "southwest" : {
+                  "lat" : 44.38306009999999,
+                  "lng" : 11.9395239
+               }
+            },
+            "location" : {
+               "lat" : 44.385012,
+               "lng" : 11.941103
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.38662,
+                  "lng" : 11.942273
+               },
+               "southwest" : {
+                  "lat" : 44.38306009999999,
+                  "lng" : 11.9395239
+               }
+            }
+         },
+         "place_id" : "ChIJgzcujWICfkcRObZzDgk4V3U",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

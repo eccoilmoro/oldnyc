@@ -1,0 +1,695 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza della Resistenza",
+               "short_name" : "Piazza della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48011",
+               "short_name" : "48011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza della Resistenza, 48011 Alfonsine RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5073421,
+                  "lng" : 12.0404658
+               },
+               "southwest" : {
+                  "lat" : 44.5064397,
+                  "lng" : 12.0371902
+               }
+            },
+            "location" : {
+               "lat" : 44.5065626,
+               "lng" : 12.0389668
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5082398802915,
+                  "lng" : 12.0404658
+               },
+               "southwest" : {
+                  "lat" : 44.5055419197085,
+                  "lng" : 12.0371902
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl0QK8_0FfkcROQCtgUmUTWE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Resistenza",
+               "short_name" : "Piazza Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Resistenza, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4146424,
+               "lng" : 12.1889564
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4159913802915,
+                  "lng" : 12.1903053802915
+               },
+               "southwest" : {
+                  "lat" : 44.4132934197085,
+                  "lng" : 12.1876074197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgdDi_Kz-fUcRk4pqTW4gKbI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via della Resistenza",
+               "short_name" : "Via della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Savarna-Conventello",
+               "short_name" : "Savarna-Conventello",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Resistenza, 48123 Savarna-Conventello RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5100031,
+                  "lng" : 12.1082179
+               },
+               "southwest" : {
+                  "lat" : 44.508697,
+                  "lng" : 12.1042604
+               }
+            },
+            "location" : {
+               "lat" : 44.50935010000001,
+               "lng" : 12.1062392
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.51069903029151,
+                  "lng" : 12.1082179
+               },
+               "southwest" : {
+                  "lat" : 44.50800106970851,
+                  "lng" : 12.1042604
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ00vpAnQIfkcRiJ-QGLI_Dwg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale della Resistenza",
+               "short_name" : "Viale della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Massa Lombarda",
+               "short_name" : "Massa Lombarda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massa Lombarda",
+               "short_name" : "Massa Lombarda",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48024",
+               "short_name" : "48024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale della Resistenza, 48024 Massa Lombarda RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.44564099999999,
+                  "lng" : 11.8307706
+               },
+               "southwest" : {
+                  "lat" : 44.4415159,
+                  "lng" : 11.827923
+               }
+            },
+            "location" : {
+               "lat" : 44.44390809999999,
+               "lng" : 11.8294002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44564099999999,
+                  "lng" : 11.8307706
+               },
+               "southwest" : {
+                  "lat" : 44.4415159,
+                  "lng" : 11.827923
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJTQ_jchkcfkcRs5vnU-aWOj0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via della Resistenza",
+               "short_name" : "Via della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Masiera",
+               "short_name" : "Masiera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48012",
+               "short_name" : "48012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Resistenza, 48012 Masiera RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4614459,
+                  "lng" : 11.9688275
+               },
+               "southwest" : {
+                  "lat" : 44.4602059,
+                  "lng" : 11.9650919
+               }
+            },
+            "location" : {
+               "lat" : 44.4607232,
+               "lng" : 11.9671427
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4621748802915,
+                  "lng" : 11.9688275
+               },
+               "southwest" : {
+                  "lat" : 44.4594769197085,
+                  "lng" : 11.9650919
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJd41RuYsEfkcRyLyl5D5Kt4g",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via della Resistenza",
+               "short_name" : "Via della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cà di Lugo",
+               "short_name" : "Cà di Lugo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Resistenza, 48022 Cà di Lugo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4604082,
+                  "lng" : 11.8845458
+               },
+               "southwest" : {
+                  "lat" : 44.4587972,
+                  "lng" : 11.8828665
+               }
+            },
+            "location" : {
+               "lat" : 44.4598676,
+               "lng" : 11.8836505
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.46095168029149,
+                  "lng" : 11.8850551302915
+               },
+               "southwest" : {
+                  "lat" : 44.45825371970849,
+                  "lng" : 11.8823571697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC83QmHsbfkcRSQ2zmEsPkmU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via della Resistenza",
+               "short_name" : "Via della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Pietro In Vincoli",
+               "short_name" : "San Pietro In Vincoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Resistenza, 48125 San Pietro In Vincoli RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3035396,
+                  "lng" : 12.1458444
+               },
+               "southwest" : {
+                  "lat" : 44.3033701,
+                  "lng" : 12.1446315
+               }
+            },
+            "location" : {
+               "lat" : 44.3034759,
+               "lng" : 12.1455149
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3048038302915,
+                  "lng" : 12.1465869302915
+               },
+               "southwest" : {
+                  "lat" : 44.3021058697085,
+                  "lng" : 12.1438889697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPUU4NJerLBMRgnQmeZTejlQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via della Resistenza",
+               "short_name" : "Via della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alberazzo-canalvecchio",
+               "short_name" : "Alberazzo-canalvecchio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castel Bolognese",
+               "short_name" : "Castel Bolognese",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48014",
+               "short_name" : "48014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Resistenza, 48014 Alberazzo-canalvecchio RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3308323,
+                  "lng" : 11.7837008
+               },
+               "southwest" : {
+                  "lat" : 44.3297314,
+                  "lng" : 11.7809756
+               }
+            },
+            "location" : {
+               "lat" : 44.3302915,
+               "lng" : 11.7822515
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3316308302915,
+                  "lng" : 11.7837008
+               },
+               "southwest" : {
+                  "lat" : 44.3289328697085,
+                  "lng" : 11.7809756
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ-yjdexLKxMRzH56g_mB3ZM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via della Resistenza",
+               "short_name" : "Via della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fognano",
+               "short_name" : "Fognano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brisighella",
+               "short_name" : "Brisighella",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48013",
+               "short_name" : "48013",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Resistenza, 48013 Fognano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2102722,
+                  "lng" : 11.7512686
+               },
+               "southwest" : {
+                  "lat" : 44.208184,
+                  "lng" : 11.748872
+               }
+            },
+            "location" : {
+               "lat" : 44.2095791,
+               "lng" : 11.7504339
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2105770802915,
+                  "lng" : 11.7514192802915
+               },
+               "southwest" : {
+                  "lat" : 44.2078791197085,
+                  "lng" : 11.7487213197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-RrcAatHKxMRFaLHBW_rp6E",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via della Resistenza",
+               "short_name" : "Via della Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Pancrazio",
+               "short_name" : "San Pancrazio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Russi",
+               "short_name" : "Russi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48026",
+               "short_name" : "48026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via della Resistenza, 48026 San Pancrazio RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3572975,
+                  "lng" : 12.0802695
+               },
+               "southwest" : {
+                  "lat" : 44.3558712,
+                  "lng" : 12.0795815
+               }
+            },
+            "location" : {
+               "lat" : 44.3565787,
+               "lng" : 12.0799502
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.35793333029149,
+                  "lng" : 12.0812744802915
+               },
+               "southwest" : {
+                  "lat" : 44.3552353697085,
+                  "lng" : 12.0785765197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl7hQ-6yqLBMRW4-ht8dJu68",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

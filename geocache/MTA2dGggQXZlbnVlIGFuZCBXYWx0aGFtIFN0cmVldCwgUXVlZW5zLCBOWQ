@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waltham Street",
+               "short_name" : "Waltham St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "Jamaica",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11435",
+               "short_name" : "11435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waltham St & 106th Ave, Jamaica, NY 11435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.694377,
+               "lng" : -73.80376099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6957259802915,
+                  "lng" : -73.8024120197085
+               },
+               "southwest" : {
+                  "lat" : 40.6930280197085,
+                  "lng" : -73.8051099802915
+               }
+            }
+         },
+         "place_id" : "Ei5XYWx0aGFtIFN0ICYgMTA2dGggQXZlLCBKYW1haWNhLCBOWSAxMTQzNSwgVVNB",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

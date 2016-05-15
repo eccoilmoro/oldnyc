@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 167th Street",
+               "short_name" : "W 167th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Manhattan",
+               "short_name" : "Upper Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10032",
+               "short_name" : "10032",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 167th St, New York, NY 10032, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.84029839999999,
+                  "lng" : -73.9362464
+               },
+               "southwest" : {
+                  "lat" : 40.8380956,
+                  "lng" : -73.9396915
+               }
+            },
+            "location" : {
+               "lat" : 40.8395062,
+               "lng" : -73.93783619999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.84054598029149,
+                  "lng" : -73.9362464
+               },
+               "southwest" : {
+                  "lat" : 40.8378480197085,
+                  "lng" : -73.9396915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVfbGRib0wokRJHKe18LMHYc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

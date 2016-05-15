@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Lexington Avenue",
+               "short_name" : "Lexington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10010",
+               "short_name" : "10010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Lexington Ave, New York, NY 10010, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7385262,
+                  "lng" : -73.9851547
+               },
+               "southwest" : {
+                  "lat" : 40.738161,
+                  "lng" : -73.98553579999999
+               }
+            },
+            "location" : {
+               "lat" : 40.73834360000001,
+               "lng" : -73.98534529999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7396925802915,
+                  "lng" : -73.98399626970848
+               },
+               "southwest" : {
+                  "lat" : 40.7369946197085,
+                  "lng" : -73.98669423029149
+               }
+            }
+         },
+         "place_id" : "ChIJn9Ok-aBZwokRXbFQx1zIUxw",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

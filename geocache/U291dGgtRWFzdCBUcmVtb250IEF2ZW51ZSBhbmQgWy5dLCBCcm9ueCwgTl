@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Tremont Avenue",
+               "short_name" : "E Tremont Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "West Bronx",
+               "short_name" : "West Bronx",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10460",
+               "short_name" : "10460",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E Tremont Ave & Bronx St, Bronx, NY 10460, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8401076,
+               "lng" : -73.87857749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.84145658029149,
+                  "lng" : -73.8772285197085
+               },
+               "southwest" : {
+                  "lat" : 40.83875861970849,
+                  "lng" : -73.8799264802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei5FIFRyZW1vbnQgQXZlICYgQnJvbnggU3QsIEJyb254LCBOWSAxMDQ2MCwgVVNB",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

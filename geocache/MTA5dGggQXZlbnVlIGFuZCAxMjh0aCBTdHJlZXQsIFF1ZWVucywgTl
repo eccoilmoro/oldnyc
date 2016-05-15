@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "109th Avenue",
+               "short_name" : "109th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "South Ozone Park",
+               "short_name" : "South Ozone Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11420",
+               "short_name" : "11420",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "109th Ave & 128th St, South Ozone Park, NY 11420, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6845001,
+               "lng" : -73.814268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6858490802915,
+                  "lng" : -73.81291901970849
+               },
+               "southwest" : {
+                  "lat" : 40.6831511197085,
+                  "lng" : -73.81561698029149
+               }
+            }
+         },
+         "place_id" : "EjUxMDl0aCBBdmUgJiAxMjh0aCBTdCwgU291dGggT3pvbmUgUGFyaywgTlkgMTE0MjAsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

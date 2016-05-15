@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "268",
+               "short_name" : "268",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "10th Avenue",
+               "short_name" : "10th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10001",
+               "short_name" : "10001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "268 10th Ave, New York, NY 10001, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7494231,
+                  "lng" : -74.002904
+               },
+               "southwest" : {
+                  "lat" : 40.7494162,
+                  "lng" : -74.0029205
+               }
+            },
+            "location" : {
+               "lat" : 40.7494162,
+               "lng" : -74.002904
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7507686302915,
+                  "lng" : -74.0015632697085
+               },
+               "southwest" : {
+                  "lat" : 40.7480706697085,
+                  "lng" : -74.0042612302915
+               }
+            }
+         },
+         "place_id" : "EiUyNjggMTB0aCBBdmUsIE5ldyBZb3JrLCBOWSAxMDAwMSwgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

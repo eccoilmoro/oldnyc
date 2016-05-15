@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pleasant Avenue",
+               "short_name" : "Pleasant Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Harlem",
+               "short_name" : "East Harlem",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pleasant Ave, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.797792,
+                  "lng" : -73.9312465
+               },
+               "southwest" : {
+                  "lat" : 40.7939392,
+                  "lng" : -73.93432849999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7957325,
+               "lng" : -73.93266939999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.797792,
+                  "lng" : -73.9312465
+               },
+               "southwest" : {
+                  "lat" : 40.7939392,
+                  "lng" : -73.93432849999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnSr14_z1wokRZ8vBjUNny5Q",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

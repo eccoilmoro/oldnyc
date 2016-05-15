@@ -1,0 +1,145 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Ravenna",
+               "short_name" : "Via Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Altamura",
+               "short_name" : "Altamura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Altamura",
+               "short_name" : "Altamura",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Bari",
+               "short_name" : "BA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puglia",
+               "short_name" : "Puglia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "70022",
+               "short_name" : "70022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Ravenna, 70022 Altamura BA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8305778,
+                  "lng" : 16.545075
+               },
+               "southwest" : {
+                  "lat" : 40.83042710000001,
+                  "lng" : 16.5440958
+               }
+            },
+            "location" : {
+               "lat" : 40.8304823,
+               "lng" : 16.545075
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.83185143029151,
+                  "lng" : 16.5459343802915
+               },
+               "southwest" : {
+                  "lat" : 40.82915346970851,
+                  "lng" : 16.5432364197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgxe6R3qHRxMR3UsBV7q50aA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Ravenna",
+               "short_name" : "Via Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Giovanni Lupatoto",
+               "short_name" : "San Giovanni Lupatoto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Giovanni Lupatoto",
+               "short_name" : "San Giovanni Lupatoto",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Verona",
+               "short_name" : "VR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veneto",
+               "short_name" : "Veneto",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37057",
+               "short_name" : "37057",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Ravenna, 37057 San Giovanni Lupatoto VR, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.37876869999999,
+                  "lng" : 11.0490931
+               },
+               "southwest" : {
+                  "lat" : 45.3785532,
+                  "lng" : 11.0484626
+               }
+            },
+            "location" : {
+               "lat" : 45.37876869999999,
+               "lng" : 11.0484626
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3800099302915,
+                  "lng" : 11.0501268302915
+               },
+               "southwest" : {
+                  "lat" : 45.3773119697085,
+                  "lng" : 11.0474288697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJY4YtHghef0cR0QCUecyRvC0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "440",
+               "short_name" : "440",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 13th Street",
+               "short_name" : "E 13th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Village",
+               "short_name" : "East Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "440 E 13th St, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72979,
+               "lng" : -73.98163199999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7311389802915,
+                  "lng" : -73.98028301970849
+               },
+               "southwest" : {
+                  "lat" : 40.72844101970851,
+                  "lng" : -73.9829809802915
+               }
+            }
+         },
+         "place_id" : "ChIJf5LpDHZZwokR0iPMgtoZQCE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,265 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue K",
+               "short_name" : "Avenue K",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canarsie",
+               "short_name" : "Canarsie",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11236",
+               "short_name" : "11236",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenue K & East 100th Street, Brooklyn, NY 11236, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.641873,
+               "lng" : -73.8946741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6432219802915,
+                  "lng" : -73.89332511970849
+               },
+               "southwest" : {
+                  "lat" : 40.6405240197085,
+                  "lng" : -73.89602308029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjVBdmVudWUgSyAmIEVhc3QgMTAwdGggU3RyZWV0LCBCcm9va2x5biwgTlkgMTEyMzYsIFVTQQ",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue North",
+               "short_name" : "Avenue N",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canarsie",
+               "short_name" : "Canarsie",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11236",
+               "short_name" : "11236",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenue N & East 100th Street, Brooklyn, NY 11236, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.636986,
+               "lng" : -73.889223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6383349802915,
+                  "lng" : -73.88787401970849
+               },
+               "southwest" : {
+                  "lat" : 40.6356370197085,
+                  "lng" : -73.89057198029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjVBdmVudWUgTiAmIEVhc3QgMTAwdGggU3RyZWV0LCBCcm9va2x5biwgTlkgMTEyMzYsIFVTQQ",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 100th Street",
+               "short_name" : "East 100th Street",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Canarsie",
+               "short_name" : "Canarsie",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11236",
+               "short_name" : "11236",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "East 100th Street, Brooklyn, NY 11236, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.650382,
+                  "lng" : -73.8873052
+               },
+               "southwest" : {
+                  "lat" : 40.6352644,
+                  "lng" : -73.904242
+               }
+            },
+            "location" : {
+               "lat" : 40.6435115,
+               "lng" : -73.89650279999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.650382,
+                  "lng" : -73.8873052
+               },
+               "southwest" : {
+                  "lat" : 40.6352644,
+                  "lng" : -73.904242
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiSyE6N1cwokRVDTPyb2H0hQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "100th Street",
+               "short_name" : "100th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bay Ridge",
+               "short_name" : "Bay Ridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11209",
+               "short_name" : "11209",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "100th St, Brooklyn, NY 11209, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6137327,
+                  "lng" : -74.0317874
+               },
+               "southwest" : {
+                  "lat" : 40.6119516,
+                  "lng" : -74.035352
+               }
+            },
+            "location" : {
+               "lat" : 40.612811,
+               "lng" : -74.033599
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6141911302915,
+                  "lng" : -74.0317874
+               },
+               "southwest" : {
+                  "lat" : 40.6114931697085,
+                  "lng" : -74.035352
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJD010N4ZPwokRVqCFXe9usqM",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

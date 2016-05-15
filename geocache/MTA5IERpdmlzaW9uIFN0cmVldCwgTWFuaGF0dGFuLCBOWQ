@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "109",
+               "short_name" : "109",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Division Street",
+               "short_name" : "Division St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10002",
+               "short_name" : "10002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "109 Division St, New York, NY 10002, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7143318,
+                  "lng" : -73.99284419999999
+               },
+               "southwest" : {
+                  "lat" : 40.7143177,
+                  "lng" : -73.9928463
+               }
+            },
+            "location" : {
+               "lat" : 40.7143177,
+               "lng" : -73.99284419999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71567373029149,
+                  "lng" : -73.99149626970849
+               },
+               "southwest" : {
+                  "lat" : 40.71297576970849,
+                  "lng" : -73.99419423029151
+               }
+            }
+         },
+         "place_id" : "EigxMDkgRGl2aXNpb24gU3QsIE5ldyBZb3JrLCBOWSAxMDAwMiwgVVNB",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

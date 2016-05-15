@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenwich Avenue",
+               "short_name" : "Greenwich Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10014",
+               "short_name" : "10014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Greenwich Ave & W 10th St, New York, NY 10014, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7346785,
+               "lng" : -73.99999559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7360274802915,
+                  "lng" : -73.9986466197085
+               },
+               "southwest" : {
+                  "lat" : 40.7333295197085,
+                  "lng" : -74.0013445802915
+               }
+            }
+         },
+         "place_id" : "EjJHcmVlbndpY2ggQXZlICYgVyAxMHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMTQsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

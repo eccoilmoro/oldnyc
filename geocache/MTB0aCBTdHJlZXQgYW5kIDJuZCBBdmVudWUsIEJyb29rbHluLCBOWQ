@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Street",
+               "short_name" : "10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gowanus",
+               "short_name" : "Gowanus",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11215",
+               "short_name" : "11215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th St & 2nd Ave, Brooklyn, NY 11215, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6719835,
+               "lng" : -73.99390480000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67333248029149,
+                  "lng" : -73.99255581970851
+               },
+               "southwest" : {
+                  "lat" : 40.67063451970849,
+                  "lng" : -73.99525378029152
+               }
+            }
+         },
+         "place_id" : "EioxMHRoIFN0ICYgMm5kIEF2ZSwgQnJvb2tseW4sIE5ZIDExMjE1LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

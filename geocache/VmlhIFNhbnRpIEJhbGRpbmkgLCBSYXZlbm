@@ -1,0 +1,145 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Santi Baldini",
+               "short_name" : "Viale Santi Baldini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Santi Baldini, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4165324,
+                  "lng" : 12.2093669
+               },
+               "southwest" : {
+                  "lat" : 44.4125697,
+                  "lng" : 12.20622
+               }
+            },
+            "location" : {
+               "lat" : 44.4146789,
+               "lng" : 12.2091296
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4165324,
+                  "lng" : 12.2093669
+               },
+               "southwest" : {
+                  "lat" : 44.4125697,
+                  "lng" : 12.20622
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJg-oZ3lv5fUcRKSRar1pmGzQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Nullo Baldini",
+               "short_name" : "Via Nullo Baldini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Nullo Baldini, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4134598,
+                  "lng" : 12.1968614
+               },
+               "southwest" : {
+                  "lat" : 44.4125905,
+                  "lng" : 12.1955515
+               }
+            },
+            "location" : {
+               "lat" : 44.4130287,
+               "lng" : 12.196233
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4143741302915,
+                  "lng" : 12.1975554302915
+               },
+               "southwest" : {
+                  "lat" : 44.4116761697085,
+                  "lng" : 12.1948574697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJ-rCJVL5fUcR-gFluyuxa1k",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

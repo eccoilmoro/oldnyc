@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 8th Street",
+               "short_name" : "E 8th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alphabet City",
+               "short_name" : "Alphabet City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 8th St & Avenue B, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7256804,
+               "lng" : -73.9807682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7270293802915,
+                  "lng" : -73.97941921970849
+               },
+               "southwest" : {
+                  "lat" : 40.7243314197085,
+                  "lng" : -73.9821171802915
+               }
+            }
+         },
+         "place_id" : "EixFIDh0aCBTdCAmIEF2ZW51ZSBCLCBOZXcgWW9yaywgTlkgMTAwMDksIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mausoleo di Galla Placidia",
+               "short_name" : "Mausoleo di Galla Placidia",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Giuliano Argentario",
+               "short_name" : "Via Giuliano Argentario",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48110",
+               "short_name" : "48110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mausoleo di Galla Placidia, Via Giuliano Argentario, 22, 48110 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4209827,
+               "lng" : 12.1971029
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4223316802915,
+                  "lng" : 12.1984518802915
+               },
+               "southwest" : {
+                  "lat" : 44.4196337197085,
+                  "lng" : 12.1957539197085
+               }
+            }
+         },
+         "place_id" : "ChIJ2daRLP77fUcRhPYnfCJ6zPg",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "103",
+               "short_name" : "103",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 75th Street",
+               "short_name" : "E 75th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10021",
+               "short_name" : "10021",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "2805",
+               "short_name" : "2805",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "103 E 75th St, New York, NY 10021, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7731107,
+                  "lng" : -73.96136199999999
+               },
+               "southwest" : {
+                  "lat" : 40.77277369999999,
+                  "lng" : -73.96182150000001
+               }
+            },
+            "location" : {
+               "lat" : 40.7729422,
+               "lng" : -73.96159179999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77429118029149,
+                  "lng" : -73.9602427697085
+               },
+               "southwest" : {
+                  "lat" : 40.7715932197085,
+                  "lng" : -73.96294073029151
+               }
+            }
+         },
+         "place_id" : "ChIJUx4XPZVYwokRkC-C11hx8vU",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

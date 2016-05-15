@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pinarella Viale Italia Bivio Via Sardegna",
+               "short_name" : "Pinarella Viale Italia Bivio Via Sardegna",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pinarella Viale Italia Bivio Via Sardegna, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.239614,
+               "lng" : 12.370876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2409629802915,
+                  "lng" : 12.3722249802915
+               },
+               "southwest" : {
+                  "lat" : 44.2382650197085,
+                  "lng" : 12.3695270197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ36oxQJa2LBMRH7GgE6iVhMQ",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

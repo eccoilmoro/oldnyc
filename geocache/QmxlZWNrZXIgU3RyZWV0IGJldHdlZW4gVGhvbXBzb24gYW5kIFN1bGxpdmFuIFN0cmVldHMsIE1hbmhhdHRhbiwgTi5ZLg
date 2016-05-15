@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sullivan Street",
+               "short_name" : "Sullivan St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sullivan St, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7306684,
+                  "lng" : -73.99886099999999
+               },
+               "southwest" : {
+                  "lat" : 40.7236345,
+                  "lng" : -74.0048128
+               }
+            },
+            "location" : {
+               "lat" : 40.7276175,
+               "lng" : -74.00143729999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7306684,
+                  "lng" : -73.99886099999999
+               },
+               "southwest" : {
+                  "lat" : 40.7236345,
+                  "lng" : -74.0048128
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ84uR-I1ZwokRIcQQ0j3pFzA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

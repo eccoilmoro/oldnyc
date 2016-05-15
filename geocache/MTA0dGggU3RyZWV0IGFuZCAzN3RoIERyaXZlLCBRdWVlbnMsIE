@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "104th Street",
+               "short_name" : "104th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corona",
+               "short_name" : "Corona",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11368",
+               "short_name" : "11368",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104th St & 37th Dr, Corona, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.752257,
+               "lng" : -73.86293329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7536059802915,
+                  "lng" : -73.8615843197085
+               },
+               "southwest" : {
+                  "lat" : 40.7509080197085,
+                  "lng" : -73.8642822802915
+               }
+            }
+         },
+         "place_id" : "EikxMDR0aCBTdCAmIDM3dGggRHIsIENvcm9uYSwgTlkgMTEzNjgsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

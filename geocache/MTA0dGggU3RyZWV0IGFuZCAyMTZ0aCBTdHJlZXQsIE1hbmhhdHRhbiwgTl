@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 216th Street",
+               "short_name" : "W 216th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Inwood",
+               "short_name" : "Inwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10034",
+               "short_name" : "10034",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 216th St, New York, NY 10034, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8706442,
+                  "lng" : -73.9114491
+               },
+               "southwest" : {
+                  "lat" : 40.8688612,
+                  "lng" : -73.91548449999999
+               }
+            },
+            "location" : {
+               "lat" : 40.8694524,
+               "lng" : -73.9128573
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8711016802915,
+                  "lng" : -73.9114491
+               },
+               "southwest" : {
+                  "lat" : 40.8684037197085,
+                  "lng" : -73.91548449999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7bGwR_PzwokRl6V401LXjI8",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

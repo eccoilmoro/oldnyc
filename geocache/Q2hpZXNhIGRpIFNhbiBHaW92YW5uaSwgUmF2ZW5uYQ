@@ -1,0 +1,285 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giovanni Amendola",
+               "short_name" : "Via Giovanni Amendola",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mezzano",
+               "short_name" : "Mezzano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giovanni Amendola, 48123 Mezzano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4659372,
+                  "lng" : 12.0822843
+               },
+               "southwest" : {
+                  "lat" : 44.464089,
+                  "lng" : 12.0806586
+               }
+            },
+            "location" : {
+               "lat" : 44.4646976,
+               "lng" : 12.0813653
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4663620802915,
+                  "lng" : 12.0828204302915
+               },
+               "southwest" : {
+                  "lat" : 44.4636641197085,
+                  "lng" : 12.0801224697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaawgWg8HfkcR1Bo5XvUTH7M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giovanni Cortesi",
+               "short_name" : "Via Giovanni Cortesi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mezzano",
+               "short_name" : "Mezzano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giovanni Cortesi, 48123 Mezzano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4666453,
+                  "lng" : 12.0857858
+               },
+               "southwest" : {
+                  "lat" : 44.4656381,
+                  "lng" : 12.0846562
+               }
+            },
+            "location" : {
+               "lat" : 44.4664413,
+               "lng" : 12.0855428
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4674906802915,
+                  "lng" : 12.0865699802915
+               },
+               "southwest" : {
+                  "lat" : 44.4647927197085,
+                  "lng" : 12.0838720197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC1dYJAkHfkcR67Hae6PVjOA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giovanni Boccaccio",
+               "short_name" : "Via Giovanni Boccaccio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villanova",
+               "short_name" : "Villanova",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48012",
+               "short_name" : "48012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giovanni Boccaccio, 48012 Villanova RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4511638,
+                  "lng" : 12.0508663
+               },
+               "southwest" : {
+                  "lat" : 44.4502031,
+                  "lng" : 12.0499619
+               }
+            },
+            "location" : {
+               "lat" : 44.4511638,
+               "lng" : 12.0499619
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4520324302915,
+                  "lng" : 12.0517630802915
+               },
+               "southwest" : {
+                  "lat" : 44.4493344697085,
+                  "lng" : 12.0490651197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJM93NUMMGfkcRhVH3uWFsdBo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giovanni Verga",
+               "short_name" : "Via Giovanni Verga",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villanova",
+               "short_name" : "Villanova",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48012",
+               "short_name" : "48012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giovanni Verga, 48012 Villanova RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4477199,
+                  "lng" : 12.0521494
+               },
+               "southwest" : {
+                  "lat" : 44.4471245,
+                  "lng" : 12.0514197
+               }
+            },
+            "location" : {
+               "lat" : 44.4475097,
+               "lng" : 12.0519236
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4487711802915,
+                  "lng" : 12.0531335302915
+               },
+               "southwest" : {
+                  "lat" : 44.4460732197085,
+                  "lng" : 12.0504355697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_4995doGfkcRMuaLpdDYjqk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus Avenue",
+               "short_name" : "Columbus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper West Side",
+               "short_name" : "UWS",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10025",
+               "short_name" : "10025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Columbus Ave & W 100th St, New York, NY 10025, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7954774,
+               "lng" : -73.965616
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.79682638029149,
+                  "lng" : -73.96426701970849
+               },
+               "southwest" : {
+                  "lat" : 40.79412841970849,
+                  "lng" : -73.96696498029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjJDb2x1bWJ1cyBBdmUgJiBXIDEwMHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMjUsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

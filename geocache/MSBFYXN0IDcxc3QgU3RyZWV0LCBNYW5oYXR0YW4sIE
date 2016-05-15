@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 71st Street",
+               "short_name" : "E 71st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10021",
+               "short_name" : "10021",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 E 71st St, New York, NY 10021, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7717277,
+               "lng" : -73.96715859999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7730766802915,
+                  "lng" : -73.96580961970848
+               },
+               "southwest" : {
+                  "lat" : 40.7703787197085,
+                  "lng" : -73.96850758029149
+               }
+            }
+         },
+         "place_id" : "ChIJ4yS7xuxYwokR4MDv74lOggw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

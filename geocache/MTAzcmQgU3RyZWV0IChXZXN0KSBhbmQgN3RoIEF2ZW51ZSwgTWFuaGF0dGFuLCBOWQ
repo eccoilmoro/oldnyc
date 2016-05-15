@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "7th Avenue",
+               "short_name" : "7th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10018",
+               "short_name" : "10018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "7th Ave, New York, NY 10018, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8280573,
+                  "lng" : -73.93448669999999
+               },
+               "southwest" : {
+                  "lat" : 28.4758911,
+                  "lng" : -81.46905009999999
+               }
+            },
+            "location" : {
+               "lat" : 40.73658,
+               "lng" : -74.0011456
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8280573,
+                  "lng" : -73.93448669999999
+               },
+               "southwest" : {
+                  "lat" : 28.4758911,
+                  "lng" : -81.46905009999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtVyxGaxZwokRsjT5NDi1lu0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

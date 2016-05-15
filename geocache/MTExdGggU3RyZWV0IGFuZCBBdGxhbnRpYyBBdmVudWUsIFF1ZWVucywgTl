@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlantic Avenue",
+               "short_name" : "Atlantic Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Richmond Hill",
+               "short_name" : "Richmond Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11418",
+               "short_name" : "11418",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Atlantic Ave & 111th St, Queens, NY 11418, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6922003,
+               "lng" : -73.83487839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6935492802915,
+                  "lng" : -73.83352941970848
+               },
+               "southwest" : {
+                  "lat" : 40.6908513197085,
+                  "lng" : -73.8362273802915
+               }
+            }
+         },
+         "place_id" : "Ei5BdGxhbnRpYyBBdmUgJiAxMTF0aCBTdCwgUXVlZW5zLCBOWSAxMTQxOCwgVVNB",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

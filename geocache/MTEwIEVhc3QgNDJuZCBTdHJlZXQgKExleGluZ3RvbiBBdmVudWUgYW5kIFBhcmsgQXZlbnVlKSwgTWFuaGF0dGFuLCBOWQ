@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Park Avenue",
+               "short_name" : "Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Park Ave, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8140538,
+                  "lng" : -73.93460739999999
+               },
+               "southwest" : {
+                  "lat" : 40.7420018,
+                  "lng" : -73.9845668
+               }
+            },
+            "location" : {
+               "lat" : 40.7779534,
+               "lng" : -73.9589565
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8140538,
+                  "lng" : -73.93460739999999
+               },
+               "southwest" : {
+                  "lat" : 40.7420018,
+                  "lng" : -73.9845668
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1Z8UJGS3wokR2Z0U1MllYB4",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Avenue",
+               "short_name" : "10th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10001",
+               "short_name" : "10001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th Ave & W 31st St, New York, NY 10001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7527412,
+               "lng" : -74.0005374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7540901802915,
+                  "lng" : -73.9991884197085
+               },
+               "southwest" : {
+                  "lat" : 40.7513922197085,
+                  "lng" : -74.00188638029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMHRoIEF2ZSAmIFcgMzFzdCBTdCwgTmV3IFlvcmssIE5ZIDEwMDAxLCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

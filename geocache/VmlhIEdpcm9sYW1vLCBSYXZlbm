@@ -1,0 +1,565 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girolamo Rossi",
+               "short_name" : "Via Girolamo Rossi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Rossi, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4224584,
+                  "lng" : 12.2007981
+               },
+               "southwest" : {
+                  "lat" : 44.4190842,
+                  "lng" : 12.1999154
+               }
+            },
+            "location" : {
+               "lat" : 44.4206694,
+               "lng" : 12.2007002
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4224584,
+                  "lng" : 12.2017057302915
+               },
+               "southwest" : {
+                  "lat" : 44.4190842,
+                  "lng" : 12.1990077697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5RSY_P37fUcR2dNZa2Ld2nU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girolamo Felisatti",
+               "short_name" : "Via Girolamo Felisatti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Felisatti, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4254018,
+                  "lng" : 12.1918639
+               },
+               "southwest" : {
+                  "lat" : 44.4225862,
+                  "lng" : 12.1912966
+               }
+            },
+            "location" : {
+               "lat" : 44.4238319,
+               "lng" : 12.1916053
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4254018,
+                  "lng" : 12.1929292302915
+               },
+               "southwest" : {
+                  "lat" : 44.4225862,
+                  "lng" : 12.1902312697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOcyADwH8fUcRj7-kC6hPvYQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girolamo Rota",
+               "short_name" : "Via Girolamo Rota",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Rota, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.424076,
+                  "lng" : 12.19351
+               },
+               "southwest" : {
+                  "lat" : 44.4218811,
+                  "lng" : 12.1927787
+               }
+            },
+            "location" : {
+               "lat" : 44.4227727,
+               "lng" : 12.1932088
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42432753029151,
+                  "lng" : 12.1944933302915
+               },
+               "southwest" : {
+                  "lat" : 44.42162956970851,
+                  "lng" : 12.1917953697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIW9eXAD8fUcREfNqMr2ScLM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Gerolamo Cardano",
+               "short_name" : "Via Gerolamo Cardano",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Gerolamo Cardano, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4003802,
+                  "lng" : 12.2090605
+               },
+               "southwest" : {
+                  "lat" : 44.39901649999999,
+                  "lng" : 12.2086581
+               }
+            },
+            "location" : {
+               "lat" : 44.4003802,
+               "lng" : 12.2090548
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4010473302915,
+                  "lng" : 12.2102082802915
+               },
+               "southwest" : {
+                  "lat" : 44.3983493697085,
+                  "lng" : 12.2075103197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQ9_Y4T_5fUcRCCZih8uruKM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girolamo Zattoni",
+               "short_name" : "Via Girolamo Zattoni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castiglione di Cervia",
+               "short_name" : "Castiglione di Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Zattoni, 48125 Castiglione di Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2590701,
+                  "lng" : 12.2559198
+               },
+               "southwest" : {
+                  "lat" : 44.2586112,
+                  "lng" : 12.2548017
+               }
+            },
+            "location" : {
+               "lat" : 44.2588383,
+               "lng" : 12.2553216
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2601896302915,
+                  "lng" : 12.2567097302915
+               },
+               "southwest" : {
+                  "lat" : 44.2574916697085,
+                  "lng" : 12.2540117697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpVk4l_2xLBMR2N5I9DyqJq8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girolamo Gottarelli",
+               "short_name" : "Via Girolamo Gottarelli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castel Bolognese",
+               "short_name" : "Castel Bolognese",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Castel Bolognese",
+               "short_name" : "Castel Bolognese",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48014",
+               "short_name" : "48014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Gottarelli, 48014 Castel Bolognese RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3191533,
+                  "lng" : 11.8006303
+               },
+               "southwest" : {
+                  "lat" : 44.3183016,
+                  "lng" : 11.799372
+               }
+            },
+            "location" : {
+               "lat" : 44.3185021,
+               "lng" : 11.8004804
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3200764302915,
+                  "lng" : 11.8013501302915
+               },
+               "southwest" : {
+                  "lat" : 44.3173784697085,
+                  "lng" : 11.7986521697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp05NKQdMKxMRztKOXq3mCJI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girolamo Bonoli",
+               "short_name" : "Via Girolamo Bonoli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Bonoli, 48022 Lugo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4287191,
+                  "lng" : 11.9022065
+               },
+               "southwest" : {
+                  "lat" : 44.4252502,
+                  "lng" : 11.8997702
+               }
+            },
+            "location" : {
+               "lat" : 44.4271421,
+               "lng" : 11.9010959
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4287191,
+                  "lng" : 11.9023373302915
+               },
+               "southwest" : {
+                  "lat" : 44.4252502,
+                  "lng" : 11.8996393697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx-6B_M4cfkcRsqg5ywNbYFE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girolamo Cardano",
+               "short_name" : "Via Girolamo Cardano",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Cardano, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2580153,
+                  "lng" : 12.3403089
+               },
+               "southwest" : {
+                  "lat" : 44.256464,
+                  "lng" : 12.3377833
+               }
+            },
+            "location" : {
+               "lat" : 44.2569914,
+               "lng" : 12.3394495
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2585886302915,
+                  "lng" : 12.3403950802915
+               },
+               "southwest" : {
+                  "lat" : 44.2558906697085,
+                  "lng" : 12.3376971197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdYdNr_2zLBMR9Nd_6zS4ZnY",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

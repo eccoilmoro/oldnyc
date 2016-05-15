@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "375",
+               "short_name" : "375",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 10th Street",
+               "short_name" : "E 10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alphabet City",
+               "short_name" : "Alphabet City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "375 E 10th St, New York, NY 10009, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7265564,
+                  "lng" : -73.9784038
+               },
+               "southwest" : {
+                  "lat" : 40.7263721,
+                  "lng" : -73.97858099999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7264643,
+               "lng" : -73.97849239999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7278132302915,
+                  "lng" : -73.97714341970848
+               },
+               "southwest" : {
+                  "lat" : 40.7251152697085,
+                  "lng" : -73.97984138029149
+               }
+            }
+         },
+         "place_id" : "ChIJdR69PXdZwokRkV8Sx_dKDN0",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

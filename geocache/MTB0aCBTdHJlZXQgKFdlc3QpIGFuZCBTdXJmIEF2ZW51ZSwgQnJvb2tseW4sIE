@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Surf Avenue",
+               "short_name" : "Surf Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Coney Island",
+               "short_name" : "Coney Island",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11224",
+               "short_name" : "11224",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Surf Ave & W 10th St, Brooklyn, NY 11224, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.5754425,
+               "lng" : -73.97791099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5767914802915,
+                  "lng" : -73.97656201970848
+               },
+               "southwest" : {
+                  "lat" : 40.57409351970851,
+                  "lng" : -73.97925998029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei1TdXJmIEF2ZSAmIFcgMTB0aCBTdCwgQnJvb2tseW4sIE5ZIDExMjI0LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

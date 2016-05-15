@@ -1,0 +1,5 @@
+
+{ "results" : [ {
+   "geometry" : { "location" : { "lat" : 40.877713, "lng" : -73.922302 } },
+   "types" : [ "point_of_interest" ]
+  } ], "status" : "OK" }

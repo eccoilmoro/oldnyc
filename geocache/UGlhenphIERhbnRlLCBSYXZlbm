@@ -1,0 +1,630 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Dante",
+               "short_name" : "Viale Dante",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Dante, 48022 Lugo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.417721,
+                  "lng" : 11.9399079
+               },
+               "southwest" : {
+                  "lat" : 44.4154401,
+                  "lng" : 11.9189595
+               }
+            },
+            "location" : {
+               "lat" : 44.4154627,
+               "lng" : 11.929687
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4179295302915,
+                  "lng" : 11.9399079
+               },
+               "southwest" : {
+                  "lat" : 44.4152315697085,
+                  "lng" : 11.9189595
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJt49GliYDfkcRSv6x_sIlgvk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Dante Alighieri",
+               "short_name" : "Piazza Dante Alighieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Dante Alighieri, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2917577,
+                  "lng" : 11.8876154
+               },
+               "southwest" : {
+                  "lat" : 44.2904871,
+                  "lng" : 11.8858686
+               }
+            },
+            "location" : {
+               "lat" : 44.2912442,
+               "lng" : 11.8871182
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2924713802915,
+                  "lng" : 11.8880909802915
+               },
+               "southwest" : {
+                  "lat" : 44.2897734197085,
+                  "lng" : 11.8853930197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvxjMLRxOKxMRsw2TQtv2cro",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazzetta Dante",
+               "short_name" : "Piazzetta Dante",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russi",
+               "short_name" : "Russi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Russi",
+               "short_name" : "Russi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48026",
+               "short_name" : "48026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazzetta Dante, 48026 Russi RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.37172109999999,
+                  "lng" : 12.0322115
+               },
+               "southwest" : {
+                  "lat" : 44.37144,
+                  "lng" : 12.0317359
+               }
+            },
+            "location" : {
+               "lat" : 44.3715686,
+               "lng" : 12.0319827
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3729295302915,
+                  "lng" : 12.0333226802915
+               },
+               "southwest" : {
+                  "lat" : 44.3702315697085,
+                  "lng" : 12.0306247197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZWfSCy0AfkcRrcdg1m-3hCg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Dante Alighieri",
+               "short_name" : "Via Dante Alighieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Dante Alighieri, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4170154,
+                  "lng" : 12.2010112
+               },
+               "southwest" : {
+                  "lat" : 44.4153942,
+                  "lng" : 12.2006274
+               }
+            },
+            "location" : {
+               "lat" : 44.4162189,
+               "lng" : 12.2008767
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41755378029149,
+                  "lng" : 12.2021682802915
+               },
+               "southwest" : {
+                  "lat" : 44.4148558197085,
+                  "lng" : 12.1994703197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJyQ-12Vb5fUcRHhk-9mHTFEc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Dante Alighieri",
+               "short_name" : "Via Dante Alighieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cotignola",
+               "short_name" : "Cotignola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cotignola",
+               "short_name" : "Cotignola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Dante Alighieri, 48010 Cotignola RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3886986,
+                  "lng" : 11.9428658
+               },
+               "southwest" : {
+                  "lat" : 44.3814358,
+                  "lng" : 11.9371038
+               }
+            },
+            "location" : {
+               "lat" : 44.3854899,
+               "lng" : 11.9401028
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3886986,
+                  "lng" : 11.9428658
+               },
+               "southwest" : {
+                  "lat" : 44.3814358,
+                  "lng" : 11.9371038
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ8bZ2HogCfkcRsLmtPXF8ZOg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Dante Alighieri",
+               "short_name" : "Viale Dante Alighieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Dante Alighieri, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2729496,
+                  "lng" : 12.3547451
+               },
+               "southwest" : {
+                  "lat" : 44.2666973,
+                  "lng" : 12.3510071
+               }
+            },
+            "location" : {
+               "lat" : 44.2696632,
+               "lng" : 12.3527653
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2729496,
+                  "lng" : 12.3547451
+               },
+               "southwest" : {
+                  "lat" : 44.2666973,
+                  "lng" : 12.3510071
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrTTSEgy0LBMRRV_hwzCYzy4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale D. Alighieri",
+               "short_name" : "Viale D. Alighieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Massa Lombarda",
+               "short_name" : "Massa Lombarda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massa Lombarda",
+               "short_name" : "Massa Lombarda",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48024",
+               "short_name" : "48024",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale D. Alighieri, 48024 Massa Lombarda RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4448988,
+                  "lng" : 11.8398059
+               },
+               "southwest" : {
+                  "lat" : 44.4420101,
+                  "lng" : 11.830089
+               }
+            },
+            "location" : {
+               "lat" : 44.443613,
+               "lng" : 11.8344074
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4448988,
+                  "lng" : 11.8398059
+               },
+               "southwest" : {
+                  "lat" : 44.4420101,
+                  "lng" : 11.830089
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl1tomRkcfkcRSztul96i4Bo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Dante Alighieri",
+               "short_name" : "Viale Dante Alighieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Villanova",
+               "short_name" : "Villanova",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48012",
+               "short_name" : "48012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Dante Alighieri, 48012 Villanova RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4495933,
+                  "lng" : 12.0521144
+               },
+               "southwest" : {
+                  "lat" : 44.4467385,
+                  "lng" : 12.048025
+               }
+            },
+            "location" : {
+               "lat" : 44.4481651,
+               "lng" : 12.0498922
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4495933,
+                  "lng" : 12.0521144
+               },
+               "southwest" : {
+                  "lat" : 44.4467385,
+                  "lng" : 12.048025
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe9Wn1doGfkcROXETdFmHVCA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Dante Alighieri",
+               "short_name" : "Via Dante Alighieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conselice",
+               "short_name" : "Conselice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conselice",
+               "short_name" : "Conselice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48017",
+               "short_name" : "48017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Dante Alighieri, 48017 Conselice RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5101093,
+                  "lng" : 11.83093
+               },
+               "southwest" : {
+                  "lat" : 44.50893780000001,
+                  "lng" : 11.8287325
+               }
+            },
+            "location" : {
+               "lat" : 44.5097736,
+               "lng" : 11.82962
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5108725302915,
+                  "lng" : 11.8311802302915
+               },
+               "southwest" : {
+                  "lat" : 44.5081745697085,
+                  "lng" : 11.8284822697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0xY4zpYZfkcRXVpB6OUJwro",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

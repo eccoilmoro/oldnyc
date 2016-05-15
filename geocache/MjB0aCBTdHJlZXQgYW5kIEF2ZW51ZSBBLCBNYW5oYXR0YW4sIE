@@ -1,0 +1,620 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 20th Street",
+               "short_name" : "E 20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "E 20th St, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7396658,
+                  "lng" : -73.9743738
+               },
+               "southwest" : {
+                  "lat" : 40.731649,
+                  "lng" : -73.99095969999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7359972,
+               "lng" : -73.9822652
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7396658,
+                  "lng" : -73.9743738
+               },
+               "southwest" : {
+                  "lat" : 40.731649,
+                  "lng" : -73.99095969999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJA8hSoQpZwokRjdy0JwwWgoU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 20th Street",
+               "short_name" : "W 20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10011",
+               "short_name" : "10011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 20th St, New York, NY 10011, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7470546,
+                  "lng" : -73.9892816
+               },
+               "southwest" : {
+                  "lat" : 40.7391345,
+                  "lng" : -74.00786169999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7434215,
+               "lng" : -73.9998422
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7470546,
+                  "lng" : -73.9892816
+               },
+               "southwest" : {
+                  "lat" : 40.7391345,
+                  "lng" : -74.00786169999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsRWL7btZwokR7E1JPW1Xwhk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 20th Street",
+               "short_name" : "E 20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 20th St, New York, NY 10009, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7339518,
+                  "lng" : -73.9745317
+               },
+               "southwest" : {
+                  "lat" : 40.7318714,
+                  "lng" : -73.97779939999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7332798,
+               "lng" : -73.9761989
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73426058029149,
+                  "lng" : -73.9745317
+               },
+               "southwest" : {
+                  "lat" : 40.7315626197085,
+                  "lng" : -73.97779939999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE3etQ3NZwokRWSDGXtwaqFw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20th Street Loop",
+               "short_name" : "20th St Loop",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20th St Loop, New York, NY 10009, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7340616,
+                  "lng" : -73.9753501
+               },
+               "southwest" : {
+                  "lat" : 40.7323259,
+                  "lng" : -73.97826449999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7326054,
+               "lng" : -73.9773256
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7345427302915,
+                  "lng" : -73.9753501
+               },
+               "southwest" : {
+                  "lat" : 40.7318447697085,
+                  "lng" : -73.97826449999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJe9WUXXNZwokRuCxMKzAT5a4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20th Street",
+               "short_name" : "20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "20th St, Brooklyn, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6671395,
+                  "lng" : -73.9821328
+               },
+               "southwest" : {
+                  "lat" : 40.6554496,
+                  "lng" : -74.0005393
+               }
+            },
+            "location" : {
+               "lat" : 40.66124850000001,
+               "lng" : -73.99173469999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6671395,
+                  "lng" : -73.9821328
+               },
+               "southwest" : {
+                  "lat" : 40.6554496,
+                  "lng" : -74.0005393
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOQPQ0uBawokRndN917xDBqI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue of the Americas",
+               "short_name" : "Ave of the Americas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10011",
+               "short_name" : "10011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ave of the Americas & W 20th St, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74102,
+               "lng" : -73.9941666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7423689802915,
+                  "lng" : -73.99281761970849
+               },
+               "southwest" : {
+                  "lat" : 40.7396710197085,
+                  "lng" : -73.99551558029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjhBdmUgb2YgdGhlIEFtZXJpY2FzICYgVyAyMHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMTEsIFVTQQ",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9th Avenue",
+               "short_name" : "9th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10011",
+               "short_name" : "10011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9th Ave & W 20th St, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.74463919999999,
+               "lng" : -74.00273059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7459881802915,
+                  "lng" : -74.0013816197085
+               },
+               "southwest" : {
+                  "lat" : 40.7432902197085,
+                  "lng" : -74.0040795802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Eiw5dGggQXZlICYgVyAyMHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMTEsIFVTQQ",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20th Street",
+               "short_name" : "20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ditmars Steinway",
+               "short_name" : "Ditmars Steinway",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11105",
+               "short_name" : "11105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20th St, Queens, NY 11105, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7845662,
+                  "lng" : -73.9131249
+               },
+               "southwest" : {
+                  "lat" : 40.782791,
+                  "lng" : -73.91531400000001
+               }
+            },
+            "location" : {
+               "lat" : 40.7845662,
+               "lng" : -73.91315160000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7850275802915,
+                  "lng" : -73.91287046970851
+               },
+               "southwest" : {
+                  "lat" : 40.7823296197085,
+                  "lng" : -73.91556843029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhWjBlV9fwokRnR9YsIoKTN0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "20th Street",
+               "short_name" : "20th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Union City",
+               "short_name" : "Union City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hudson County",
+               "short_name" : "Hudson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07087",
+               "short_name" : "07087",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20th St, Union City, NJ 07087, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7677701,
+                  "lng" : -74.0380641
+               },
+               "southwest" : {
+                  "lat" : 40.7667171,
+                  "lng" : -74.04129920000001
+               }
+            },
+            "location" : {
+               "lat" : 40.7670433,
+               "lng" : -74.0394658
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7685925802915,
+                  "lng" : -74.0380641
+               },
+               "southwest" : {
+                  "lat" : 40.7658946197085,
+                  "lng" : -74.04129920000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy1hEboNXwokR14pKMICL6Rk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

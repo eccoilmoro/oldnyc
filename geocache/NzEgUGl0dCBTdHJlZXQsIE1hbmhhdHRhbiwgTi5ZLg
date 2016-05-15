@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "71",
+               "short_name" : "71",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pitt Street",
+               "short_name" : "Pitt St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower East Side",
+               "short_name" : "Lower East Side",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10002",
+               "short_name" : "10002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "71 Pitt St, New York, NY 10002, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7181383,
+                  "lng" : -73.9825977
+               },
+               "southwest" : {
+                  "lat" : 40.718133,
+                  "lng" : -73.98261509999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7181383,
+               "lng" : -73.98261509999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7194846302915,
+                  "lng" : -73.98125741970848
+               },
+               "southwest" : {
+                  "lat" : 40.7167866697085,
+                  "lng" : -73.9839553802915
+               }
+            }
+         },
+         "place_id" : "EiM3MSBQaXR0IFN0LCBOZXcgWW9yaywgTlkgMTAwMDIsIFVTQQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "479",
+               "short_name" : "479",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "8638",
+               "short_name" : "8638",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "479 1st Avenue, New York, NY 10016, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.74050709999999,
+                  "lng" : -73.9763667
+               },
+               "southwest" : {
+                  "lat" : 40.7402444,
+                  "lng" : -73.97664879999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7403757,
+               "lng" : -73.97650779999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7417247302915,
+                  "lng" : -73.97515876970849
+               },
+               "southwest" : {
+                  "lat" : 40.7390267697085,
+                  "lng" : -73.97785673029149
+               }
+            }
+         },
+         "place_id" : "ChIJcawWtw5ZwokRtvq9qR9Wn3Q",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

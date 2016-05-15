@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue of the Americas",
+               "short_name" : "Ave of the Americas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10018",
+               "short_name" : "10018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ave of the Americas & W 40th St, New York, NY 10018, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.753554,
+               "lng" : -73.98504299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7549029802915,
+                  "lng" : -73.98369401970849
+               },
+               "southwest" : {
+                  "lat" : 40.75220501970851,
+                  "lng" : -73.9863919802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjhBdmUgb2YgdGhlIEFtZXJpY2FzICYgVyA0MHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMTgsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

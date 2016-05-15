@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "541",
+               "short_name" : "541",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hudson Street",
+               "short_name" : "Hudson St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10014",
+               "short_name" : "10014",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "0680",
+               "short_name" : "0680",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "541 Hudson St, New York, NY 10014, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7348192,
+                  "lng" : -74.0062832
+               },
+               "southwest" : {
+                  "lat" : 40.7347459,
+                  "lng" : -74.00644579999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7347826,
+               "lng" : -74.0063645
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7361315302915,
+                  "lng" : -74.00501551970848
+               },
+               "southwest" : {
+                  "lat" : 40.7334335697085,
+                  "lng" : -74.0077134802915
+               }
+            }
+         },
+         "place_id" : "ChIJFWv9tJRZwokRdC25GjJOskI",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

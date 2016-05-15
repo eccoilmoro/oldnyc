@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2nd Avenue",
+               "short_name" : "2nd Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Village",
+               "short_name" : "East Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10003",
+               "short_name" : "10003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2nd Ave & E 10th St, New York, NY 10003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7297665,
+               "lng" : -73.9868067
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7311154802915,
+                  "lng" : -73.98545771970851
+               },
+               "southwest" : {
+                  "lat" : 40.7284175197085,
+                  "lng" : -73.98815568029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EiwybmQgQXZlICYgRSAxMHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMDMsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

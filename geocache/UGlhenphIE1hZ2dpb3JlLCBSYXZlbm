@@ -1,0 +1,205 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Maggiore",
+               "short_name" : "Via Maggiore",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Maggiore, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4214984,
+                  "lng" : 12.194127
+               },
+               "southwest" : {
+                  "lat" : 44.4197942,
+                  "lng" : 12.187124
+               }
+            },
+            "location" : {
+               "lat" : 44.4206523,
+               "lng" : 12.1906896
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4219952802915,
+                  "lng" : 12.194127
+               },
+               "southwest" : {
+                  "lat" : 44.41929731970851,
+                  "lng" : 12.187124
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDeCgZKr-fUcRCyxRryT4HVc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Faentina Sud",
+               "short_name" : "Via Faentina Sud",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Russi",
+               "short_name" : "Russi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48026",
+               "short_name" : "48026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Faentina Sud, 48026 Russi RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3687213,
+                  "lng" : 12.0262404
+               },
+               "southwest" : {
+                  "lat" : 44.3642727,
+                  "lng" : 12.018467
+               }
+            },
+            "location" : {
+               "lat" : 44.3665838,
+               "lng" : 12.02252
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3687213,
+                  "lng" : 12.0262404
+               },
+               "southwest" : {
+                  "lat" : 44.3642727,
+                  "lng" : 12.018467
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCUa_ntQBfkcRpiWBjRlamJg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Lago Maggiore",
+               "short_name" : "Via Lago Maggiore",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Lago Maggiore, 48122 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4343231,
+                  "lng" : 12.2093835
+               },
+               "southwest" : {
+                  "lat" : 44.4326575,
+                  "lng" : 12.2049326
+               }
+            },
+            "location" : {
+               "lat" : 44.4335694,
+               "lng" : 12.2072419
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4348392802915,
+                  "lng" : 12.2093835
+               },
+               "southwest" : {
+                  "lat" : 44.4321413197085,
+                  "lng" : 12.2049326
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsQ2O3vP7fUcRFMifW8KLjSA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

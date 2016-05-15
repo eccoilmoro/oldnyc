@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ann Street",
+               "short_name" : "Ann St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10038",
+               "short_name" : "10038",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ann St & Nassau St, New York, NY 10038, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.71059289999999,
+               "lng" : -74.0073731
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71194188029149,
+                  "lng" : -74.00602411970848
+               },
+               "southwest" : {
+                  "lat" : 40.70924391970849,
+                  "lng" : -74.00872208029151
+               }
+            }
+         },
+         "place_id" : "EitBbm4gU3QgJiBOYXNzYXUgU3QsIE5ldyBZb3JrLCBOWSAxMDAzOCwgVVNB",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

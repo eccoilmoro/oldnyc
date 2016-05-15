@@ -1,0 +1,3 @@
+[console_scripts]
+dpxdt = dpxdt.tools.local_pdiff:run
+

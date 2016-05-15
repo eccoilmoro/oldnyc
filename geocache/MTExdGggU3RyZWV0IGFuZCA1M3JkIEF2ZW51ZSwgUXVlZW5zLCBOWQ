@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "111th Street",
+               "short_name" : "111th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corona",
+               "short_name" : "Corona",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11368",
+               "short_name" : "11368",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "111th St & 53rd Ave, Corona, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7435316,
+               "lng" : -73.851468
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74488058029149,
+                  "lng" : -73.8501190197085
+               },
+               "southwest" : {
+                  "lat" : 40.74218261970849,
+                  "lng" : -73.85281698029151
+               }
+            }
+         },
+         "place_id" : "EioxMTF0aCBTdCAmIDUzcmQgQXZlLCBDb3JvbmEsIE5ZIDExMzY4LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

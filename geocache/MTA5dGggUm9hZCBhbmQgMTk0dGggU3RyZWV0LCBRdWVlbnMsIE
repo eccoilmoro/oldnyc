@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "194th Street",
+               "short_name" : "194th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. Albans",
+               "short_name" : "St. Albans",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11412",
+               "short_name" : "11412",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "194th St & 109th Rd, St. Albans, NY 11412, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.70475,
+               "lng" : -73.76347299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.70609898029149,
+                  "lng" : -73.76212401970849
+               },
+               "southwest" : {
+                  "lat" : 40.7034010197085,
+                  "lng" : -73.7648219802915
+               }
+            }
+         },
+         "place_id" : "Ei4xOTR0aCBTdCAmIDEwOXRoIFJkLCBTdC4gQWxiYW5zLCBOWSAxMTQxMiwgVVNB",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

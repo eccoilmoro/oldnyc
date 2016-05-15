@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "80",
+               "short_name" : "80",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "8th Avenue",
+               "short_name" : "8th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10011",
+               "short_name" : "10011",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5126",
+               "short_name" : "5126",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "80 8th Ave, New York, NY 10011, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.739869,
+               "lng" : -74.00203499999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7412179802915,
+                  "lng" : -74.0006860197085
+               },
+               "southwest" : {
+                  "lat" : 40.7385200197085,
+                  "lng" : -74.0033839802915
+               }
+            }
+         },
+         "place_id" : "ChIJz1MJaL5ZwokRTyHXjFd9hJc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

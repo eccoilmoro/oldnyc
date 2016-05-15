@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington Avenue",
+               "short_name" : "Lexington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown East",
+               "short_name" : "Midtown East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10022",
+               "short_name" : "10022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lexington Ave & E 56th St, New York, NY 10022, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7602536,
+               "lng" : -73.9696318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76160258029149,
+                  "lng" : -73.96828281970849
+               },
+               "southwest" : {
+                  "lat" : 40.7589046197085,
+                  "lng" : -73.97098078029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjJMZXhpbmd0b24gQXZlICYgRSA1NnRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMjIsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

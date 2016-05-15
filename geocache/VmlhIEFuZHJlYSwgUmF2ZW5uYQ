@@ -1,0 +1,705 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Agnello Istorico",
+               "short_name" : "Via Andrea Agnello Istorico",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Agnello Istorico, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4179409,
+                  "lng" : 12.1947552
+               },
+               "southwest" : {
+                  "lat" : 44.4165299,
+                  "lng" : 12.1932694
+               }
+            },
+            "location" : {
+               "lat" : 44.4175431,
+               "lng" : 12.1943578
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4185843802915,
+                  "lng" : 12.1953612802915
+               },
+               "southwest" : {
+                  "lat" : 44.4158864197085,
+                  "lng" : 12.1926633197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk1LtlVT5fUcReS2fYD1ReIE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sant'Andrea dei Goti",
+               "short_name" : "Via Sant'Andrea dei Goti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Sant'Andrea dei Goti, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4275708,
+                  "lng" : 12.2042418
+               },
+               "southwest" : {
+                  "lat" : 44.4269101,
+                  "lng" : 12.203013
+               }
+            },
+            "location" : {
+               "lat" : 44.4271003,
+               "lng" : 12.2033745
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4285894302915,
+                  "lng" : 12.20497638029151
+               },
+               "southwest" : {
+                  "lat" : 44.4258914697085,
+                  "lng" : 12.2022784197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl4eSMfr7fUcRMktmGqxMqOY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Costa",
+               "short_name" : "Via Andrea Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Costa, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2839398,
+                  "lng" : 11.86784
+               },
+               "southwest" : {
+                  "lat" : 44.2807523,
+                  "lng" : 11.8658016
+               }
+            },
+            "location" : {
+               "lat" : 44.2824258,
+               "lng" : 11.8668413
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2839398,
+                  "lng" : 11.8681697802915
+               },
+               "southwest" : {
+                  "lat" : 44.2807523,
+                  "lng" : 11.8654718197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX2ITpDhOKxMRkkqeFUSzjBE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Costa",
+               "short_name" : "Via Andrea Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lavezzola",
+               "short_name" : "Lavezzola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conselice",
+               "short_name" : "Conselice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48017",
+               "short_name" : "48017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Costa, 48017 Lavezzola RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5653883,
+                  "lng" : 11.8750087
+               },
+               "southwest" : {
+                  "lat" : 44.5643386,
+                  "lng" : 11.8729676
+               }
+            },
+            "location" : {
+               "lat" : 44.5648365,
+               "lng" : 11.8734791
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.56621243029149,
+                  "lng" : 11.8753371302915
+               },
+               "southwest" : {
+                  "lat" : 44.5635144697085,
+                  "lng" : 11.8726391697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9b2f49QQfkcR_nBpRhuN8wc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via A. Costa",
+               "short_name" : "Via A. Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Maria in Fabriago",
+               "short_name" : "Santa Maria in Fabriago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via A. Costa, 48022 Santa Maria in Fabriago RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4874522,
+                  "lng" : 11.8871172
+               },
+               "southwest" : {
+                  "lat" : 44.48662239999999,
+                  "lng" : 11.8838122
+               }
+            },
+            "location" : {
+               "lat" : 44.4871563,
+               "lng" : 11.8850809
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4883862802915,
+                  "lng" : 11.8871172
+               },
+               "southwest" : {
+                  "lat" : 44.4856883197085,
+                  "lng" : 11.8838122
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9_1VBqobfkcRwFJXfaHXQvE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Costa",
+               "short_name" : "Via Andrea Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48011",
+               "short_name" : "48011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Costa, 48011 Alfonsine RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5037805,
+                  "lng" : 12.0410593
+               },
+               "southwest" : {
+                  "lat" : 44.50369320000001,
+                  "lng" : 12.0400199
+               }
+            },
+            "location" : {
+               "lat" : 44.5037312,
+               "lng" : 12.0410593
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5050858302915,
+                  "lng" : 12.0418885802915
+               },
+               "southwest" : {
+                  "lat" : 44.5023878697085,
+                  "lng" : 12.0391906197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJRSuYywcGfkcRaaBhsJ5HEmg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Costa",
+               "short_name" : "Via Andrea Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48012",
+               "short_name" : "48012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Costa, 48012 Bagnacavallo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4202197,
+                  "lng" : 11.9802575
+               },
+               "southwest" : {
+                  "lat" : 44.4193732,
+                  "lng" : 11.978849
+               }
+            },
+            "location" : {
+               "lat" : 44.419394,
+               "lng" : 11.9802575
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4211454302915,
+                  "lng" : 11.9809022302915
+               },
+               "southwest" : {
+                  "lat" : 44.4184474697085,
+                  "lng" : 11.9782042697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaX58R8cDfkcR0gl1tMAFBeI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Costa",
+               "short_name" : "Via Andrea Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fusignano",
+               "short_name" : "Fusignano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fusignano",
+               "short_name" : "Fusignano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Costa, 48010 Fusignano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4694099,
+                  "lng" : 11.9588125
+               },
+               "southwest" : {
+                  "lat" : 44.4685267,
+                  "lng" : 11.9581935
+               }
+            },
+            "location" : {
+               "lat" : 44.4689048,
+               "lng" : 11.958465
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4703172802915,
+                  "lng" : 11.9598519802915
+               },
+               "southwest" : {
+                  "lat" : 44.4676193197085,
+                  "lng" : 11.9571540197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJk-iuGOwEfkcRE5qfJzSpzoE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Costa",
+               "short_name" : "Via Andrea Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sant'Agata Sul Santerno",
+               "short_name" : "Sant'Agata Sul Santerno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sant'Agata sul Santerno",
+               "short_name" : "Sant'Agata sul Santerno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48020",
+               "short_name" : "48020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Costa, 48020 Sant'Agata Sul Santerno RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4413711,
+                  "lng" : 11.8623678
+               },
+               "southwest" : {
+                  "lat" : 44.4405543,
+                  "lng" : 11.8617902
+               }
+            },
+            "location" : {
+               "lat" : 44.4413711,
+               "lng" : 11.8623678
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4423116802915,
+                  "lng" : 11.8634279802915
+               },
+               "southwest" : {
+                  "lat" : 44.4396137197085,
+                  "lng" : 11.8607300197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJQUAoNGEcfkcRo6fJIvN54OM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Andrea Costa",
+               "short_name" : "Via Andrea Costa",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Solarolo",
+               "short_name" : "Solarolo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solarolo",
+               "short_name" : "Solarolo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48027",
+               "short_name" : "48027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Andrea Costa, 48027 Solarolo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3585839,
+                  "lng" : 11.8478223
+               },
+               "southwest" : {
+                  "lat" : 44.3578196,
+                  "lng" : 11.8472315
+               }
+            },
+            "location" : {
+               "lat" : 44.3585839,
+               "lng" : 11.8478223
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3595507302915,
+                  "lng" : 11.8488758802915
+               },
+               "southwest" : {
+                  "lat" : 44.3568527697085,
+                  "lng" : 11.8461779197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9-xoQxxNKxMRtvVu5SxGnjc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

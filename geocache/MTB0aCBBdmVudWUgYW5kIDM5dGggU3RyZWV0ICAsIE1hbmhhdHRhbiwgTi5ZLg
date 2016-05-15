@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Avenue",
+               "short_name" : "10th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hell's Kitchen",
+               "short_name" : "Hell's Kitchen",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10018",
+               "short_name" : "10018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th Ave & W 39th St, New York, NY 10018, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7577372,
+               "lng" : -73.996854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7590861802915,
+                  "lng" : -73.9955050197085
+               },
+               "southwest" : {
+                  "lat" : 40.75638821970851,
+                  "lng" : -73.99820298029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMHRoIEF2ZSAmIFcgMzl0aCBTdCwgTmV3IFlvcmssIE5ZIDEwMDE4LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

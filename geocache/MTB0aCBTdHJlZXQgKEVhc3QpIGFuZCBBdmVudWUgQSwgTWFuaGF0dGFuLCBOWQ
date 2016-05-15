@@ -1,0 +1,565 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 10th Street",
+               "short_name" : "E 10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Village",
+               "short_name" : "East Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 10th St & Avenue A, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7278523,
+               "lng" : -73.9822353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7292012802915,
+                  "lng" : -73.9808863197085
+               },
+               "southwest" : {
+                  "lat" : 40.7265033197085,
+                  "lng" : -73.98358428029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei1FIDEwdGggU3QgJiBBdmVudWUgQSwgTmV3IFlvcmssIE5ZIDEwMDA5LCBVU0E",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 10th Street",
+               "short_name" : "W 10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W 10th St, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7350008,
+                  "lng" : -73.9955166
+               },
+               "southwest" : {
+                  "lat" : 40.7330614,
+                  "lng" : -74.0101627
+               }
+            },
+            "location" : {
+               "lat" : 40.7342534,
+               "lng" : -74.00298359999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7353800802915,
+                  "lng" : -73.9955166
+               },
+               "southwest" : {
+                  "lat" : 40.7326821197085,
+                  "lng" : -74.0101627
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK5F8b5RZwokRRybkRYgqAR0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Avenue",
+               "short_name" : "10th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "10th Ave, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7704272,
+                  "lng" : -73.9868805
+               },
+               "southwest" : {
+                  "lat" : 40.738744,
+                  "lng" : -74.0099465
+               }
+            },
+            "location" : {
+               "lat" : 40.7549252,
+               "lng" : -73.9989099
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7704272,
+                  "lng" : -73.9868805
+               },
+               "southwest" : {
+                  "lat" : 40.738744,
+                  "lng" : -74.0099465
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0_TaCbNZwokRZl2axsLVerI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Street",
+               "short_name" : "10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10001",
+               "short_name" : "10001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th St, Manhattan, NY 10001, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6725594,
+                  "lng" : -73.97734299999999
+               },
+               "southwest" : {
+                  "lat" : 40.664012,
+                  "lng" : -73.995096
+               }
+            },
+            "location" : {
+               "lat" : 40.6680094,
+               "lng" : -73.9856257
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6725594,
+                  "lng" : -73.97734299999999
+               },
+               "southwest" : {
+                  "lat" : 40.664012,
+                  "lng" : -73.995096
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9bAM4_xawokRf_HrMHnT_EI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue A",
+               "short_name" : "Avenue A",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenue A, New York, NY 10009, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7303991,
+                  "lng" : -73.980203
+               },
+               "southwest" : {
+                  "lat" : 40.7222756,
+                  "lng" : -73.9865042
+               }
+            },
+            "location" : {
+               "lat" : 40.7260554,
+               "lng" : -73.9835429
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7303991,
+                  "lng" : -73.980203
+               },
+               "southwest" : {
+                  "lat" : 40.7222756,
+                  "lng" : -73.9865042
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjxJBWZ1ZwokRddG4mpA2ors",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Street",
+               "short_name" : "10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th St, Queens, NY 11106, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.767376,
+                  "lng" : -73.9371093
+               },
+               "southwest" : {
+                  "lat" : 40.7512861,
+                  "lng" : -73.94990469999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7586865,
+               "lng" : -73.94249809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.767376,
+                  "lng" : -73.9371093
+               },
+               "southwest" : {
+                  "lat" : 40.7512861,
+                  "lng" : -73.94990469999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJX7_wds5YwokRLS1D_sLGumU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Street",
+               "short_name" : "10th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hunters Point",
+               "short_name" : "Hunters Point",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11101",
+               "short_name" : "11101",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th St, Queens, NY 11101, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7556756,
+                  "lng" : -73.94525039999999
+               },
+               "southwest" : {
+                  "lat" : 40.7482569,
+                  "lng" : -73.952232
+               }
+            },
+            "location" : {
+               "lat" : 40.7522184,
+               "lng" : -73.94880809999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7556756,
+                  "lng" : -73.94525039999999
+               },
+               "southwest" : {
+                  "lat" : 40.7482569,
+                  "lng" : -73.952232
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb5eTb9hYwokRt6iLHD3JK_Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East End Avenue",
+               "short_name" : "East End Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East End Ave, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7776417,
+                  "lng" : -73.94300129999999
+               },
+               "southwest" : {
+                  "lat" : 40.7704094,
+                  "lng" : -73.9486072
+               }
+            },
+            "location" : {
+               "lat" : 40.7736925,
+               "lng" : -73.9456902
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7776417,
+                  "lng" : -73.94300129999999
+               },
+               "southwest" : {
+                  "lat" : 40.7704094,
+                  "lng" : -73.9486072
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHVwdPrdYwokRYpko12l7K80",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

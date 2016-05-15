@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus Avenue",
+               "short_name" : "Columbus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbus Ave, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8017591,
+                  "lng" : -73.9608897
+               },
+               "southwest" : {
+                  "lat" : 40.76921230000001,
+                  "lng" : -73.98507549999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7854736,
+               "lng" : -73.9729361
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8017591,
+                  "lng" : -73.9608897
+               },
+               "southwest" : {
+                  "lat" : 40.76921230000001,
+                  "lng" : -73.98507549999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJeYDZHoVYwokRF8808fLGmLw",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

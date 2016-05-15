@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broadway",
+               "short_name" : "Broadway",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10003",
+               "short_name" : "10003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broadway & E 10th St, New York, NY 10003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7317192,
+               "lng" : -73.9914682
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7330681802915,
+                  "lng" : -73.99011921970849
+               },
+               "southwest" : {
+                  "lat" : 40.7303702197085,
+                  "lng" : -73.99281718029151
+               }
+            }
+         },
+         "place_id" : "Ei1Ccm9hZHdheSAmIEUgMTB0aCBTdCwgTmV3IFlvcmssIE5ZIDEwMDAzLCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

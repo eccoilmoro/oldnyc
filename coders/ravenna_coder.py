@@ -19,7 +19,7 @@ import record
 #boros = '(?:Cervia|Borgo San Biagio|Borgo S.Biagio|Borgo San Rocco|Borgo S.Rocco|Bosco Baronio|Marina di Ravenna|Punta Marina|Classe|)'
 #boros_re = r'(?:Cervia|Borgo San Biagio|Borgo S.Biagio|Borgo San Rocco|Borgo S.Rocco|Bosco Baronio|Marina di Ravenna|Punta Marina|Classe|)'
 
-streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta)'
+streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Via Ponte|Via Porta)'
 
 # example: "100th Street (East) & 1st Avenue, Manhattan, NY"
 # 30337 / 36328 (0.8351)
@@ -37,14 +37,20 @@ streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta)
 #   313
 #address2_re = r'(\d+)(?:-\d+)? ([a-zA-Z 0-9]*? %s).*, (%s)' % (streets, boros)
 
-address3_re = r'((%s [A-Z]{1}[a-zA-Z]+ [A-Z]{1}[a-zA-Z]+ |%s [a-z]{1}[a-zA-Z]+ [A-Z]{1}[a-zA-Z]+ |%s [A-Z]{1}[a-zA-Z]+))' % (streets,streets,streets)
+#address3_re = r'((%s\s+(San|S.|Santi|Santissimo|Santissima)\s+[A-Z]{1}[a-z]+ |%s\s+[a-z]+\s+[A-Z]{1}[a-z]+ |%s\s+[A-Z]{1}[a-z]+))' % (streets,streets,streets)
 
+#
 
+address3_re = r'((?:Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Chiesa di)\s+(?:San|S.|Santi|Santissimo|Santissima|XX|IV)\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Mausoleo|Palazzo|Circonvallazione|Battistero|Molo|Canale)\s+[a-z]+\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Piazza Anita|Piazza Dora|Piazza Andrea|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Ponte|Giardini|giardini|Porto|Darsena|S.|San|Santa|Sant.|Biblioteca|Loggetta|Bagno|Villaggio|Torre|Pialassa|Molo|Hotel|Circolo|Battistero|Teatro|Canale)\s+[A-Z]{1}[a-z]+|(?:Darsena|darsena|[S,s]tazione|[I,i]ppodromo|Mirabilandia|Standiana|Candiano|Baretto|Mercato Coperto|Anic|Sarom|Portonaccio|Pala de Andr.|colonia|Colonia|S.Apollinare|Duomo|Diga|Capanno Garibaldi|Rocca Brancaleone|Piazza dell.Aquila|Sant.Apollinare|[O,o]spedale|[f,F]aro|Tomba di Dante|Stadio))'
+
+city_re = r'(?:Marina di Ravenna|Punta Marina|Cervia|Milano Marittima|Classe|Lido Adriano|Casal Borsetti|Marina Romea|Porto Corsini|Lido di Savio|Lido di Dante|Fosso Ghiaia|Coccolia)'
 
 #address4_re = r'((%s .* ))' % (boros)
 
 #cross_patterns = [cross_and_re, cross_dash_re]
 addr_patterns = [address3_re]
+
+city_patterns = [city_re]
 
 # (From Wikipedia)
 #staten_neighborhoods = r'Annadale|Arden Heights|Arlington|Arrochar|Bay Terrace|Bloomfield|Brighton Heights|Bulls Head|Castleton|Castleton Corners|Charleston|Chelsea|Clifton|Concord|Dongan Hills|Egbertville|Elm Park|Eltingville|Emerson Hill|Fort Wadsworth|Graniteville|Grant City|Grasmere|Great Kills|Greenridge|Grymes Hill|Hamilton Park|Heartland Village|Huguenot|Lighthouse Hill|Livingston|Manor Heights|Mariners Harbor|Mariner\'s Harbor|Meiers Corners|Midland Beach|New Brighton|New Dorp|New Springville|Oakwood|Ocean Breeze|Old Place|Old Town|Pleasant Plains|Port Richmond|Prince\'s Bay|Randall Manor|Richmond Valley|Richmondtown|Rosebank|Rossville|Sandy Ground|Shore Acres|Silver Lake|South Beach|St\. George|Stapleton|Stapleton Heights|Sunnyside|Todt Hill|Tompkinsville|Tottenville|Tottenville Beach|Travis|Ward Hill|Westerleigh|West New Brighton|Willowbrook|Woodrow'
@@ -81,16 +87,28 @@ class RavennaCoder:
     loc = r.location().strip()
     m = None
     
+    #determine the city
+    for pattern in city_patterns:
+        #sys.stderr.write("0-City:" + loc+" ")
+        m = re.match(pattern, loc)
+        if m: break
+    if m:
+      city=m.group(0)
+    else:
+      city='Ravenna'
+
+    m = None
 
     for pattern in addr_patterns:
-      #sys.stderr.write(addr_patterns)
+      #sys.stderr.write("1-Loc:" + loc+" ")
       m = re.match(pattern, loc)
       if m: break
     if m:
-      sys.stderr.write('Trovata la via!')
+      #sys.stderr.write('2-Resp : Trovata la via! ')
       #number, street, city = m.groups()
-      street, city = m.groups()
-      city = 'Ravenna'
+      #sys.stderr.write('3-Trovato ' + m.group(0) + ' \n')
+      street = m.group(0)
+    
       # number & street may be swapped.
       #try:
       #  x = int(number)
@@ -104,11 +122,11 @@ class RavennaCoder:
           'type': 'street_address'
         }
     else:
-       sys.stderr.write('NON Trovata la via!')
-       city = 'Ravenna'
+       #sys.stderr.write('2-Resp : NON Trovata la via! \n')
+       #geocodes just the city
        return {
           #'address': '%s %s, %s' % (number, street, city),
-          'address' : '%s, %s' % (loc, city),  
+          'address' : '%s, %s' % ('', city),  
           'source': loc,
           'type': 'street_address'
        }

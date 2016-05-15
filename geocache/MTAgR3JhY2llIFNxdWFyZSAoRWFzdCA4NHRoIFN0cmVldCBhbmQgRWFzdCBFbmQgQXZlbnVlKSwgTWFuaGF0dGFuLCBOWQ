@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 84th Street",
+               "short_name" : "E 84th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Yorkville",
+               "short_name" : "Yorkville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10028",
+               "short_name" : "10028",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 84th St & East End Ave & Gracie Square, New York, NY 10028, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7736224,
+               "lng" : -73.9457372
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7749713802915,
+                  "lng" : -73.9443882197085
+               },
+               "southwest" : {
+                  "lat" : 40.7722734197085,
+                  "lng" : -73.94708618029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EkFFIDg0dGggU3QgJiBFYXN0IEVuZCBBdmUgJiBHcmFjaWUgU3F1YXJlLCBOZXcgWW9yaywgTlkgMTAwMjgsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

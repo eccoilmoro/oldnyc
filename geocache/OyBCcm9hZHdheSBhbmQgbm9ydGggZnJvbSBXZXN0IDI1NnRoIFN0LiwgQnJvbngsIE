@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 256th Street",
+               "short_name" : "W 256th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Riverdale",
+               "short_name" : "North Riverdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Bronx",
+               "short_name" : "Bronx",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Bronx County",
+               "short_name" : "Bronx County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10471",
+               "short_name" : "10471",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 256th St, Bronx, NY 10471, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.904808,
+                  "lng" : -73.89639559999999
+               },
+               "southwest" : {
+                  "lat" : 40.902857,
+                  "lng" : -73.9088742
+               }
+            },
+            "location" : {
+               "lat" : 40.9038811,
+               "lng" : -73.9031286
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9051814802915,
+                  "lng" : -73.89639559999999
+               },
+               "southwest" : {
+                  "lat" : 40.9024835197085,
+                  "lng" : -73.9088742
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFZW-CU3ywokRwfMpGzLxksA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "109th Avenue",
+               "short_name" : "109th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jamaica",
+               "short_name" : "Jamaica",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11435",
+               "short_name" : "11435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "109th Ave & Pinegrove St, Jamaica, NY 11435, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.688809,
+               "lng" : -73.80286699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6901579802915,
+                  "lng" : -73.80151801970848
+               },
+               "southwest" : {
+                  "lat" : 40.6874600197085,
+                  "lng" : -73.8042159802915
+               }
+            }
+         },
+         "place_id" : "EjAxMDl0aCBBdmUgJiBQaW5lZ3JvdmUgU3QsIEphbWFpY2EsIE5ZIDExNDM1LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

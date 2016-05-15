@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "10th Avenue",
+               "short_name" : "10th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hell's Kitchen",
+               "short_name" : "Hell's Kitchen",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10036",
+               "short_name" : "10036",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10th Ave & W 41st St, New York, NY 10036, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7589488,
+               "lng" : -73.99594519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76029778029149,
+                  "lng" : -73.99459621970848
+               },
+               "southwest" : {
+                  "lat" : 40.7575998197085,
+                  "lng" : -73.9972941802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei0xMHRoIEF2ZSAmIFcgNDFzdCBTdCwgTmV3IFlvcmssIE5ZIDEwMDM2LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

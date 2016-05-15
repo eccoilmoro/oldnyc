@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "147th Street",
+               "short_name" : "147th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Whitestone",
+               "short_name" : "Whitestone",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11357",
+               "short_name" : "11357",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "147th St & 10th Ave, Whitestone, NY 11357, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7912995,
+               "lng" : -73.8201948
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7926484802915,
+                  "lng" : -73.8188458197085
+               },
+               "southwest" : {
+                  "lat" : 40.7899505197085,
+                  "lng" : -73.82154378029151
+               }
+            }
+         },
+         "place_id" : "Ei4xNDd0aCBTdCAmIDEwdGggQXZlLCBXaGl0ZXN0b25lLCBOWSAxMTM1NywgVVNB",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Girotto Guaccimanni",
+               "short_name" : "Via G. Guaccimanni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via G. Guaccimanni, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4159718,
+                  "lng" : 12.2045638
+               },
+               "southwest" : {
+                  "lat" : 44.4152686,
+                  "lng" : 12.2002338
+               }
+            },
+            "location" : {
+               "lat" : 44.41568179999999,
+               "lng" : 12.2023183
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4169691802915,
+                  "lng" : 12.2045638
+               },
+               "southwest" : {
+                  "lat" : 44.4142712197085,
+                  "lng" : 12.2002338
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ91I4Slf5fUcR2G9BV3w2mJ0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,415 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sant'Alberto",
+               "short_name" : "Via Sant'Alberto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Sant'Alberto, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4605196,
+                  "lng" : 12.2020672
+               },
+               "southwest" : {
+                  "lat" : 44.42183130000001,
+                  "lng" : 12.1845512
+               }
+            },
+            "location" : {
+               "lat" : 44.4398783,
+               "lng" : 12.1974485
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4605196,
+                  "lng" : 12.2020672
+               },
+               "southwest" : {
+                  "lat" : 44.42183130000001,
+                  "lng" : 12.1845512
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdWraVgj8fUcRyImHPMGvpBo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sant'Agata",
+               "short_name" : "Via Sant'Agata",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Sant'Agata, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4150751,
+                  "lng" : 12.2031069
+               },
+               "southwest" : {
+                  "lat" : 44.4142807,
+                  "lng" : 12.20178
+               }
+            },
+            "location" : {
+               "lat" : 44.4147749,
+               "lng" : 12.2024935
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4160268802915,
+                  "lng" : 12.2037924302915
+               },
+               "southwest" : {
+                  "lat" : 44.4133289197085,
+                  "lng" : 12.2010944697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOWOCulD5fUcROQIfrr7TQxo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sant'Anna",
+               "short_name" : "Via Sant'Anna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Sant'Anna, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4220093,
+                  "lng" : 12.2006131
+               },
+               "southwest" : {
+                  "lat" : 44.4217077,
+                  "lng" : 12.2002261
+               }
+            },
+            "location" : {
+               "lat" : 44.4217558,
+               "lng" : 12.2002961
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4232074802915,
+                  "lng" : 12.2017685802915
+               },
+               "southwest" : {
+                  "lat" : 44.4205095197085,
+                  "lng" : 12.1990706197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_Q8k2_37fUcRjVCfakaPNN8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sant'Agata",
+               "short_name" : "Via Sant'Agata",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lido di Savio",
+               "short_name" : "Lido di Savio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Sant'Agata, 48125 Lido di Savio RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3018861,
+                  "lng" : 12.3450315
+               },
+               "southwest" : {
+                  "lat" : 44.3009643,
+                  "lng" : 12.3447029
+               }
+            },
+            "location" : {
+               "lat" : 44.301734,
+               "lng" : 12.344831
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3027741802915,
+                  "lng" : 12.3462161802915
+               },
+               "southwest" : {
+                  "lat" : 44.3000762197085,
+                  "lng" : 12.3435182197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3S69N32zLBMRRoxJ447Kl70",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sant'Antonio",
+               "short_name" : "Via Sant'Antonio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Sant'Antonio, 48125 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2978508,
+                  "lng" : 12.186142
+               },
+               "southwest" : {
+                  "lat" : 44.2951789,
+                  "lng" : 12.1817063
+               }
+            },
+            "location" : {
+               "lat" : 44.2962679,
+               "lng" : 12.1841136
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.29786383029149,
+                  "lng" : 12.186142
+               },
+               "southwest" : {
+                  "lat" : 44.2951658697085,
+                  "lng" : 12.1817063
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJy0-ehWmsLBMRlPIf0h6N9ys",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Sant'Andrea",
+               "short_name" : "Via Sant'Andrea",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "San Potito",
+               "short_name" : "San Potito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48022",
+               "short_name" : "48022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Sant'Andrea, 48022 San Potito RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4552535,
+                  "lng" : 11.93395
+               },
+               "southwest" : {
+                  "lat" : 44.4336569,
+                  "lng" : 11.8790095
+               }
+            },
+            "location" : {
+               "lat" : 44.4437611,
+               "lng" : 11.9083685
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4552535,
+                  "lng" : 11.93395
+               },
+               "southwest" : {
+                  "lat" : 44.4336569,
+                  "lng" : 11.8790095
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtyzEylIDfkcRkVFpRaLLDyU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

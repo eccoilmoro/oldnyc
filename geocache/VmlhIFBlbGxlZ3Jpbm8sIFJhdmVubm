@@ -1,0 +1,210 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Pellegrino Matteucci",
+               "short_name" : "Via Pellegrino Matteucci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Pellegrino Matteucci, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4203348,
+                  "lng" : 12.2001762
+               },
+               "southwest" : {
+                  "lat" : 44.4195599,
+                  "lng" : 12.1987805
+               }
+            },
+            "location" : {
+               "lat" : 44.4201121,
+               "lng" : 12.1992287
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4212963302915,
+                  "lng" : 12.2008273302915
+               },
+               "southwest" : {
+                  "lat" : 44.4185983697085,
+                  "lng" : 12.1981293697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI1JZD1b5fUcR_v4fRe5AhMs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Pellegrino",
+               "short_name" : "Via Pellegrino",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Borgo Maringon-case Armuzzi",
+               "short_name" : "Borgo Maringon-case Armuzzi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cesena",
+               "short_name" : "Cesena",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Forlì-Cesena",
+               "short_name" : "FC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47522",
+               "short_name" : "47522",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Pellegrino, 47522 Borgo Maringon-case Armuzzi FC, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2214027,
+                  "lng" : 12.2481882
+               },
+               "southwest" : {
+                  "lat" : 44.22106730000001,
+                  "lng" : 12.2423564
+               }
+            },
+            "location" : {
+               "lat" : 44.22123,
+               "lng" : 12.2453971
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.22258398029151,
+                  "lng" : 12.2481882
+               },
+               "southwest" : {
+                  "lat" : 44.21988601970851,
+                  "lng" : 12.2423564
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvY0NT9CvLBMRcIZPqECYC94",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via San Pellegrino",
+               "short_name" : "Via S. Pellegrino",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cesenatico",
+               "short_name" : "Cesenatico",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Forlì-Cesena",
+               "short_name" : "FC",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47042",
+               "short_name" : "47042",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via S. Pellegrino, 47042 Cesenatico FC, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.1906068,
+                  "lng" : 12.371176
+               },
+               "southwest" : {
+                  "lat" : 44.1767254,
+                  "lng" : 12.349526
+               }
+            },
+            "location" : {
+               "lat" : 44.1838132,
+               "lng" : 12.3603863
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1906068,
+                  "lng" : 12.371176
+               },
+               "southwest" : {
+                  "lat" : 44.1767254,
+                  "lng" : 12.349526
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoe-sXlC3LBMRX487K_hYGAY",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

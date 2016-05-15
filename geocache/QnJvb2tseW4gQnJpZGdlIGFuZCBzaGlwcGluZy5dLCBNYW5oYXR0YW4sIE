@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ship Ways Avenue",
+               "short_name" : "Ship Ways Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11201",
+               "short_name" : "11201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ship Ways Ave, Brooklyn, NY 11201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7029104,
+                  "lng" : -73.97723119999999
+               },
+               "southwest" : {
+                  "lat" : 40.701991,
+                  "lng" : -73.97976389999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7021673,
+               "lng" : -73.9789885
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7037996802915,
+                  "lng" : -73.9771485697085
+               },
+               "southwest" : {
+                  "lat" : 40.7011017197085,
+                  "lng" : -73.97984653029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJxVviSMxbwokRFaNpQtMYtHs",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,565 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 12th Street",
+               "short_name" : "E 12th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alphabet City",
+               "short_name" : "Alphabet City",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 12th St & Avenue A, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7290635,
+               "lng" : -73.98131979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7304124802915,
+                  "lng" : -73.9799708197085
+               },
+               "southwest" : {
+                  "lat" : 40.7277145197085,
+                  "lng" : -73.9826687802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei1FIDEydGggU3QgJiBBdmVudWUgQSwgTmV3IFlvcmssIE5ZIDEwMDA5LCBVU0E",
+         "types" : [ "intersection" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 12th Street",
+               "short_name" : "W 12th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W 12th St, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.73798379999999,
+                  "lng" : -73.9945869
+               },
+               "southwest" : {
+                  "lat" : 40.732694,
+                  "lng" : -74.009984
+               }
+            },
+            "location" : {
+               "lat" : 40.7372245,
+               "lng" : -74.00068039999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73798379999999,
+                  "lng" : -73.9945869
+               },
+               "southwest" : {
+                  "lat" : 40.732694,
+                  "lng" : -74.009984
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs_eUt5VZwokRN0c7gP5nTW0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue A",
+               "short_name" : "Avenue A",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenue A, New York, NY 10009, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7303991,
+                  "lng" : -73.980203
+               },
+               "southwest" : {
+                  "lat" : 40.7222756,
+                  "lng" : -73.9865042
+               }
+            },
+            "location" : {
+               "lat" : 40.7260554,
+               "lng" : -73.9835429
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7303991,
+                  "lng" : -73.980203
+               },
+               "southwest" : {
+                  "lat" : 40.7222756,
+                  "lng" : -73.9865042
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjxJBWZ1ZwokRddG4mpA2ors",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Little West 12th Street",
+               "short_name" : "Little W 12th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10014",
+               "short_name" : "10014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Little W 12th St, New York, NY 10014, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7409084,
+                  "lng" : -74.00567509999999
+               },
+               "southwest" : {
+                  "lat" : 40.7395054,
+                  "lng" : -74.00897449999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7403051,
+               "lng" : -74.0079403
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7415558802915,
+                  "lng" : -74.00567509999999
+               },
+               "southwest" : {
+                  "lat" : 40.7388579197085,
+                  "lng" : -74.00897449999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJOU1va8BZwokRDM3NlWVnOOE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12th Avenue",
+               "short_name" : "12th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "12th Ave, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.75837629999999,
+                  "lng" : -74.0038218
+               },
+               "southwest" : {
+                  "lat" : 40.7478483,
+                  "lng" : -74.0094036
+               }
+            },
+            "location" : {
+               "lat" : 40.7533164,
+               "lng" : -74.0072297
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75837629999999,
+                  "lng" : -74.0038218
+               },
+               "southwest" : {
+                  "lat" : 40.7478483,
+                  "lng" : -74.0094036
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCbzThktYwokRkx5vyE69szA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12th Street",
+               "short_name" : "12th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11106",
+               "short_name" : "11106",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12th St, Queens, NY 11106, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.77591,
+                  "lng" : -73.92834999999999
+               },
+               "southwest" : {
+                  "lat" : 40.7505518,
+                  "lng" : -73.948183
+               }
+            },
+            "location" : {
+               "lat" : 40.7625512,
+               "lng" : -73.9380743
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.77591,
+                  "lng" : -73.92834999999999
+               },
+               "southwest" : {
+                  "lat" : 40.7505518,
+                  "lng" : -73.948183
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJia9ZYstYwokRS93id9ZwjAA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "12th Street",
+               "short_name" : "12th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11215",
+               "short_name" : "11215",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "12th St, Brooklyn, NY 11215, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6722198,
+                  "lng" : -73.97833439999999
+               },
+               "southwest" : {
+                  "lat" : 40.662799,
+                  "lng" : -73.99717799999999
+               }
+            },
+            "location" : {
+               "lat" : 40.6673735,
+               "lng" : -73.98781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6722198,
+                  "lng" : -73.97833439999999
+               },
+               "southwest" : {
+                  "lat" : 40.662799,
+                  "lng" : -73.99717799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrW1-uvxawokRh4HQM_Ys4is",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "East End Avenue",
+               "short_name" : "East End Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper East Side",
+               "short_name" : "UES",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East End Ave, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7776417,
+                  "lng" : -73.94300129999999
+               },
+               "southwest" : {
+                  "lat" : 40.7704094,
+                  "lng" : -73.9486072
+               }
+            },
+            "location" : {
+               "lat" : 40.7736925,
+               "lng" : -73.9456902
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7776417,
+                  "lng" : -73.94300129999999
+               },
+               "southwest" : {
+                  "lat" : 40.7704094,
+                  "lng" : -73.9486072
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJHVwdPrdYwokRYpko12l7K80",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

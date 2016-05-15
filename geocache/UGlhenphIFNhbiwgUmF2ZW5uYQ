@@ -1,0 +1,700 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza San Bartolo",
+               "short_name" : "Piazza San Bartolo",
+               "types" : []
+            },
+            {
+               "long_name" : "San Bartolo",
+               "short_name" : "San Bartolo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza San Bartolo, 48124 San Bartolo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3616087,
+                  "lng" : 12.18215
+               },
+               "southwest" : {
+                  "lat" : 44.3608203,
+                  "lng" : 12.1811325
+               }
+            },
+            "location" : {
+               "lat" : 44.3612709,
+               "lng" : 12.1816046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.36256348029149,
+                  "lng" : 12.1829902302915
+               },
+               "southwest" : {
+                  "lat" : 44.35986551970849,
+                  "lng" : 12.1802922697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqVjtGLr4fUcRVGuXVMXuPMA",
+         "types" : []
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Marco Piazza",
+               "short_name" : "San Marco Piazza",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "San Marco",
+               "short_name" : "San Marco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Marco Piazza, 48124 San Marco RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.372006,
+               "lng" : 12.139631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3733549802915,
+                  "lng" : 12.1409799802915
+               },
+               "southwest" : {
+                  "lat" : 44.3706570197085,
+                  "lng" : 12.1382820197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJXyqt4BL_fUcRd-gGrHz9tiU",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Ravenna",
+               "short_name" : "Piazza Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Firenze",
+               "short_name" : "Firenze",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florence",
+               "short_name" : "Florence",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Firenze",
+               "short_name" : "FI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Toscana",
+               "short_name" : "Toscana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50126",
+               "short_name" : "50126",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Ravenna, 50126 Firenze, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7640726,
+                  "lng" : 11.2819354
+               },
+               "southwest" : {
+                  "lat" : 43.7636771,
+                  "lng" : 11.2814107
+               }
+            },
+            "location" : {
+               "lat" : 43.7637496,
+               "lng" : 11.2818617
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7652238302915,
+                  "lng" : 11.2830220302915
+               },
+               "southwest" : {
+                  "lat" : 43.7625258697085,
+                  "lng" : 11.2803240697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJI1267IlTKhMR-A972jGxUBE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Long Grove",
+               "short_name" : "Long Grove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vernon Township",
+               "short_name" : "Vernon Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lake County",
+               "short_name" : "Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60060",
+               "short_name" : "60060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ravenna, Long Grove, IL 60060, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2291864,
+                  "lng" : -87.99406330000001
+               },
+               "southwest" : {
+                  "lat" : 42.22907379999999,
+                  "lng" : -87.9953687
+               }
+            },
+            "location" : {
+               "lat" : 42.2291777,
+               "lng" : -87.9947368
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2304790802915,
+                  "lng" : -87.9933670197085
+               },
+               "southwest" : {
+                  "lat" : 42.2277811197085,
+                  "lng" : -87.99606498029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJa4B9feiXD4gRSPYNzHmdOHU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza San Francesco",
+               "short_name" : "Piazza San Francesco",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Piazza San Francesco",
+               "short_name" : "Piazza S. Francesco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza San Francesco, Piazza S. Francesco, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.28830970000001,
+                  "lng" : 11.8861932
+               },
+               "southwest" : {
+                  "lat" : 44.287822,
+                  "lng" : 11.8854931
+               }
+            },
+            "location" : {
+               "lat" : 44.2880896,
+               "lng" : 11.885875
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.28941483029151,
+                  "lng" : 11.8871921302915
+               },
+               "southwest" : {
+                  "lat" : 44.28671686970851,
+                  "lng" : 11.8844941697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNWNHAh9OKxMRZ_L4Bhtum8g",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza",
+               "short_name" : "Piazza",
+               "types" : []
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2833093,
+                  "lng" : 11.8886502
+               },
+               "southwest" : {
+                  "lat" : 44.2824393,
+                  "lng" : 11.8881563
+               }
+            },
+            "location" : {
+               "lat" : 44.283191,
+               "lng" : 11.8884595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2842232802915,
+                  "lng" : 11.8897522302915
+               },
+               "southwest" : {
+                  "lat" : 44.28152531970851,
+                  "lng" : 11.8870542697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJmeSFiCBOKxMRfnh6apKSNkY",
+         "types" : []
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sant'Alberto Piazza",
+               "short_name" : "Sant'Alberto Piazza",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Sant'Alberto",
+               "short_name" : "Sant'Alberto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sant'Alberto Piazza, 48123 Sant'Alberto RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.54296,
+               "lng" : 12.154366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5443089802915,
+                  "lng" : 12.1557149802915
+               },
+               "southwest" : {
+                  "lat" : 44.5416110197085,
+                  "lng" : 12.1530170197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ-SutJHnifUcR6QKILub7ax0",
+         "types" : [
+            "bus_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Ravenna",
+               "short_name" : "Piazza Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cabras",
+               "short_name" : "Cabras",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cabras",
+               "short_name" : "Cabras",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Oristano",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sardegna",
+               "short_name" : "Sardegna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09072",
+               "short_name" : "09072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Ravenna, 09072 Cabras OR, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9267374,
+                  "lng" : 8.5406304
+               },
+               "southwest" : {
+                  "lat" : 39.9256604,
+                  "lng" : 8.5393914
+               }
+            },
+            "location" : {
+               "lat" : 39.926395,
+               "lng" : 8.539814699999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.92754788029149,
+                  "lng" : 8.541359880291502
+               },
+               "southwest" : {
+                  "lat" : 39.92484991970849,
+                  "lng" : 8.538661919708497
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn9xmxJGe3RIRquCIOJq9EhY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Westpark",
+               "short_name" : "Westpark",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92614",
+               "short_name" : "92614",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ravenna, Irvine, CA 92614, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6758972,
+                  "lng" : -117.8191785
+               },
+               "southwest" : {
+                  "lat" : 33.674923,
+                  "lng" : -117.820315
+               }
+            },
+            "location" : {
+               "lat" : 33.6754322,
+               "lng" : -117.8198559
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6767590802915,
+                  "lng" : -117.8183977697085
+               },
+               "southwest" : {
+                  "lat" : 33.6740611197085,
+                  "lng" : -117.8210957302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH5VldtLd3IARdXeEj0NbDUc",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Sant'Agostino",
+               "short_name" : "Piazza Sant'Agostino",
+               "types" : []
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Sant'Agostino, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2836592,
+                  "lng" : 11.8804694
+               },
+               "southwest" : {
+                  "lat" : 44.2833328,
+                  "lng" : 11.8799958
+               }
+            },
+            "location" : {
+               "lat" : 44.2834665,
+               "lng" : 11.8802168
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2848449802915,
+                  "lng" : 11.8815815802915
+               },
+               "southwest" : {
+                  "lat" : 44.2821470197085,
+                  "lng" : 11.8788836197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpWBaDyNOKxMRtttogvj4Ilc",
+         "types" : []
+      }
+   ],
+   "status" : "OK"
+}

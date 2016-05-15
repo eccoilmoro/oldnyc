@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Village",
+               "short_name" : "East Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10009",
+               "short_name" : "10009",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1st Avenue & E 10th St, New York, NY 10009, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7287487,
+               "lng" : -73.98445219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73009768029151,
+                  "lng" : -73.9831032197085
+               },
+               "southwest" : {
+                  "lat" : 40.72739971970851,
+                  "lng" : -73.9858011802915
+               }
+            }
+         },
+         "place_id" : "Ei8xc3QgQXZlbnVlICYgRSAxMHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMDksIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

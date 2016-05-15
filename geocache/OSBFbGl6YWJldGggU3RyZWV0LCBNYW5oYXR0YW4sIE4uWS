@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Elizabeth Street",
+               "short_name" : "Elizabeth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10013",
+               "short_name" : "10013",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "4563",
+               "short_name" : "4563",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "9 Elizabeth St, New York, NY 10013, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7159376,
+                  "lng" : -73.997511
+               },
+               "southwest" : {
+                  "lat" : 40.7157639,
+                  "lng" : -73.9978667
+               }
+            },
+            "location" : {
+               "lat" : 40.7158508,
+               "lng" : -73.99768879999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7171997302915,
+                  "lng" : -73.99633986970849
+               },
+               "southwest" : {
+                  "lat" : 40.7145017697085,
+                  "lng" : -73.99903783029151
+               }
+            }
+         },
+         "place_id" : "ChIJVXP2pydawokRvks5oQxvSz4",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

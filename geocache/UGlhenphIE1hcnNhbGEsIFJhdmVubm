@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Marsala",
+               "short_name" : "Piazza Marsala",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Marsala, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.420356,
+               "lng" : 12.1990046
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4217049802915,
+                  "lng" : 12.2003535802915
+               },
+               "southwest" : {
+                  "lat" : 44.4190070197085,
+                  "lng" : 12.1976556197085
+               }
+            }
+         },
+         "place_id" : "ChIJT2Hu91X5fUcR_v7C9jUc5SI",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

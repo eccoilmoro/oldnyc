@@ -1,0 +1,440 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street 5",
+               "short_name" : "Street 5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Damietta",
+               "short_name" : "Damietta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Damietta Governorate",
+               "short_name" : "Damietta Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Street 5, Damietta, Damietta Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5152957,
+                  "lng" : 31.837306
+               },
+               "southwest" : {
+                  "lat" : 31.5138008,
+                  "lng" : 31.8337441
+               }
+            },
+            "location" : {
+               "lat" : 31.5145334,
+               "lng" : 31.8355704
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5158972302915,
+                  "lng" : 31.837306
+               },
+               "southwest" : {
+                  "lat" : 31.5131992697085,
+                  "lng" : 31.8337441
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_XNbJcjw-RQRtk96Q1ngEtE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street 42",
+               "short_name" : "Street 42",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Qism Ras Ghareb",
+               "short_name" : "Qism Ras Ghareb",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Red Sea Governorate",
+               "short_name" : "Red Sea Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Street 42, Qism Ras Ghareb, Red Sea Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.3528048,
+                  "lng" : 33.0776127
+               },
+               "southwest" : {
+                  "lat" : 28.3517236,
+                  "lng" : 33.075375
+               }
+            },
+            "location" : {
+               "lat" : 28.3525269,
+               "lng" : 33.0764264
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.3536131802915,
+                  "lng" : 33.07784283029149
+               },
+               "southwest" : {
+                  "lat" : 28.3509152197085,
+                  "lng" : 33.0751448697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO2sn32FfURQR-nerC8et6V4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "42nd Street",
+               "short_name" : "42nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Nangainallur",
+               "short_name" : "Nangainallur",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Chennai",
+               "short_name" : "Chennai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanchipuram",
+               "short_name" : "Kanchipuram",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamil Nadu",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "600061",
+               "short_name" : "600061",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42nd St, Nangainallur, Chennai, Tamil Nadu 600061, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.9832237,
+                  "lng" : 80.1873099
+               },
+               "southwest" : {
+                  "lat" : 12.9820091,
+                  "lng" : 80.1870235
+               }
+            },
+            "location" : {
+               "lat" : 12.9832237,
+               "lng" : 80.1870965
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.9839653802915,
+                  "lng" : 80.1885156802915
+               },
+               "southwest" : {
+                  "lat" : 12.9812674197085,
+                  "lng" : 80.1858177197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJKQvLrgBeUjoRdY-YjLO-iu0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Street 5",
+               "short_name" : "Street 5",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dana Al Gadidah WA Izbat Al Westaneyah",
+               "short_name" : "Dana Al Gadidah WA Izbat Al Westaneyah",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Qism El-Raml",
+               "short_name" : "Qism El-Raml",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alexandria Governorate",
+               "short_name" : "Alexandria Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "11 Street 5, Dana Al Gadidah WA Izbat Al Westaneyah, Qism El-Raml, Alexandria Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.2288559,
+                  "lng" : 29.97931639999999
+               },
+               "southwest" : {
+                  "lat" : 31.2288027,
+                  "lng" : 29.9791606
+               }
+            },
+            "location" : {
+               "lat" : 31.2288293,
+               "lng" : 29.9792385
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.2301782802915,
+                  "lng" : 29.9805874802915
+               },
+               "southwest" : {
+                  "lat" : 31.2274803197085,
+                  "lng" : 29.9778895197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJz0iy5yvb9RQR0JKHhH6M4mU",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southeast 42nd Place",
+               "short_name" : "SE 42nd Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32641",
+               "short_name" : "32641",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "SE 42nd Pl, Gainesville, FL 32641, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.61422,
+                  "lng" : -82.3061427
+               },
+               "southwest" : {
+                  "lat" : 29.613804,
+                  "lng" : -82.30727519999999
+               }
+            },
+            "location" : {
+               "lat" : 29.614008,
+               "lng" : -82.30727519999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6153609802915,
+                  "lng" : -82.30535996970848
+               },
+               "southwest" : {
+                  "lat" : 29.6126630197085,
+                  "lng" : -82.3080579302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJc4TMm9Sj6IgRaQaQMmVp31Y",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street 42",
+               "short_name" : "Street 42",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alexandria",
+               "short_name" : "Alexandria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Khorshid Al Qebleyah",
+               "short_name" : "Khorshid Al Qebleyah",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Qism El-Raml",
+               "short_name" : "Qism El-Raml",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alexandria Governorate",
+               "short_name" : "Alexandria Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Street 42, Khorshid Al Qebleyah, Qism El-Raml, Alexandria Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.18699639999999,
+                  "lng" : 30.0076312
+               },
+               "southwest" : {
+                  "lat" : 31.1865807,
+                  "lng" : 30.0073548
+               }
+            },
+            "location" : {
+               "lat" : 31.1867917,
+               "lng" : 30.0074951
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.1881375302915,
+                  "lng" : 30.0088419802915
+               },
+               "southwest" : {
+                  "lat" : 31.1854395697085,
+                  "lng" : 30.0061440197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJfbXc32Lb9RQRIWMTNWPNo58",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Street 11",
+               "short_name" : "Street 11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ras El-Bar City",
+               "short_name" : "Ras El-Bar City",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Damietta",
+               "short_name" : "Damietta",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Damietta Governorate",
+               "short_name" : "Damietta Governorate",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Egypt",
+               "short_name" : "EG",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Street 11, Ras El-Bar City, Damietta, Damietta Governorate, Egypt",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.5143592,
+                  "lng" : 31.8352987
+               },
+               "southwest" : {
+                  "lat" : 31.5137855,
+                  "lng" : 31.8338825
+               }
+            },
+            "location" : {
+               "lat" : 31.5140955,
+               "lng" : 31.8345166
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.5154213302915,
+                  "lng" : 31.8359395802915
+               },
+               "southwest" : {
+                  "lat" : 31.5127233697085,
+                  "lng" : 31.8332416197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJla8o57fw-RQRSvbd5DCfAd0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lenox Avenue",
+               "short_name" : "Lenox Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Central Park",
+               "short_name" : "Central Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10026",
+               "short_name" : "10026",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lenox Ave & W 110th St, New York, NY 10026, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7982211,
+               "lng" : -73.95240249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7995700802915,
+                  "lng" : -73.95105351970848
+               },
+               "southwest" : {
+                  "lat" : 40.7968721197085,
+                  "lng" : -73.9537514802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei9MZW5veCBBdmUgJiBXIDExMHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMjYsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

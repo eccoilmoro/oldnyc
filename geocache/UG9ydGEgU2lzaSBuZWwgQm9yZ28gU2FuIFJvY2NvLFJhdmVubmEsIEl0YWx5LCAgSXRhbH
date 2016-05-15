@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porta Sisi",
+               "short_name" : "Porta Sisi",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Borgo San Rocco",
+               "short_name" : "Borgo San Rocco",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Campiano",
+               "short_name" : "Campiano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Porta Sisi, Borgo San Rocco, 48125 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.29868,
+               "lng" : 12.195144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.30002898029149,
+                  "lng" : 12.1964929802915
+               },
+               "southwest" : {
+                  "lat" : 44.29733101970849,
+                  "lng" : 12.1937950197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZ08JJEWsLBMRx6DUuQRsyEc",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5th Avenue",
+               "short_name" : "5th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown East",
+               "short_name" : "Midtown East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10022",
+               "short_name" : "10022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5th Ave & W 54th St, New York, NY 10022, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.76105099999999,
+               "lng" : -73.9753635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7623999802915,
+                  "lng" : -73.9740145197085
+               },
+               "southwest" : {
+                  "lat" : 40.7597020197085,
+                  "lng" : -73.97671248029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Eiw1dGggQXZlICYgVyA1NHRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMjIsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

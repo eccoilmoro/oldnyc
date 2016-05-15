@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hudson Street",
+               "short_name" : "Hudson St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10014",
+               "short_name" : "10014",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hudson St & W 10th St, New York, NY 10014, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7337243,
+               "lng" : -74.00632159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73507328029149,
+                  "lng" : -74.0049726197085
+               },
+               "southwest" : {
+                  "lat" : 40.7323753197085,
+                  "lng" : -74.0076705802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei5IdWRzb24gU3QgJiBXIDEwdGggU3QsIE5ldyBZb3JrLCBOWSAxMDAxNCwgVVNB",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,705 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Vittorio Nivellini",
+               "short_name" : "Via Vittorio Nivellini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Vittorio Nivellini, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4139484,
+                  "lng" : 12.1774907
+               },
+               "southwest" : {
+                  "lat" : 44.4125883,
+                  "lng" : 12.1772256
+               }
+            },
+            "location" : {
+               "lat" : 44.4130467,
+               "lng" : 12.1773656
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4146173302915,
+                  "lng" : 12.1787071302915
+               },
+               "southwest" : {
+                  "lat" : 44.4119193697085,
+                  "lng" : 12.1760091697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJd_sItbr-fUcRcD-bDrXQsw8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Vittorio Alfieri",
+               "short_name" : "Viale Vittorio Alfieri",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lido Adriano",
+               "short_name" : "Lido Adriano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Vittorio Alfieri, 48122 Lido Adriano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4182659,
+                  "lng" : 12.3082517
+               },
+               "southwest" : {
+                  "lat" : 44.4153276,
+                  "lng" : 12.3065419
+               }
+            },
+            "location" : {
+               "lat" : 44.416732,
+               "lng" : 12.3072066
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4182659,
+                  "lng" : 12.3087457802915
+               },
+               "southwest" : {
+                  "lat" : 44.4153276,
+                  "lng" : 12.3060478197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUziFOLfwfUcRT6_NDrxCCQw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Vittorio Veneto",
+               "short_name" : "Via Vittorio Veneto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Castiglione di Cervia",
+               "short_name" : "Castiglione di Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48125",
+               "short_name" : "48125",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Vittorio Veneto, 48125 Castiglione di Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2618334,
+                  "lng" : 12.2553472
+               },
+               "southwest" : {
+                  "lat" : 44.25992129999999,
+                  "lng" : 12.2537003
+               }
+            },
+            "location" : {
+               "lat" : 44.2610135,
+               "lng" : 12.254593
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.26222633029149,
+                  "lng" : 12.2558727302915
+               },
+               "southwest" : {
+                  "lat" : 44.2595283697085,
+                  "lng" : 12.2531747697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1TT1_AGuLBMRcBO3gahSfew",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale G. di Vittorio",
+               "short_name" : "Viale G. di Vittorio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale G. di Vittorio, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2718559,
+                  "lng" : 12.3487546
+               },
+               "southwest" : {
+                  "lat" : 44.26212839999999,
+                  "lng" : 12.3253685
+               }
+            },
+            "location" : {
+               "lat" : 44.2663559,
+               "lng" : 12.3369158
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2718559,
+                  "lng" : 12.3487546
+               },
+               "southwest" : {
+                  "lat" : 44.26212839999999,
+                  "lng" : 12.3253685
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvf7bRPCzLBMRRmxjeMNCR5s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giuseppe di Vittorio",
+               "short_name" : "Via Giuseppe di Vittorio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Conselice",
+               "short_name" : "Conselice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Conselice",
+               "short_name" : "Conselice",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48017",
+               "short_name" : "48017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giuseppe di Vittorio, 48017 Conselice RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5087199,
+                  "lng" : 11.8291106
+               },
+               "southwest" : {
+                  "lat" : 44.5071244,
+                  "lng" : 11.8206102
+               }
+            },
+            "location" : {
+               "lat" : 44.5080576,
+               "lng" : 11.8248926
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.50927113029149,
+                  "lng" : 11.8291106
+               },
+               "southwest" : {
+                  "lat" : 44.5065731697085,
+                  "lng" : 11.8206102
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJE2144JcZfkcRRxRo-8uSFTE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Vittorio Veneto",
+               "short_name" : "Viale Vittorio Veneto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Vittorio Veneto, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2743455,
+                  "lng" : 12.3531486
+               },
+               "southwest" : {
+                  "lat" : 44.26557589999999,
+                  "lng" : 12.3475247
+               }
+            },
+            "location" : {
+               "lat" : 44.2698084,
+               "lng" : 12.3503781
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2743455,
+                  "lng" : 12.3531486
+               },
+               "southwest" : {
+                  "lat" : 44.26557589999999,
+                  "lng" : 12.3475247
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO50rvwu0LBMREZiIeowl8_c",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale Vittorio Veneto",
+               "short_name" : "Viale Vittorio Veneto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faenza",
+               "short_name" : "Faenza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48018",
+               "short_name" : "48018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale Vittorio Veneto, 48018 Faenza RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2923784,
+                  "lng" : 11.8692769
+               },
+               "southwest" : {
+                  "lat" : 44.2858657,
+                  "lng" : 11.8665707
+               }
+            },
+            "location" : {
+               "lat" : 44.2892332,
+               "lng" : 11.8677858
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2923784,
+                  "lng" : 11.8692769
+               },
+               "southwest" : {
+                  "lat" : 44.2858657,
+                  "lng" : 11.8665707
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJdXB0FhVOKxMRiSTDkxSUzmY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Vittorio Veneto",
+               "short_name" : "Via Vittorio Veneto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fusignano",
+               "short_name" : "Fusignano",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fusignano",
+               "short_name" : "Fusignano",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48010",
+               "short_name" : "48010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Vittorio Veneto, 48010 Fusignano RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.470436,
+                  "lng" : 11.9643082
+               },
+               "southwest" : {
+                  "lat" : 44.4676416,
+                  "lng" : 11.9568146
+               }
+            },
+            "location" : {
+               "lat" : 44.46872,
+               "lng" : 11.9606144
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.470436,
+                  "lng" : 11.9643082
+               },
+               "southwest" : {
+                  "lat" : 44.4676416,
+                  "lng" : 11.9568146
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJDZ5iDfIEfkcR8vKeYQLv07s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giuseppe di Vittorio",
+               "short_name" : "Via Giuseppe di Vittorio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Area Industriale",
+               "short_name" : "Area Industriale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giuseppe di Vittorio, 48123 Area Industriale RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4494357,
+                  "lng" : 12.2234542
+               },
+               "southwest" : {
+                  "lat" : 44.4480172,
+                  "lng" : 12.2099918
+               }
+            },
+            "location" : {
+               "lat" : 44.4490168,
+               "lng" : 12.2166428
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4500754302915,
+                  "lng" : 12.2234542
+               },
+               "southwest" : {
+                  "lat" : 44.4473774697085,
+                  "lng" : 12.2099918
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMx1dIIX7fUcRBH605GruLd0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Vittorio Veneto",
+               "short_name" : "Via Vittorio Veneto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bagnacavallo",
+               "short_name" : "Bagnacavallo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48012",
+               "short_name" : "48012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Vittorio Veneto, 48012 Bagnacavallo RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4199068,
+                  "lng" : 11.9761212
+               },
+               "southwest" : {
+                  "lat" : 44.4181211,
+                  "lng" : 11.9752405
+               }
+            },
+            "location" : {
+               "lat" : 44.4194605,
+               "lng" : 11.9759274
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4203629302915,
+                  "lng" : 11.9770298302915
+               },
+               "southwest" : {
+                  "lat" : 44.4176649697085,
+                  "lng" : 11.9743318697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSR7c8LgDfkcRuVMDEvsmWG0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

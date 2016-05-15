@@ -1,0 +1,220 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 32nd Street",
+               "short_name" : "E 32nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10016",
+               "short_name" : "10016",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 32nd St, New York, NY 10016, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7471648,
+                  "lng" : -73.9768253
+               },
+               "southwest" : {
+                  "lat" : 40.7434905,
+                  "lng" : -73.98550400000001
+               }
+            },
+            "location" : {
+               "lat" : 40.7451288,
+               "lng" : -73.9806617
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7471648,
+                  "lng" : -73.9768253
+               },
+               "southwest" : {
+                  "lat" : 40.7434905,
+                  "lng" : -73.98550400000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJaWX62wdZwokRiV5e59eHtyM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 32nd Street",
+               "short_name" : "W 32nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10001",
+               "short_name" : "10001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 32nd St, New York, NY 10001, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7497096,
+                  "lng" : -73.98550400000001
+               },
+               "southwest" : {
+                  "lat" : 40.7470692,
+                  "lng" : -73.991556
+               }
+            },
+            "location" : {
+               "lat" : 40.7485077,
+               "lng" : -73.9887129
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7497383802915,
+                  "lng" : -73.98550400000001
+               },
+               "southwest" : {
+                  "lat" : 40.7470404197085,
+                  "lng" : -73.991556
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJPy3m1ahZwokRL-ar1opUXlM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue of the Americas",
+               "short_name" : "Ave of the Americas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10001",
+               "short_name" : "10001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ave of the Americas & W 32nd St, New York, NY 10001, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7485077,
+               "lng" : -73.9887129
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7498566802915,
+                  "lng" : -73.98736391970849
+               },
+               "southwest" : {
+                  "lat" : 40.7471587197085,
+                  "lng" : -73.99006188029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjhBdmUgb2YgdGhlIEFtZXJpY2FzICYgVyAzMm5kIFN0LCBOZXcgWW9yaywgTlkgMTAwMDEsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

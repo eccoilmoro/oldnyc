@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corona Avenue",
+               "short_name" : "Corona Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Corona",
+               "short_name" : "Corona",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Queens",
+               "short_name" : "Queens",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11368",
+               "short_name" : "11368",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Corona Ave & 111th St, Corona, NY 11368, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7406704,
+               "lng" : -73.85017549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7420193802915,
+                  "lng" : -73.84882651970848
+               },
+               "southwest" : {
+                  "lat" : 40.7393214197085,
+                  "lng" : -73.8515244802915
+               }
+            }
+         },
+         "place_id" : "EixDb3JvbmEgQXZlICYgMTExdGggU3QsIENvcm9uYSwgTlkgMTEzNjgsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

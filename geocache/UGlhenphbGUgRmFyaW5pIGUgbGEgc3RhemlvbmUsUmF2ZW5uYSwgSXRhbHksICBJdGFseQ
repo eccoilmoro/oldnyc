@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ravenna Railway Station",
+               "short_name" : "Ravenna Railway Station",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "13",
+               "short_name" : "13",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Piazza Luigi Carlo Farini",
+               "short_name" : "Piazza Luigi Carlo Farini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ravenna Railway Station, Piazza Luigi Carlo Farini, 13, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4191483,
+               "lng" : 12.2079546
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42049728029151,
+                  "lng" : 12.2093035802915
+               },
+               "southwest" : {
+                  "lat" : 44.41779931970851,
+                  "lng" : 12.2066056197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC4N3fFj5fUcRNYHyqqBTY8I",
+         "types" : [
+            "train_station",
+            "transit_station",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

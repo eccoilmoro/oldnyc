@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East 102nd Street",
+               "short_name" : "E 102nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10029",
+               "short_name" : "10029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "E 102nd St, New York, NY 10029, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7927041,
+                  "lng" : -73.9396551
+               },
+               "southwest" : {
+                  "lat" : 40.7858545,
+                  "lng" : -73.9549921
+               }
+            },
+            "location" : {
+               "lat" : 40.7890143,
+               "lng" : -73.94653509999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7927041,
+                  "lng" : -73.9396551
+               },
+               "southwest" : {
+                  "lat" : 40.7858545,
+                  "lng" : -73.9549921
+               }
+            }
+         },
+         "place_id" : "ChIJb0l7GKhYwokRSGcXyzxQmKQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 102nd Street",
+               "short_name" : "W 102nd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10025",
+               "short_name" : "10025",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "W 102nd St, New York, NY 10025, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7997263,
+                  "lng" : -73.9619149
+               },
+               "southwest" : {
+                  "lat" : 40.7954826,
+                  "lng" : -73.9719248
+               }
+            },
+            "location" : {
+               "lat" : 40.79787,
+               "lng" : -73.967575
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7997263,
+                  "lng" : -73.9619149
+               },
+               "southwest" : {
+                  "lat" : 40.7954826,
+                  "lng" : -73.9719248
+               }
+            }
+         },
+         "place_id" : "ChIJI348IiT2wokRXrXGYIsXv18",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

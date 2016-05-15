@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Hamilton Parkway",
+               "short_name" : "Fort Hamilton Pkwy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bay Ridge",
+               "short_name" : "Bay Ridge",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Brooklyn",
+               "short_name" : "Brooklyn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11209",
+               "short_name" : "11209",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fort Hamilton Pkwy & 100th St, Brooklyn, NY 11209, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6119516,
+               "lng" : -74.0318599
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.61330058029149,
+                  "lng" : -74.0305109197085
+               },
+               "southwest" : {
+                  "lat" : 40.6106026197085,
+                  "lng" : -74.03320888029151
+               }
+            }
+         },
+         "place_id" : "EjZGb3J0IEhhbWlsdG9uIFBrd3kgJiAxMDB0aCBTdCwgQnJvb2tseW4sIE5ZIDExMjA5LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

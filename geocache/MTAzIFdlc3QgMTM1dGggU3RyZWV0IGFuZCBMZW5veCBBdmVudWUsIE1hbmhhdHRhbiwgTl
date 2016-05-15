@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lenox Avenue",
+               "short_name" : "Lenox Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Manhattan",
+               "short_name" : "Upper Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10037",
+               "short_name" : "10037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lenox Ave & W 135th St, New York, NY 10037, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8140919,
+               "lng" : -73.94078360000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8154408802915,
+                  "lng" : -73.93943461970852
+               },
+               "southwest" : {
+                  "lat" : 40.8127429197085,
+                  "lng" : -73.94213258029153
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "Ei9MZW5veCBBdmUgJiBXIDEzNXRoIFN0LCBOZXcgWW9yaywgTlkgMTAwMzcsIFVTQQ",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Battery Park",
+               "short_name" : "Battery Park",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Lower Manhattan",
+               "short_name" : "Lower Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10004",
+               "short_name" : "10004",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Battery Park, New York, NY 10004, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7032775,
+               "lng" : -74.0170279
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7046264802915,
+                  "lng" : -74.01567891970851
+               },
+               "southwest" : {
+                  "lat" : 40.7019285197085,
+                  "lng" : -74.01837688029151
+               }
+            }
+         },
+         "place_id" : "ChIJraKL-BJawokREpxDmF5GcL4",
+         "types" : [ "park", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

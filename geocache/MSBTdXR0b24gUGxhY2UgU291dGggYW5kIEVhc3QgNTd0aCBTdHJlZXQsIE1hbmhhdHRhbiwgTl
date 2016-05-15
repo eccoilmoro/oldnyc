@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 57th Street",
+               "short_name" : "E 57th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown East",
+               "short_name" : "Midtown East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10022",
+               "short_name" : "10022",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 E 57th St, New York, NY 10022, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7630463,
+               "lng" : -73.97352699999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7643952802915,
+                  "lng" : -73.97217801970849
+               },
+               "southwest" : {
+                  "lat" : 40.7616973197085,
+                  "lng" : -73.9748759802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0b1tj_pYwokRKbxTF80CEKo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West 113th Street",
+               "short_name" : "W 113th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Manhattan",
+               "short_name" : "Upper Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "W 113th St, New York, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8069805,
+                  "lng" : -73.9510222
+               },
+               "southwest" : {
+                  "lat" : 40.800066,
+                  "lng" : -73.9675044
+               }
+            },
+            "location" : {
+               "lat" : 40.8031131,
+               "lng" : -73.95823609999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8069805,
+                  "lng" : -73.9510222
+               },
+               "southwest" : {
+                  "lat" : 40.800066,
+                  "lng" : -73.9675044
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJFeHO1Bf2wokRyJtUs1ef3-E",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

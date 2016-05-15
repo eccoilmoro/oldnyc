@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Zuccherificio",
+               "short_name" : "Via Zuccherificio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Classe",
+               "short_name" : "Classe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Zuccherificio, 48124 Classe RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3806197,
+                  "lng" : 12.2391387
+               },
+               "southwest" : {
+                  "lat" : 44.3765002,
+                  "lng" : 12.2345798
+               }
+            },
+            "location" : {
+               "lat" : 44.3786425,
+               "lng" : 12.2365925
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3806197,
+                  "lng" : 12.2391387
+               },
+               "southwest" : {
+                  "lat" : 44.3765002,
+                  "lng" : 12.2345798
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiVAwSU34fUcR59sWYozlh4Q",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

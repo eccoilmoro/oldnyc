@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "383",
+               "short_name" : "383",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "7th Avenue",
+               "short_name" : "7th Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown",
+               "short_name" : "Midtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10001",
+               "short_name" : "10001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "383 7th Ave, New York, NY 10001, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.74918419999999,
+                  "lng" : -73.9919278
+               },
+               "southwest" : {
+                  "lat" : 40.7491772,
+                  "lng" : -73.99194419999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7491772,
+               "lng" : -73.9919278
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75052968029149,
+                  "lng" : -73.9905870197085
+               },
+               "southwest" : {
+                  "lat" : 40.7478317197085,
+                  "lng" : -73.99328498029151
+               }
+            }
+         },
+         "place_id" : "EiQzODMgN3RoIEF2ZSwgTmV3IFlvcmssIE5ZIDEwMDAxLCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

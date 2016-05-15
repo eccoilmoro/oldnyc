@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "215",
+               "short_name" : "215",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "East 121st Street",
+               "short_name" : "E 121st St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Harlem",
+               "short_name" : "East Harlem",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10035",
+               "short_name" : "10035",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "215 E 121st St, New York, NY 10035, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.801032,
+               "lng" : -73.936836
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8023809802915,
+                  "lng" : -73.93548701970849
+               },
+               "southwest" : {
+                  "lat" : 40.7996830197085,
+                  "lng" : -73.93818498029151
+               }
+            }
+         },
+         "place_id" : "ChIJifFlxQn2wokRrxjxxoa_lBA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

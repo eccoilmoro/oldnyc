@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "318",
+               "short_name" : "318",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "West 126th Street",
+               "short_name" : "W 126th St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Manhattan",
+               "short_name" : "Upper Manhattan",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10027",
+               "short_name" : "10027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "318 W 126th St, New York, NY 10027, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.811502,
+                  "lng" : -73.95222939999999
+               },
+               "southwest" : {
+                  "lat" : 40.8114896,
+                  "lng" : -73.9522386
+               }
+            },
+            "location" : {
+               "lat" : 40.8114896,
+               "lng" : -73.9522386
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8128447802915,
+                  "lng" : -73.95088501970849
+               },
+               "southwest" : {
+                  "lat" : 40.8101468197085,
+                  "lng" : -73.9535829802915
+               }
+            }
+         },
+         "place_id" : "EiczMTggVyAxMjZ0aCBTdCwgTmV3IFlvcmssIE5ZIDEwMDI3LCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

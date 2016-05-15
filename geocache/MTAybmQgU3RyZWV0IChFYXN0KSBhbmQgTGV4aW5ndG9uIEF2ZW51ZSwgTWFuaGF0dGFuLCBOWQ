@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington Avenue",
+               "short_name" : "Lexington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Harlem",
+               "short_name" : "East Harlem",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10029",
+               "short_name" : "10029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lexington Ave & E 102nd St, New York, NY 10029, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7896926,
+               "lng" : -73.9481552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7910415802915,
+                  "lng" : -73.94680621970851
+               },
+               "southwest" : {
+                  "lat" : 40.7883436197085,
+                  "lng" : -73.94950418029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjNMZXhpbmd0b24gQXZlICYgRSAxMDJuZCBTdCwgTmV3IFlvcmssIE5ZIDEwMDI5LCBVU0E",
+         "types" : [ "intersection" ]
+      }
+   ],
+   "status" : "OK"
+}

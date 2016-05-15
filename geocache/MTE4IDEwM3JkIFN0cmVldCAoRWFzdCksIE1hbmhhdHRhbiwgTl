@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "118",
+               "short_name" : "118",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "103rd Street",
+               "short_name" : "103rd St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Harlem",
+               "short_name" : "East Harlem",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10029",
+               "short_name" : "10029",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "118 103rd St, New York, NY 10029, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.790523,
+               "lng" : -73.948785
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7918719802915,
+                  "lng" : -73.94743601970849
+               },
+               "southwest" : {
+                  "lat" : 40.7891740197085,
+                  "lng" : -73.9501339802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJkQVjRB32wokRnH6ZRNjlMXo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

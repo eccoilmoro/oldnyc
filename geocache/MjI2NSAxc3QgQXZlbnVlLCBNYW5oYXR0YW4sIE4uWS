@@ -1,0 +1,89 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2265",
+               "short_name" : "2265",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "1st Avenue",
+               "short_name" : "1st Avenue",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Harlem",
+               "short_name" : "East Harlem",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Manhattan",
+               "short_name" : "Manhattan",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "New York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New York County",
+               "short_name" : "New York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10035",
+               "short_name" : "10035",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "5005",
+               "short_name" : "5005",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "2265 1st Avenue, New York, NY 10035, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7964454,
+                  "lng" : -73.93534319999999
+               },
+               "southwest" : {
+                  "lat" : 40.7962939,
+                  "lng" : -73.93558949999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7963697,
+               "lng" : -73.9354663
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7977186302915,
+                  "lng" : -73.93411736970849
+               },
+               "southwest" : {
+                  "lat" : 40.7950206697085,
+                  "lng" : -73.93681533029151
+               }
+            }
+         },
+         "place_id" : "ChIJbyQPZ_31wokRMSSc5Kl0lN4",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}
