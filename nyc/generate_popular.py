@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''Generates popular-photos.js.
 
-Data source is https://docs.google.com/spreadsheet/ccc?key=0Anx1yCqeL8YUdHE0dXR6R01TVnFOeWNkaWpTTHpta2c&usp=docslist_api#gid=2
+Data source is facebook-posts.csv Ho modificato completamente la logica di questo programma. 
 '''
 
 import csv
@@ -9,18 +9,25 @@ import sys
 import json
 
 def run():
-    assert len(sys.argv) == 2
+    
 
     photos = []
     id_to_photo = {}
-    for row in csv.DictReader(open(sys.argv[1])):
-        if row['Image ID'] == '':
+
+    fields = ['fb_id', 'fb_message',  'fb_likes',  'fb_shares', 'fb_create_time',  'fb_object_id',  'fb_status_type',  'fb_full_picture', 'fb_link', 'Description', 'Year',  'Credits']
+    reader = csv.DictReader(file('../facebook-posts.csv'),fields,delimiter=';')
+
+
+    for row in reader:
+        if row['fb_object_id'] == '':
+            break
+        if row['fb_shares'] < 110:
             break
         photo = {
-            'id': row['Image ID'],
-            'date': row['Date'],
-            'loc': row['Location'],
-            'desc': row['Description']
+            'id': row['fb_object_id'],
+            'date': row['Year'],
+            'loc': 'Ravenna',
+            'desc': row['Description'].replace("<br/>"," ")
         }
         photos.append(photo)
         id_to_photo[photo['id']] = photo
