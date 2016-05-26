@@ -30,7 +30,8 @@ pop_ids = {x['id'] for x in popular_photos}
 # strip leading 'var lat_lons = ' and trailing ';'
 lat_lon_to_ids = json.loads(open('viewer/static/js/nyc-lat-lons-ny.js', 'rb').read()[15:-1])
 
-rs = record.AllRecords('nyc/photos.pickle')
+#FRANCO changed photos.pickle to records.pickle
+rs = record.AllRecords('nyc/records.pickle')
 id_to_record = {r.photo_id(): r for r in rs}
 
 id_to_dims = {}
@@ -46,18 +47,22 @@ def get_back_id(photo_id):
 
 # Load the previous iteration of OCR. Corrections are applied on top of
 # this.
-old_data = json.load(open('../oldnyc.github.io/data.json', 'rb'))
-old_photo_id_to_text = {r['photo_id']: r['text'] for r in old_data['photos'] if r['text']}
-manual_ocr_fixes = json.load(open('ocr/feedback/fixes.json', 'rb'))
-back_id_to_correction = manual_ocr_fixes['fixes']
-id_to_text = {}
-for photo_id in id_to_record.iterkeys():
-    back_id = get_back_id(photo_id)
-    if photo_id in old_photo_id_to_text:
-        id_to_text[photo_id] = old_photo_id_to_text[photo_id]
-    if back_id in back_id_to_correction:
-        id_to_text[photo_id] = back_id_to_correction[back_id]
 
+#Commentato da FRANCO non uso OCR fixes
+
+#old_data = json.load(open('../oldnyc.github.io/data.json', 'rb'))
+#old_photo_id_to_text = {r['photo_id']: r['text'] for r in old_data['photos'] if r['text']}
+#manual_ocr_fixes = json.load(open('ocr/feedback/fixes.json', 'rb'))
+#back_id_to_correction = manual_ocr_fixes['fixes']
+#id_to_text = {}
+for photo_id in id_to_record.iterkeys():
+    
+    #back_id = get_back_id(photo_id)
+    #if photo_id in old_photo_id_to_text:
+    #    id_to_text[photo_id] = old_photo_id_to_text[photo_id]
+    #if back_id in back_id_to_correction:
+    #    id_to_text[photo_id] = back_id_to_correction[back_id]
+    id_to_text[photo_id] = {r.description(): r for r in rs}  #riga aggiunta da FRANCO
 
 # (This was only helpful on the initial run, when data came straight from
 # Ocropus.)
@@ -69,13 +74,20 @@ back_id_to_text = None  # clear
 
 
 def image_url(photo_id, is_thumb):
-    degrees = id_to_rotation.get(photo_id)
-    if not degrees:
-        return 'http://oldnyc-assets.nypl.org/%s/%s.jpg' % (
-            'thumb' if is_thumb else '600px', photo_id)
-    else:
-        return 'http://www.oldnyc.org/rotated-assets/%s/%s.%s.jpg' % (
-            'thumb' if is_thumb else '600px', photo_id, degrees)
+    
+    if is_thumb :
+        return 'http://192.168.178-80/thumb/%s.jpg' % (photo_id)
+    else :
+        for r in rs :
+            if r.photo_id() == photo_id : return r.photo_url
+
+    #degrees = id_to_rotation.get(photo_id)
+    #if not degrees:
+    #    return 'http://oldnyc-assets.nypl.org/%s/%s.jpg' % (
+    #        'thumb' if is_thumb else '600px', photo_id)
+    #else:
+    #    return 'http://www.oldnyc.org/rotated-assets/%s/%s.%s.jpg' % (
+    #        'thumb' if is_thumb else '600px', photo_id, degrees)
 
 
 def decode(b):

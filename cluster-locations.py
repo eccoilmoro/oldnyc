@@ -17,7 +17,7 @@ TODO:
 from collections import defaultdict
 import fileinput
 
-DISTANCE_THRESHOLD = 20
+DISTANCE_THRESHOLD = 20 
 
 output_mode = 'map'  # 'urls'
 
