@@ -16,12 +16,13 @@ def run():
 
     fields = ['fb_id', 'fb_message',  'fb_likes',  'fb_shares', 'fb_create_time',  'fb_object_id',  'fb_status_type',  'fb_full_picture', 'fb_link', 'Description', 'Year',  'Credits']
     reader = csv.DictReader(file('../facebook-posts.csv'),fields,delimiter=';')
-
+    next(reader) #skip header
 
     for row in reader:
         if row['fb_object_id'] == '':
             break
-        if row['fb_shares'] < 110:
+        #sys.stderr.write(row['fb_shares']+'\n')
+        if int(row['fb_shares']) < 10:
             break
         photo = {
             'id': row['fb_object_id'],
@@ -46,7 +47,7 @@ def run():
     for row in photos:
         assert 'height' in row
 
-    open('viewer/static/js/popular-photos.js', 'w').write(
+    open('../viewer/static/js/popular-photos.js', 'w+').write(
             'var popular_photos = %s;\n' % json.dumps(photos))
 
 if __name__ == '__main__':
