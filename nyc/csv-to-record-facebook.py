@@ -17,6 +17,7 @@ p = cPickle.Pickler(f, 2)
 
 fields = ['fb_id', 'fb_message',  'fb_likes',  'fb_shares', 'fb_create_time',  'fb_object_id',  'fb_status_type',  'fb_full_picture', 'fb_link', 'Description', 'Year',  'Credits']
 reader = csv.DictReader(file('../facebook-posts.csv'),fields,delimiter=';')
+next(reader) #skip header
 try:
   
   for idx, row in enumerate(reader):

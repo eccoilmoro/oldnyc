@@ -44,7 +44,8 @@ for idx, r in enumerate(rs):
   width, height = [int(x) for x in m.groups()]
   assert width > 0
   assert height > 0
-
+  #if r.photo_id() == '1049912945077203' : sys.stderr.write ("Eccolo \n") #1048279491907215
+  
   base = r.photo_id()
 
   print '%s,%d,%d' % (base, width, height)

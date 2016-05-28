@@ -54,7 +54,7 @@ def get_back_id(photo_id):
 #old_photo_id_to_text = {r['photo_id']: r['text'] for r in old_data['photos'] if r['text']}
 #manual_ocr_fixes = json.load(open('ocr/feedback/fixes.json', 'rb'))
 #back_id_to_correction = manual_ocr_fixes['fixes']
-#id_to_text = {}
+id_to_text = {}
 for photo_id in id_to_record.iterkeys():
     
     #back_id = get_back_id(photo_id)
@@ -62,7 +62,7 @@ for photo_id in id_to_record.iterkeys():
     #    id_to_text[photo_id] = old_photo_id_to_text[photo_id]
     #if back_id in back_id_to_correction:
     #    id_to_text[photo_id] = back_id_to_correction[back_id]
-    id_to_text[photo_id] = {r.description(): r for r in rs}  #riga aggiunta da FRANCO
+    id_to_text[photo_id] = id_to_record[photo_id].description()  #riga aggiunta da FRANCO
 
 # (This was only helpful on the initial run, when data came straight from
 # Ocropus.)
@@ -76,7 +76,7 @@ back_id_to_text = None  # clear
 def image_url(photo_id, is_thumb):
     
     if is_thumb :
-        return 'http://192.168.178-80/thumb/%s.jpg' % (photo_id)
+        return 'http://192.168.178.80/thumb/%s.jpg' % (photo_id)
     else :
         for r in rs :
             if r.photo_id() == photo_id : return r.photo_url

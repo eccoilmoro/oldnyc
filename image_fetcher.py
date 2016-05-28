@@ -27,5 +27,6 @@ if __name__ == '__main__':
   rand.shuffle(rs)
   f = fetcher.Fetcher(options.cache_dir, int(options.secs))
   for i, r in enumerate(rs[0:int(options.num)]):
+    if r.photo_id() == '1048279491907215' : print "Eccolo"
     print "%03d Fetching %s" % (i, r.photo_url)
     f.Fetch(r.photo_url)

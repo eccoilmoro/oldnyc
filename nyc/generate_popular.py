@@ -45,6 +45,7 @@ def run():
             pass
 
     for row in photos:
+        sys.stderr.write(str(row)+'\n')
         assert 'height' in row
 
     open('../viewer/static/js/popular-photos.js', 'w+').write(
