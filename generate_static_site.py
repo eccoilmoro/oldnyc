@@ -190,8 +190,8 @@ all_photos.sort(key=lambda photo: photo['photo_id'])
 timestamps = {
         'timestamp': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()),
         'rotation_time': user_rotations['last_date'],
-        'ocr_time': manual_ocr_fixes['last_date'],
-        'ocr_ms': manual_ocr_fixes['last_timestamp']
+        'ocr_time': '', # manual_ocr_fixes['last_date'], #FRANCO modificato , non ho OCR
+        'ocr_ms': '' # manual_ocr_fixes['last_timestamp'] #FRANCO modificato , non ho OCR
     }
 
 json.dump(merge({
