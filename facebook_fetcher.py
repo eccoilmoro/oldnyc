@@ -128,7 +128,7 @@ def main():
 	graph_url = "https://graph.facebook.com/v2.6/610780312323804"
 	
 	#the time of last weeks crawl
-	last_crawl = datetime.datetime.now() - datetime.timedelta(weeks=200)
+	last_crawl = datetime.datetime.now() - datetime.timedelta(weeks=220)
 	last_crawl = last_crawl.isoformat()
 					
 		

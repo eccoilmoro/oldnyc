@@ -7,6 +7,7 @@ import fileinput
 import re
 import sys
 import json
+import csv
 #import nyc.boroughs
 
 if __name__ == '__main__':
@@ -41,9 +42,9 @@ streets = '(?:Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|
 
 #
 
-address3_re = ur'(?:Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Chiesa di)\s+(?:San|S.|Santi|Santissimo|Santissima|XX|IV)\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Mausoleo|Palazzo|Circonvallazione|Battistero|Molo|Canale)\s+[a-zA-Z]+\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Piazza Anita|Piazza Dora|Piazza Andrea|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Ponte|Giardini|giardini|Porto|Darsena|S.|San|Santa|Sant.|Biblioteca|Loggetta|Bagno|Villaggio|Torre|Pialassa|Molo|Hotel|Circolo|Battistero|Teatro|Canale)\s+[A-Z]{1}[a-z]+|(?:Darsena|darsena|[S,s]tazione|[I,i]ppodromo|Mirabilandia|Standiana|Candiano|Baretto|Mercato Coperto|Anic|Sarom|Portonaccio|Pala de Andr.|colonia|Colonia|S.Apollinare|Duomo|Diga|Capanno Garibaldi|Rocca Brancaleone|Piazza dell.Aquila|Sant.Apollinare|[O,o]spedale|[f,F]aro|Tomba di Dante|Stadio|S Giovanni Evangelista)'
+address3_re = ur'(?:Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Chiesa di|Basilica di)\s+(?:San|S.|Santi|Santissimo|Santissima|XX|IV)\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Mausoleo|Palazzo|Circonvallazione|Battistero|Molo|Canale)\s+[a-zA-Z]+\s+[A-Z]{1}[a-z]+|(?:Via Ponte|Via Porta|Piazza Anita|Piazza Dora|Piazza Andrea|Vicolo|Strada|Viale|Piazza|Vicolo|Casa|Piazzale|Via|Rotonda|Porta|Ponte|Giardini|giardini|Porto|Darsena|S.|San|Santa|Sant.|Biblioteca|Loggetta|Bagno|Villaggio|Torre|Pialassa|Molo|Hotel|Circolo|Battistero|Teatro|Canale)\s+[A-Z]{1}[a-z]+|(?:Darsena|darsena|[S,s]tazione|[I,i]ppodromo|Mirabilandia|Standiana|Bassette|Liceo Classico|Candiano|Baretto|Mercato Coperto|Anic|Sarom|Portonaccio|Pala de Andr.|colonia|Colonia|S.Apollinare|Duomo|Diga|Capanno Garibaldi|Rocca Brancaleone|Piazza dell.Aquila|Sant.Apollinare|[O,o]spedale|[f,F]aro|Tomba di Dante|Stadio|S Giovanni Evangelista|[p,P]alazzo di Teodorico)'
 
-city_re = ur'(?:Marina di Ravenna|Punta Marina|Cervia|Milano Marittima|Classe|Lido Adriano|Casal Borsetti|Marina Romea|Porto Corsini|Lido di Savio|Lido di Dante|Fosso Ghiaia|Coccolia)'
+city_re = ur'(?:Marina di Ravenna|Punta Marina|Cervia|Milano Marittima|Classe|Lido Adriano|Casal Borsetti|Casalborsetti|Marina Romea|Porto Corsini|Lido di Savio|Lido di Dante|Fosso Ghiaia|Coccolia)'
 
 #address4_re = r'((%s .* ))' % (boros)
 
@@ -87,6 +88,11 @@ class RavennaCoder:
     loc = r.location().strip()
     m = None
     
+    
+
+   
+    
+
     #determine the city
     for pattern in city_patterns:
         #sys.stderr.write("0-City:" + loc+" ")
@@ -98,6 +104,24 @@ class RavennaCoder:
       city=m.group(0)+',Italy'
     else:
       city='Ravenna,Italy'
+
+    #search first in ravenna_geocode_helper.csv
+    fields = ['fb_id', 'fb_message',  'fb_likes',  'fb_shares', 'fb_create_time',  'fb_object_id',  'fb_status_type',  'fb_full_picture', 'fb_link', 'Description', 'Year',  'Credits', 'Address']
+    reader = csv.DictReader(file('./coders/ravenna_geocode_helper.csv'),fields,delimiter=';')
+    next(reader) #skip header
+    exact_address = ''
+    for idx, row in enumerate(reader):
+      if row['fb_object_id'] == r.photo_id() :
+        exact_address = row['Address']
+        sys.stderr.write('0000000000000000000-Resp : Trovata la via ESATTA! %s' % exact_address)
+        break
+    if exact_address.strip() <> '' :
+      return {
+          #'address': '%s %s, %s' % (number, street, city),
+          'address' : '%s, %s' % (exact_address, city),  
+          'source': loc,
+          'type': 'street_address'
+        }
 
     m = None
 
@@ -128,7 +152,8 @@ class RavennaCoder:
           'type': 'street_address'
         }
     else:
-       sys.stderr.write('2-Resp : NON Trovata la via! \n')
+       sys.stderr.write('2-Resp : NON Trovata la via ; %s; %s; %s \n' % (r.photo_id(),city, loc))
+
        #geocodes just the city
        return {
           #'address': '%s %s, %s' % (number, street, city),

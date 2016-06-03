@@ -52,7 +52,7 @@ try:
       'r': [''],  # description
       't': [title],
       'n': [''],  # notes
-      'a': ['Milstein Division']
+      'a': ['C era una volta Ravenna']
     }
     p.dump(r)
 
