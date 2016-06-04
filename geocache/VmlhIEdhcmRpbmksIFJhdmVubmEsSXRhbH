@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Raul Gardini",
+               "short_name" : "Raul Gardini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Raul Gardini, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4167585,
+                  "lng" : 12.1995559
+               },
+               "southwest" : {
+                  "lat" : 44.4159955,
+                  "lng" : 12.1983375
+               }
+            },
+            "location" : {
+               "lat" : 44.4164113,
+               "lng" : 12.1987594
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41772598029149,
+                  "lng" : 12.2002956802915
+               },
+               "southwest" : {
+                  "lat" : 44.4150280197085,
+                  "lng" : 12.1975977197085
+               }
+            }
+         },
+         "place_id" : "ChIJZQLcuFb5fUcRwSd-v54DLZ0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

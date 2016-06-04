@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Baiona",
+               "short_name" : "Via Baiona",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Baiona, 48123 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4362314,
+                  "lng" : 12.2294998
+               },
+               "southwest" : {
+                  "lat" : 44.4315384,
+                  "lng" : 12.2236011
+               }
+            },
+            "location" : {
+               "lat" : 44.4337347,
+               "lng" : 12.2265366
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4362314,
+                  "lng" : 12.2294998
+               },
+               "southwest" : {
+                  "lat" : 44.4315384,
+                  "lng" : 12.2236011
+               }
+            }
+         },
+         "place_id" : "ChIJu7411xb7fUcRdAn7pJM7fWI",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

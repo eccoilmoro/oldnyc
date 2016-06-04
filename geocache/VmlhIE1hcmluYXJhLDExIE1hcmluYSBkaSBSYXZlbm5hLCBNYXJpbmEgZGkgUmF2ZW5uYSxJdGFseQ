@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Marinara",
+               "short_name" : "Via Marinara",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Marinara, 48122 Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4894616,
+                  "lng" : 12.284919
+               },
+               "southwest" : {
+                  "lat" : 44.4872686,
+                  "lng" : 12.2830429
+               }
+            },
+            "location" : {
+               "lat" : 44.4881137,
+               "lng" : 12.2837962
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4897140802915,
+                  "lng" : 12.2853299302915
+               },
+               "southwest" : {
+                  "lat" : 44.4870161197085,
+                  "lng" : 12.2826319697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJCaRQeDLlfUcRqhcsWdHk9kk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

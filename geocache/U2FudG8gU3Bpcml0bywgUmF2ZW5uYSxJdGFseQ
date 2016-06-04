@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Ravenna",
+               "short_name" : "Via Ravenna",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Albano Laziale",
+               "short_name" : "Albano Laziale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albano Laziale",
+               "short_name" : "Albano Laziale",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Roma",
+               "short_name" : "RM",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lazio",
+               "short_name" : "Lazio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "00041",
+               "short_name" : "00041",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Ravenna, 00041 Albano Laziale RM, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.72518340000001,
+                  "lng" : 12.6110746
+               },
+               "southwest" : {
+                  "lat" : 41.7249736,
+                  "lng" : 12.610309
+               }
+            },
+            "location" : {
+               "lat" : 41.7250546,
+               "lng" : 12.6105605
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.72642748029151,
+                  "lng" : 12.6120407802915
+               },
+               "southwest" : {
+                  "lat" : 41.72372951970851,
+                  "lng" : 12.6093428197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJsS_j0o-PJRMRRT9txrrQYhw",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

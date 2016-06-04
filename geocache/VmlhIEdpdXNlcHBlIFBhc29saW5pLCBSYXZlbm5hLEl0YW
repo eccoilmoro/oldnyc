@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giuseppe Pasolini",
+               "short_name" : "Via Giuseppe Pasolini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giuseppe Pasolini, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4189286,
+                  "lng" : 12.1977338
+               },
+               "southwest" : {
+                  "lat" : 44.4173988,
+                  "lng" : 12.1957652
+               }
+            },
+            "location" : {
+               "lat" : 44.418242,
+               "lng" : 12.1968498
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4195126802915,
+                  "lng" : 12.1980984802915
+               },
+               "southwest" : {
+                  "lat" : 44.4168147197085,
+                  "lng" : 12.1954005197085
+               }
+            }
+         },
+         "place_id" : "ChIJLcuhTVT5fUcR-jo_GtPvRdI",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

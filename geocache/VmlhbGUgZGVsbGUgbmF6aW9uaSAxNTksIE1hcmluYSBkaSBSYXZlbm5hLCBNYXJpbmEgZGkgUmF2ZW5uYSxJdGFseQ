@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "159",
+               "short_name" : "159",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale delle Nazioni",
+               "short_name" : "Viale delle Nazioni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale delle Nazioni, 159, 48122 Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4842966,
+               "lng" : 12.2821623
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4856455802915,
+                  "lng" : 12.2835112802915
+               },
+               "southwest" : {
+                  "lat" : 44.4829476197085,
+                  "lng" : 12.2808133197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlX4Re836fUcROWrWaPslhCI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

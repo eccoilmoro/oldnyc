@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Guglielmo Marconi",
+               "short_name" : "Via G.Marconi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via G.Marconi, 2, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4053388,
+                  "lng" : 12.1910062
+               },
+               "southwest" : {
+                  "lat" : 44.40533569999999,
+                  "lng" : 12.1909879
+               }
+            },
+            "location" : {
+               "lat" : 44.40533569999999,
+               "lng" : 12.1910062
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4066862302915,
+                  "lng" : 12.1923460302915
+               },
+               "southwest" : {
+                  "lat" : 44.4039882697085,
+                  "lng" : 12.1896480697085
+               }
+            }
+         },
+         "place_id" : "EipWaWEgRy5NYXJjb25pLCAyLCA0ODEyNCBSYXZlbm5hIFJBLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Marconi Guglielmo",
+               "short_name" : "Via Marconi Guglielmo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Marconi Guglielmo, 2, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.40739,
+               "lng" : 12.19174
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4087389802915,
+                  "lng" : 12.1930889802915
+               },
+               "southwest" : {
+                  "lat" : 44.4060410197085,
+                  "lng" : 12.1903910197085
+               }
+            }
+         },
+         "place_id" : "ChIJARYMeUz5fUcR2DXR5sVLM88",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via d'Alaggio",
+               "short_name" : "Via d'Alaggio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via d'Alaggio, 48122 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4258337,
+                  "lng" : 12.2207186
+               },
+               "southwest" : {
+                  "lat" : 44.41947380000001,
+                  "lng" : 12.2095137
+               }
+            },
+            "location" : {
+               "lat" : 44.422837,
+               "lng" : 12.2153374
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4258337,
+                  "lng" : 12.2207186
+               },
+               "southwest" : {
+                  "lat" : 44.41947380000001,
+                  "lng" : 12.2095137
+               }
+            }
+         },
+         "place_id" : "ChIJCcQCP-f7fUcRHswTQtcekM4",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

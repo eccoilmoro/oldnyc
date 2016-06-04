@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pineta di Classe",
+               "short_name" : "Pineta di Classe",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pineta di Classe, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3783606,
+                  "lng" : 12.3024559
+               },
+               "southwest" : {
+                  "lat" : 44.3264269,
+                  "lng" : 12.2596264
+               }
+            },
+            "location" : {
+               "lat" : 44.3410569,
+               "lng" : 12.2853463
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3783606,
+                  "lng" : 12.3024559
+               },
+               "southwest" : {
+                  "lat" : 44.3264269,
+                  "lng" : 12.2596264
+               }
+            }
+         },
+         "place_id" : "ChIJGc8wLdz3fUcR6Fjhsp4EFYk",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

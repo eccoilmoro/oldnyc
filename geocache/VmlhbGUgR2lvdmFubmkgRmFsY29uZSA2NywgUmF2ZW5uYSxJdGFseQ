@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Giovanni Falcone",
+               "short_name" : "Via Giovanni Falcone",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alfonsine",
+               "short_name" : "Alfonsine",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48011",
+               "short_name" : "48011",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giovanni Falcone, 67, 48011 Alfonsine RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5075278,
+                  "lng" : 12.0381638
+               },
+               "southwest" : {
+                  "lat" : 44.5075209,
+                  "lng" : 12.0381478
+               }
+            },
+            "location" : {
+               "lat" : 44.5075278,
+               "lng" : 12.0381478
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.50887333029149,
+                  "lng" : 12.0395047802915
+               },
+               "southwest" : {
+                  "lat" : 44.5061753697085,
+                  "lng" : 12.0368068197085
+               }
+            }
+         },
+         "place_id" : "EjRWaWEgR2lvdmFubmkgRmFsY29uZSwgNjcsIDQ4MDExIEFsZm9uc2luZSBSQSwgSXRhbGlh",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

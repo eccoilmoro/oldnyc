@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "89",
+               "short_name" : "89",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Molo Dalmazia",
+               "short_name" : "Via Molo Dalmazia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Molo Dalmazia, 89, 48122 Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.49145439999999,
+                  "lng" : 12.2840136
+               },
+               "southwest" : {
+                  "lat" : 44.4914412,
+                  "lng" : 12.2840105
+               }
+            },
+            "location" : {
+               "lat" : 44.4914412,
+               "lng" : 12.2840136
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4927967802915,
+                  "lng" : 12.2853610302915
+               },
+               "southwest" : {
+                  "lat" : 44.4900988197085,
+                  "lng" : 12.2826630697085
+               }
+            }
+         },
+         "place_id" : "EjlWaWEgTW9sbyBEYWxtYXppYSwgODksIDQ4MTIyIE1hcmluYSBkaSBSYXZlbm5hIFJBLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

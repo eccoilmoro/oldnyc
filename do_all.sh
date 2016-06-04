@@ -13,6 +13,10 @@ rm records.pickle
 cd nyc
 ./generate_popular.py
 cd ..
+cd ../oldnyc-github.io
+git add .
+git commit -m 'photo update'
+cd ../oldnyc
 ./generate_static_site.py
 cp ./thumbnails/* ../oldnyc.github.io/thumb/
 cp ./viewer/static/js/* ../oldnyc.github.io/js/

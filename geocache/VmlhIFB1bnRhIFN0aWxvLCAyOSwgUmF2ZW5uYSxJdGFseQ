@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "29",
+               "short_name" : "29",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Punta Stilo",
+               "short_name" : "Via Punta Stilo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Punta Stilo, 29, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4044832,
+               "lng" : 12.1951384
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4058321802915,
+                  "lng" : 12.1964873802915
+               },
+               "southwest" : {
+                  "lat" : 44.40313421970851,
+                  "lng" : 12.1937894197085
+               }
+            }
+         },
+         "place_id" : "ChIJGS32p0n5fUcRuTeK9PgrAuw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

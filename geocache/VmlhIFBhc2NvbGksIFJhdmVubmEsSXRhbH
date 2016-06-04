@@ -1,0 +1,143 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Michele Pascoli",
+               "short_name" : "Via Michele Pascoli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48124",
+               "short_name" : "48124",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Michele Pascoli, 48124 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4059386,
+                  "lng" : 12.1905883
+               },
+               "southwest" : {
+                  "lat" : 44.4042767,
+                  "lng" : 12.1884975
+               }
+            },
+            "location" : {
+               "lat" : 44.4050344,
+               "lng" : 12.1896552
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4064566302915,
+                  "lng" : 12.1908918802915
+               },
+               "southwest" : {
+                  "lat" : 44.4037586697085,
+                  "lng" : 12.1881939197085
+               }
+            }
+         },
+         "place_id" : "ChIJVWOlAkv5fUcRFDIUXaYshY0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giovanni Pascoli",
+               "short_name" : "Via Giovanni Pascoli",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Giovanni Pascoli, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.41374649999999,
+                  "lng" : 12.2040185
+               },
+               "southwest" : {
+                  "lat" : 44.41182389999999,
+                  "lng" : 12.2036774
+               }
+            },
+            "location" : {
+               "lat" : 44.4130013,
+               "lng" : 12.2038405
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41413418029149,
+                  "lng" : 12.2051969302915
+               },
+               "southwest" : {
+                  "lat" : 44.4114362197085,
+                  "lng" : 12.2024989697085
+               }
+            }
+         },
+         "place_id" : "ChIJvRRZilr5fUcR2tJVjW2K-14",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

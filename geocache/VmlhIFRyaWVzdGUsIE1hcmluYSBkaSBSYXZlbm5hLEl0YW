@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Trieste",
+               "short_name" : "Via Trieste",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Trieste, 48122 Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4873254,
+                  "lng" : 12.27551
+               },
+               "southwest" : {
+                  "lat" : 44.4816562,
+                  "lng" : 12.2740247
+               }
+            },
+            "location" : {
+               "lat" : 44.484392,
+               "lng" : 12.2748081
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4873254,
+                  "lng" : 12.2761163302915
+               },
+               "southwest" : {
+                  "lat" : 44.4816562,
+                  "lng" : 12.2734183697085
+               }
+            }
+         },
+         "place_id" : "ChIJK6U7Q8_7fUcRxJq9n6Q-Fvg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

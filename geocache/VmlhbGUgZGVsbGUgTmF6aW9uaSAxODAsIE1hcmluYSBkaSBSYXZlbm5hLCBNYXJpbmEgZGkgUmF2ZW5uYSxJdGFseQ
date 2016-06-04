@@ -1,0 +1,80 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "180",
+               "short_name" : "180",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Viale delle Nazioni",
+               "short_name" : "Viale delle Nazioni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Viale delle Nazioni, 180, 48122 Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4831703,
+                  "lng" : 12.2824068
+               },
+               "southwest" : {
+                  "lat" : 44.4831697,
+                  "lng" : 12.282388
+               }
+            },
+            "location" : {
+               "lat" : 44.4831703,
+               "lng" : 12.2824068
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4845189802915,
+                  "lng" : 12.2837463802915
+               },
+               "southwest" : {
+                  "lat" : 44.4818210197085,
+                  "lng" : 12.2810484197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "EjxWaWFsZSBkZWxsZSBOYXppb25pLCAxODAsIDQ4MTIyIE1hcmluYSBkaSBSYXZlbm5hIFJBLCBJdGFsaWE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

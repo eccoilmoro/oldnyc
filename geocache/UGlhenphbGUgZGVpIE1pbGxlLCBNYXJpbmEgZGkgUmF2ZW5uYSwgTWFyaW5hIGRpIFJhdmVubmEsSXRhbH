@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viale dei Mille",
+               "short_name" : "Viale dei Mille",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viale dei Mille, Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4880336,
+                  "lng" : 12.281156
+               },
+               "southwest" : {
+                  "lat" : 44.4872504,
+                  "lng" : 12.2730234
+               }
+            },
+            "location" : {
+               "lat" : 44.4876156,
+               "lng" : 12.2774026
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4889909802915,
+                  "lng" : 12.281156
+               },
+               "southwest" : {
+                  "lat" : 44.4862930197085,
+                  "lng" : 12.2730234
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx1gPvSzlfUcRy0_NpkarvkI",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

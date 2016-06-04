@@ -1,0 +1,79 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Corrado Ricci",
+               "short_name" : "Via Corrado Ricci",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Corrado Ricci, 26, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.415735,
+                  "lng" : 12.2000643
+               },
+               "southwest" : {
+                  "lat" : 44.4157309,
+                  "lng" : 12.2000464
+               }
+            },
+            "location" : {
+               "lat" : 44.415735,
+               "lng" : 12.2000643
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41708193029149,
+                  "lng" : 12.2014043302915
+               },
+               "southwest" : {
+                  "lat" : 44.4143839697085,
+                  "lng" : 12.1987063697085
+               }
+            }
+         },
+         "place_id" : "Ei9WaWEgQ29ycmFkbyBSaWNjaSwgMjYsIDQ4MTIxIFJhdmVubmEgUkEsIEl0YWxpYQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

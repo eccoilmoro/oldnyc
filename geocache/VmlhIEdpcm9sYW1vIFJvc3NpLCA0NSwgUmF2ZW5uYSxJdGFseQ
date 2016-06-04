@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Via Girolamo Rossi",
+               "short_name" : "Via Girolamo Rossi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Girolamo Rossi, 45, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4204364,
+               "lng" : 12.20074
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4217853802915,
+                  "lng" : 12.2020889802915
+               },
+               "southwest" : {
+                  "lat" : 44.4190874197085,
+                  "lng" : 12.1993910197085
+               }
+            }
+         },
+         "place_id" : "ChIJU_AY9_37fUcRrOTeF-lvdeo",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

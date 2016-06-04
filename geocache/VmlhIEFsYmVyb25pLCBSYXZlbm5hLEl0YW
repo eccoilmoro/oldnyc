@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Giulio Alberoni",
+               "short_name" : "Via Giulio Alberoni",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Via Giulio Alberoni, Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.41669960000001,
+                  "lng" : 12.2090865
+               },
+               "southwest" : {
+                  "lat" : 44.4159562,
+                  "lng" : 12.2045638
+               }
+            },
+            "location" : {
+               "lat" : 44.4162678,
+               "lng" : 12.2066926
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4176768802915,
+                  "lng" : 12.2090865
+               },
+               "southwest" : {
+                  "lat" : 44.4149789197085,
+                  "lng" : 12.2045638
+               }
+            }
+         },
+         "place_id" : "ChIJi-sioVn5fUcRYvsNfiMi5aA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

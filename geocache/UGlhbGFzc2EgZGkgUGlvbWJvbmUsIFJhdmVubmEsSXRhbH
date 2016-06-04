@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pialassa di Piombone",
+               "short_name" : "Pialassa di Piombone",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Province of Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pialassa di Piombone, 48123 Ravenna, Province of Ravenna, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.465,
+               "lng" : 12.2752778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4729627,
+                  "lng" : 12.2912852
+               },
+               "southwest" : {
+                  "lat" : 44.4570362,
+                  "lng" : 12.2592704
+               }
+            }
+         },
+         "place_id" : "ChIJXfjS7uj6fUcRRAZv2GHmzpE",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

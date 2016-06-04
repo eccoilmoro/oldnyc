@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Luca Longhi",
+               "short_name" : "Via Luca Longhi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Luca Longhi, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.41796919999999,
+                  "lng" : 12.1972637
+               },
+               "southwest" : {
+                  "lat" : 44.4170655,
+                  "lng" : 12.1963403
+               }
+            },
+            "location" : {
+               "lat" : 44.4175196,
+               "lng" : 12.1968163
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41886633029149,
+                  "lng" : 12.1981509802915
+               },
+               "southwest" : {
+                  "lat" : 44.41616836970849,
+                  "lng" : 12.1954530197085
+               }
+            }
+         },
+         "place_id" : "ChIJJ-_ARlT5fUcRtEbCxiYEm30",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

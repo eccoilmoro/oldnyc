@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Garibaldi",
+               "short_name" : "Piazza Garibaldi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cervia",
+               "short_name" : "Cervia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48015",
+               "short_name" : "48015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Garibaldi, 48015 Cervia RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2612664,
+                  "lng" : 12.3496401
+               },
+               "southwest" : {
+                  "lat" : 44.2606864,
+                  "lng" : 12.3492359
+               }
+            },
+            "location" : {
+               "lat" : 44.2609886,
+               "lng" : 12.3494337
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.26232538029149,
+                  "lng" : 12.3507869802915
+               },
+               "southwest" : {
+                  "lat" : 44.2596274197085,
+                  "lng" : 12.3480890197085
+               }
+            }
+         },
+         "place_id" : "ChIJY5204wa0LBMR6uHD6hAYjiE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via degli Ariani",
+               "short_name" : "Via degli Ariani",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via degli Ariani, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4191242,
+                  "lng" : 12.2026864
+               },
+               "southwest" : {
+                  "lat" : 44.418224,
+                  "lng" : 12.20207
+               }
+            },
+            "location" : {
+               "lat" : 44.41878029999999,
+               "lng" : 12.2023481
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42002308029149,
+                  "lng" : 12.2037271802915
+               },
+               "southwest" : {
+                  "lat" : 44.41732511970849,
+                  "lng" : 12.2010292197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ1co-tFf5fUcRz4ySb-bMaMA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

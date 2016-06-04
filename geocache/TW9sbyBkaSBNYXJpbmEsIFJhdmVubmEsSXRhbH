@@ -1,0 +1,145 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Molo Dalmazia",
+               "short_name" : "Via Molo Dalmazia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Marina di Ravenna",
+               "short_name" : "Marina di Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48122",
+               "short_name" : "48122",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Molo Dalmazia, 48122 Marina di Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4920975,
+                  "lng" : 12.2840537
+               },
+               "southwest" : {
+                  "lat" : 44.4907868,
+                  "lng" : 12.2766625
+               }
+            },
+            "location" : {
+               "lat" : 44.491565,
+               "lng" : 12.280231
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.4927911302915,
+                  "lng" : 12.2840537
+               },
+               "southwest" : {
+                  "lat" : 44.49009316970851,
+                  "lng" : 12.2766625
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJa7Wmny7lfUcRTdixwB-6wHI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Molo San Filippo",
+               "short_name" : "Via Molo S. Filippo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Porto Corsini",
+               "short_name" : "Porto Corsini",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48123",
+               "short_name" : "48123",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Molo S. Filippo, 48123 Porto Corsini RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4947291,
+                  "lng" : 12.2834841
+               },
+               "southwest" : {
+                  "lat" : 44.4922066,
+                  "lng" : 12.2695001
+               }
+            },
+            "location" : {
+               "lat" : 44.4924435,
+               "lng" : 12.2759272
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.49481683029149,
+                  "lng" : 12.2834841
+               },
+               "southwest" : {
+                  "lat" : 44.4921188697085,
+                  "lng" : 12.2695001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlagcqCnlfUcRr3C1Q3jPtXg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piazza Resistenza",
+               "short_name" : "Piazza Resistenza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Piazza Resistenza, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4147344,
+                  "lng" : 12.1892896
+               },
+               "southwest" : {
+                  "lat" : 44.41397060000001,
+                  "lng" : 12.1882753
+               }
+            },
+            "location" : {
+               "lat" : 44.4144497,
+               "lng" : 12.1888251
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41570148029151,
+                  "lng" : 12.1901314302915
+               },
+               "southwest" : {
+                  "lat" : 44.41300351970851,
+                  "lng" : 12.1874334697085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuaWjVaz-fUcR5ONXwI5togU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
