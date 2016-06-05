@@ -7,14 +7,14 @@ cd ..
 ./generate-geocodes.py --coders ravenna_coder --pickle_path nyc/records.pickle --lat_lon_map lat-lon-map.txt --output_format lat-lons-ny.js --geocode > viewer/static/js/nyc-lat-lons-ny.js
 cp ./nyc/records.pickle records.pickle
 ./image_fetcher.py -n 12000
-./image_thumbnailer
+./image_thumbnailer.py
 ./extract-sizes.py  > nyc-image-sizes.txt
 rm records.pickle
 cd nyc
 ./generate_popular.py
 ./generate_fb_links.py
 cd ..
-cd ../oldnyc-github.io
+cd ../oldnyc.github.io
 git add .
 git commit -m 'photo update'
 cd ../oldnyc
