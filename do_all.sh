@@ -12,6 +12,7 @@ cp ./nyc/records.pickle records.pickle
 rm records.pickle
 cd nyc
 ./generate_popular.py
+./generate_fb_links.py
 cd ..
 cd ../oldnyc-github.io
 git add .
