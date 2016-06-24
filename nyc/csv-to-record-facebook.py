@@ -37,7 +37,7 @@ try:
     full_address = str(row['Description'].replace(".",""))
     creator = str(row['Credits'])
 
-    title = str(row['Description']) + ' ' + creator
+    title = str(row['Description'])
     assert title
 
     # TODO(danvk): move this into record.py

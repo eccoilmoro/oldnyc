@@ -76,7 +76,8 @@ back_id_to_text = None  # clear
 def image_url(photo_id, is_thumb):
     
     if is_thumb :
-        return 'http://192.168.178.80/thumb/%s.jpg' % (photo_id)
+        #return 'http://192.168.178.80/thumb/%s.jpg' % (photo_id)
+        return 'http://www.oldra.it/thumb/%s.jpg' % (photo_id)
     else :
         for r in rs :
             if r.photo_id() == photo_id : return r.photo_url
