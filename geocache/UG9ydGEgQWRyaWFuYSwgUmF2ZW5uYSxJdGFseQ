@@ -5,7 +5,7 @@
             {
                "long_name" : "Porta Adriana",
                "short_name" : "Porta Adriana",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Via Camillo Benso Cavour",
@@ -62,7 +62,7 @@
             }
          },
          "place_id" : "ChIJbdZbpFX5fUcREGu5cjaGlUg",
-         "types" : [ "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "point_of_interest" ]
       }
    ],
    "status" : "OK"

@@ -5,7 +5,7 @@
             {
                "long_name" : "Via Cassino Stadio",
                "short_name" : "Via Cassino Stadio",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJr421q075fUcRNG7i2rHXnq0",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       },
       {
@@ -70,7 +70,7 @@
             {
                "long_name" : "Via Cassino Fronte Stadio",
                "short_name" : "Via Cassino Fronte Stadio",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -125,9 +125,9 @@
          "place_id" : "ChIJUflDDEz5fUcRy6UgUWePuq0",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       },
       {

@@ -5,12 +5,7 @@
             {
                "long_name" : "Basilica di San Vitale",
                "short_name" : "Basilica di San Vitale",
-               "types" : [ "point_of_interest", "establishment" ]
-            },
-            {
-               "long_name" : "Via San Vitale",
-               "short_name" : "Via San Vitale",
-               "types" : [ "route" ]
+               "types" : [ "premise" ]
             },
             {
                "long_name" : "Ravenna",
@@ -43,26 +38,36 @@
                "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "Basilica di San Vitale, Via San Vitale, 48121 Ravenna RA, Italy",
+         "formatted_address" : "Basilica di San Vitale, 48121 Ravenna RA, Italy",
          "geometry" : {
-            "location" : {
-               "lat" : 44.4205557,
-               "lng" : 12.1963864
-            },
-            "location_type" : "APPROXIMATE",
-            "viewport" : {
+            "bounds" : {
                "northeast" : {
-                  "lat" : 44.4219046802915,
-                  "lng" : 12.1977353802915
+                  "lat" : 44.4208298,
+                  "lng" : 12.19677
                },
                "southwest" : {
-                  "lat" : 44.41920671970851,
-                  "lng" : 12.1950374197085
+                  "lat" : 44.4202951,
+                  "lng" : 12.1960366
+               }
+            },
+            "location" : {
+               "lat" : 44.4206292,
+               "lng" : 12.1962741
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.42191143029149,
+                  "lng" : 12.1977522802915
+               },
+               "southwest" : {
+                  "lat" : 44.4192134697085,
+                  "lng" : 12.1950543197085
                }
             }
          },
-         "place_id" : "ChIJvZv5b1X5fUcRKO4Hasj0S24",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+         "place_id" : "ChIJw1pFfFX5fUcRrye5_s6Pgoo",
+         "types" : [ "premise" ]
       }
    ],
    "status" : "OK"

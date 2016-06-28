@@ -5,7 +5,7 @@
             {
                "long_name" : "Pineta di Classe",
                "short_name" : "Pineta di Classe",
-               "types" : [ "natural_feature", "establishment" ]
+               "types" : [ "establishment", "natural_feature" ]
             },
             {
                "long_name" : "Ravenna",
@@ -57,7 +57,7 @@
             }
          },
          "place_id" : "ChIJGc8wLdz3fUcR6Fjhsp4EFYk",
-         "types" : [ "natural_feature", "establishment" ]
+         "types" : [ "establishment", "natural_feature" ]
       }
    ],
    "status" : "OK"

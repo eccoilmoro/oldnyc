@@ -5,7 +5,7 @@
             {
                "long_name" : "Pialassa di Piombone",
                "short_name" : "Pialassa di Piombone",
-               "types" : [ "natural_feature", "establishment" ]
+               "types" : [ "establishment", "natural_feature" ]
             },
             {
                "long_name" : "Ravenna",
@@ -52,7 +52,7 @@
             }
          },
          "place_id" : "ChIJXfjS7uj6fUcRRAZv2GHmzpE",
-         "types" : [ "natural_feature", "establishment" ]
+         "types" : [ "establishment", "natural_feature" ]
       }
    ],
    "status" : "OK"

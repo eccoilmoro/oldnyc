@@ -5,7 +5,7 @@
             {
                "long_name" : "Via Mariani Teatro Alighieri",
                "short_name" : "Via Mariani Teatro Alighieri",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJ0f3o4lb5fUcR4NjkN2TE6Yw",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

@@ -5,7 +5,7 @@
             {
                "long_name" : "Rocca Brancaleone",
                "short_name" : "Rocca Brancaleone",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Via Rocca Brancaleone",
@@ -62,7 +62,7 @@
             }
          },
          "place_id" : "ChIJT2dr2_z7fUcRU6jO6d9zGHI",
-         "types" : [ "park", "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "park", "point_of_interest" ]
       }
    ],
    "status" : "OK"

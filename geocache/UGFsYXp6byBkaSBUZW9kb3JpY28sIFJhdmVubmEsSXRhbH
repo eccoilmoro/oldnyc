@@ -5,7 +5,7 @@
             {
                "long_name" : "Mausoleo Di Teodorico",
                "short_name" : "Mausoleo Di Teodorico",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJZ_LWmOT7fUcRS2JeS1XlN7g",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

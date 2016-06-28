@@ -5,7 +5,7 @@
             {
                "long_name" : "Ippodromo",
                "short_name" : "Ippodromo",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -57,7 +57,7 @@
             }
          },
          "place_id" : "ChIJXcpmdl75fUcRAg_dm1RXDJc",
-         "types" : [ "park", "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "park", "point_of_interest" ]
       }
    ],
    "status" : "OK"

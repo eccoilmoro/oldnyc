@@ -5,7 +5,7 @@
             {
                "long_name" : "Porta Gaza",
                "short_name" : "Porta Gaza",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Via Porta Gaza",
@@ -62,7 +62,7 @@
             }
          },
          "place_id" : "ChIJB0GPR1L5fUcR5N6VGickuzQ",
-         "types" : [ "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "point_of_interest" ]
       }
    ],
    "status" : "OK"

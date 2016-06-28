@@ -5,7 +5,7 @@
             {
                "long_name" : "Porta Serrata",
                "short_name" : "Porta Serrata",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Via di Roma",
@@ -62,7 +62,7 @@
             }
          },
          "place_id" : "ChIJN9U02Fn5fUcRle_X8JjaQmM",
-         "types" : [ "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "point_of_interest" ]
       }
    ],
    "status" : "OK"

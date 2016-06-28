@@ -5,7 +5,7 @@
             {
                "long_name" : "Ravenna Anic",
                "short_name" : "Ravenna Anic",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Area Industriale",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJ4fj08Lz7fUcRI0Bf_ZzQEfw",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       },
       {
@@ -70,7 +70,7 @@
             {
                "long_name" : "Villaggio Anic",
                "short_name" : "Villaggio Anic",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -120,9 +120,9 @@
          "place_id" : "ChIJGceOVIz7fUcRlPTjuXK8G-w",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       },
       {
@@ -130,7 +130,7 @@
             {
                "long_name" : "Mandriole Pompe Anic",
                "short_name" : "Mandriole Pompe Anic",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -180,9 +180,9 @@
          "place_id" : "ChIJJfpj2OXjfUcRim0kqp66ITI",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       },
       {
@@ -190,7 +190,7 @@
             {
                "long_name" : "V. Baiona FR Residenziale Anic",
                "short_name" : "V. Baiona FR Residenziale Anic",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -240,9 +240,9 @@
          "place_id" : "ChIJj9SKy5f7fUcRXKa8MxJCnFI",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

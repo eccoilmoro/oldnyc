@@ -23,11 +23,6 @@
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
-               "long_name" : "Emilia-Romagna",
-               "short_name" : "Emilia-Romagna",
-               "types" : [ "administrative_area_level_1", "political" ]
-            },
-            {
                "long_name" : "Italy",
                "short_name" : "IT",
                "types" : [ "country", "political" ]
@@ -42,12 +37,12 @@
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : 44.2612664,
-                  "lng" : 12.3496401
+                  "lat" : 44.26127,
+                  "lng" : 12.349749
                },
                "southwest" : {
                   "lat" : 44.2606864,
-                  "lng" : 12.3492359
+                  "lng" : 12.349139
                }
             },
             "location" : {
@@ -57,12 +52,12 @@
             "location_type" : "GEOMETRIC_CENTER",
             "viewport" : {
                "northeast" : {
-                  "lat" : 44.26232538029149,
-                  "lng" : 12.3507869802915
+                  "lat" : 44.26232718029149,
+                  "lng" : 12.3507929802915
                },
                "southwest" : {
-                  "lat" : 44.2596274197085,
-                  "lng" : 12.3480890197085
+                  "lat" : 44.2596292197085,
+                  "lng" : 12.3480950197085
                }
             }
          },

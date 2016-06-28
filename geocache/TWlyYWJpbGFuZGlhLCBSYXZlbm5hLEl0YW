@@ -5,7 +5,7 @@
             {
                "long_name" : "Mirabilandia",
                "short_name" : "Mirabilandia",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "km 162",
@@ -14,7 +14,7 @@
             },
             {
                "long_name" : "Strada Statale 16 Adriatica",
-               "short_name" : "Strada Statale 16 Adriatica",
+               "short_name" : "SS16 Adriatica",
                "types" : [ "route" ]
             },
             {
@@ -67,7 +67,7 @@
             }
          },
          "place_id" : "ChIJ3xOEGq6yLBMRkVhrMJ0Bzek",
-         "types" : [ "amusement_park", "park", "point_of_interest", "establishment" ]
+         "types" : [ "amusement_park", "establishment", "park", "point_of_interest" ]
       }
    ],
    "status" : "OK"

@@ -75,7 +75,7 @@
             {
                "long_name" : "Porto Corsini Via Sirotti",
                "short_name" : "Porto Corsini Via Sirotti",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Porto Corsini",
@@ -130,9 +130,9 @@
          "place_id" : "ChIJr_T2Ki_lfUcR0v65QbUFfWA",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       },
       {
@@ -140,7 +140,7 @@
             {
                "long_name" : "Porto Corsini Via Po",
                "short_name" : "Porto Corsini Via Po",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Porto Corsini",
@@ -195,9 +195,9 @@
          "place_id" : "ChIJZVmR4yjlfUcR3HEeH7BXNRY",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

@@ -5,7 +5,7 @@
             {
                "long_name" : "Classe Sant'Apollinare",
                "short_name" : "Classe Sant'Apollinare",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -55,9 +55,9 @@
          "place_id" : "ChIJ9UY1fav5fUcRd6PU87GWntg",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

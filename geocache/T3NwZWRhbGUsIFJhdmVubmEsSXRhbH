@@ -215,7 +215,7 @@
             {
                "long_name" : "Via Missiroli Fronte Ospedale",
                "short_name" : "Via Missiroli Fronte Ospedale",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -270,9 +270,9 @@
          "place_id" : "ChIJLZUqVa3-fUcRVx-jFcgciBk",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       },
       {

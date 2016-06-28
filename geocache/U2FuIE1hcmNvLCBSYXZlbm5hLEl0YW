@@ -38,7 +38,7 @@
             "bounds" : {
                "northeast" : {
                   "lat" : 44.3752472,
-                  "lng" : 12.1455587
+                  "lng" : 12.1455588
                },
                "southwest" : {
                   "lat" : 44.3678618,
@@ -53,7 +53,7 @@
             "viewport" : {
                "northeast" : {
                   "lat" : 44.3752472,
-                  "lng" : 12.1455587
+                  "lng" : 12.1455588
                },
                "southwest" : {
                   "lat" : 44.3678618,

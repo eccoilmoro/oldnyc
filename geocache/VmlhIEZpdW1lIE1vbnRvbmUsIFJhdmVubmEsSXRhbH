@@ -23,6 +23,11 @@
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
                "long_name" : "Italy",
                "short_name" : "IT",
                "types" : [ "country", "political" ]

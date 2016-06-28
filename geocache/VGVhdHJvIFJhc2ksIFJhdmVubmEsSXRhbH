@@ -5,7 +5,7 @@
             {
                "long_name" : "Via Di Roma Teatro Rasi",
                "short_name" : "Via Di Roma Teatro Rasi",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJWZY49Fn5fUcR6AZv5EiD7bE",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

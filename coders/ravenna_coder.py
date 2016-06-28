@@ -105,7 +105,29 @@ class RavennaCoder:
     else:
       city='Ravenna,Italy'
 
-    #search first in ravenna_geocode_helper.csv
+
+    #search first in well_known_locations.csv
+    fields = ['location', 'exclusion', 'Address']
+    reader = csv.DictReader(file('./coders/well_known_locations.csv'),fields,delimiter=';')
+    next(reader) #skip header
+    exact_address = ''
+    for idx, row in enumerate(reader):
+
+      if row['location'].lower() in loc.lower() and  ( row['exclusion'].strip() == ''  or (row['exclusion'].strip() <> '' and (row['exclusion'].strip().lower() + ' ' ) not in loc.lower())):
+        exact_address = row['Address']
+        sys.stderr.write('WELL KNOWN LOCATIONS-Resp : Trovata la via ESATTA! %s' % exact_address)
+        break
+    if exact_address.strip() <> '' :
+      return {
+          #'address': '%s %s, %s' % (number, street, city),
+          'address' : '%s, %s' % (exact_address, city),  
+          'source': loc,
+          'type': 'street_address'
+        }
+
+
+
+    #search second in ravenna_geocode_helper.csv
     fields = ['fb_id', 'fb_message',  'fb_likes',  'fb_shares', 'fb_create_time',  'fb_object_id',  'fb_status_type',  'fb_full_picture', 'fb_link', 'Description', 'Year',  'Credits', 'Address']
     reader = csv.DictReader(file('./coders/ravenna_geocode_helper.csv'),fields,delimiter=';')
     next(reader) #skip header

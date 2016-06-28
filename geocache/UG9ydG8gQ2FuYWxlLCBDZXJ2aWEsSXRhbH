@@ -5,7 +5,7 @@
             {
                "long_name" : "Milano Marittima Porto Canale",
                "short_name" : "Milano Marittima Porto Canale",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Cervia",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJUaJniA60LBMRqcklwa7z7f8",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

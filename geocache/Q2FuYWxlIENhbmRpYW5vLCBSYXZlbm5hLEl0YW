@@ -5,7 +5,7 @@
             {
                "long_name" : "Canale Candiano",
                "short_name" : "Canale Candiano",
-               "types" : [ "natural_feature", "establishment" ]
+               "types" : [ "establishment", "natural_feature" ]
             },
             {
                "long_name" : "Ravenna",
@@ -57,7 +57,7 @@
             }
          },
          "place_id" : "ChIJuXk8Egb7fUcRRPKJu2IPO60",
-         "types" : [ "natural_feature", "establishment" ]
+         "types" : [ "establishment", "natural_feature" ]
       }
    ],
    "status" : "OK"

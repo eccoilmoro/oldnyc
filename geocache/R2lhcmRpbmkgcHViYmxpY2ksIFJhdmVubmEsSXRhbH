@@ -5,7 +5,7 @@
             {
                "long_name" : "Giardini Pubblici",
                "short_name" : "Giardini Pubblici",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "4",
@@ -67,7 +67,7 @@
             }
          },
          "place_id" : "ChIJzdr45Vv5fUcRpHJd_cVSj14",
-         "types" : [ "park", "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "park", "point_of_interest" ]
       }
    ],
    "status" : "OK"

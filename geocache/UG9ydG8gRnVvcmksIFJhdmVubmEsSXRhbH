@@ -37,12 +37,12 @@
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : 44.4108419,
+                  "lat" : 44.4108418,
                   "lng" : 12.2611823
                },
                "southwest" : {
                   "lat" : 44.3991929,
-                  "lng" : 12.2440795
+                  "lng" : 12.2440796
                }
             },
             "location" : {
@@ -52,12 +52,12 @@
             "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : 44.4108419,
+                  "lat" : 44.4108418,
                   "lng" : 12.2611823
                },
                "southwest" : {
                   "lat" : 44.3991929,
-                  "lng" : 12.2440795
+                  "lng" : 12.2440796
                }
             }
          },

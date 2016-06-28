@@ -5,7 +5,7 @@
             {
                "long_name" : "Via Trieste Fronte Case Sarom",
                "short_name" : "Via Trieste Fronte Case Sarom",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Area Industriale",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJY3in-Mn7fUcRs8T3Qm0MDyI",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

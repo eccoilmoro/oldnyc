@@ -5,7 +5,7 @@
             {
                "long_name" : "Via Carducci Liceo Classico",
                "short_name" : "Via Carducci Liceo Classico",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Ravenna",
@@ -60,9 +60,9 @@
          "place_id" : "ChIJ06RYgVf5fUcRTKFDTh_95rE",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

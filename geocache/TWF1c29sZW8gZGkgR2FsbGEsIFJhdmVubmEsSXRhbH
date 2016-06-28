@@ -5,7 +5,7 @@
             {
                "long_name" : "Mausoleo di Galla Placidia",
                "short_name" : "Mausoleo di Galla Placidia",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "22",
@@ -68,7 +68,7 @@
          },
          "partial_match" : true,
          "place_id" : "ChIJ2daRLP77fUcRhPYnfCJ6zPg",
-         "types" : [ "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "point_of_interest" ]
       }
    ],
    "status" : "OK"

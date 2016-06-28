@@ -5,7 +5,7 @@
             {
                "long_name" : "Battistero Neoniano (o degli Ortodossi)",
                "short_name" : "Battistero Neoniano (o degli Ortodossi)",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Via Gioacchino Rasponi",
@@ -63,7 +63,7 @@
          },
          "partial_match" : true,
          "place_id" : "ChIJnVOz8lP5fUcRA8Qsqfv_zcU",
-         "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+         "types" : [ "establishment", "place_of_worship", "point_of_interest" ]
       },
       {
          "address_components" : [

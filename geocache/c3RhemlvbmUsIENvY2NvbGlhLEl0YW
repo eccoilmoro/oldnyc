@@ -5,7 +5,7 @@
             {
                "long_name" : "Coccolia",
                "short_name" : "Coccolia",
-               "types" : [ "point_of_interest", "establishment" ]
+               "types" : [ "establishment", "point_of_interest" ]
             },
             {
                "long_name" : "Coccolia",
@@ -59,9 +59,9 @@
          "place_id" : "ChIJLxnYzzaqLBMR2pBNpjakMzo",
          "types" : [
             "bus_station",
-            "transit_station",
+            "establishment",
             "point_of_interest",
-            "establishment"
+            "transit_station"
          ]
       }
    ],

@@ -233,6 +233,11 @@
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
                "long_name" : "Italy",
                "short_name" : "IT",
                "types" : [ "country", "political" ]
@@ -273,6 +278,76 @@
          },
          "partial_match" : true,
          "place_id" : "ChIJadqlJ8D7fUcRUHGaBwJBllw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Via Antonio Zirardini",
+               "short_name" : "Via Antonio Zirardini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ravenna",
+               "short_name" : "Ravenna",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ravenna",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48121",
+               "short_name" : "48121",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Via Antonio Zirardini, 48121 Ravenna RA, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.4184332,
+                  "lng" : 12.1985085
+               },
+               "southwest" : {
+                  "lat" : 44.4174323,
+                  "lng" : 12.1969825
+               }
+            },
+            "location" : {
+               "lat" : 44.417786,
+               "lng" : 12.1974886
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.41928173029149,
+                  "lng" : 12.1990944802915
+               },
+               "southwest" : {
+                  "lat" : 44.4165837697085,
+                  "lng" : 12.1963965197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJVwnTM1T5fUcRBBEC_qJtSEI",
          "types" : [ "route" ]
       },
       {
@@ -618,76 +693,6 @@
          },
          "partial_match" : true,
          "place_id" : "ChIJCbXXsFGzLBMRX5MzTJa3NSY",
-         "types" : [ "route" ]
-      },
-      {
-         "address_components" : [
-            {
-               "long_name" : "Via Antonio da Noli",
-               "short_name" : "Via Antonio da Noli",
-               "types" : [ "route" ]
-            },
-            {
-               "long_name" : "Lido di Classe",
-               "short_name" : "Lido di Classe",
-               "types" : [ "locality", "political" ]
-            },
-            {
-               "long_name" : "Ravenna",
-               "short_name" : "Ravenna",
-               "types" : [ "administrative_area_level_3", "political" ]
-            },
-            {
-               "long_name" : "Provincia di Ravenna",
-               "short_name" : "RA",
-               "types" : [ "administrative_area_level_2", "political" ]
-            },
-            {
-               "long_name" : "Emilia-Romagna",
-               "short_name" : "Emilia-Romagna",
-               "types" : [ "administrative_area_level_1", "political" ]
-            },
-            {
-               "long_name" : "Italy",
-               "short_name" : "IT",
-               "types" : [ "country", "political" ]
-            },
-            {
-               "long_name" : "48125",
-               "short_name" : "48125",
-               "types" : [ "postal_code" ]
-            }
-         ],
-         "formatted_address" : "Via Antonio da Noli, 48125 Lido di Classe RA, Italy",
-         "geometry" : {
-            "bounds" : {
-               "northeast" : {
-                  "lat" : 44.3260077,
-                  "lng" : 12.3373001
-               },
-               "southwest" : {
-                  "lat" : 44.3247027,
-                  "lng" : 12.3334163
-               }
-            },
-            "location" : {
-               "lat" : 44.3252423,
-               "lng" : 12.3349959
-            },
-            "location_type" : "GEOMETRIC_CENTER",
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 44.3267041802915,
-                  "lng" : 12.3373001
-               },
-               "southwest" : {
-                  "lat" : 44.3240062197085,
-                  "lng" : 12.3334163
-               }
-            }
-         },
-         "partial_match" : true,
-         "place_id" : "ChIJc4m75lGzLBMRkhMBbPrCa_A",
          "types" : [ "route" ]
       }
    ],
