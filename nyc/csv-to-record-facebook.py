@@ -50,7 +50,7 @@ try:
       'i': [photo_id],
       'p': [date_str],
       'r': [''],  # description
-      't': [title],
+      't': [title+ ' ' + creator],
       'n': [''],  # notes
       'a': ['C era una volta Ravenna']
     }
