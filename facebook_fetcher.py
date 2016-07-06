@@ -121,8 +121,8 @@ def get_likes_count(post_id, APP_ID, APP_SECRET):
 	
 def main():
 	#simple data pull App Secret and App ID
-	APP_SECRET = "68a6cf69543461c285c641f25213c048"
-	APP_ID = "1126789970707224"
+	APP_SECRET = "your app secret"
+	APP_ID = "your app key"
 	
 
 	graph_url = "https://graph.facebook.com/v2.6/610780312323804"
