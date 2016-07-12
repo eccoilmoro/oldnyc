@@ -1,3 +1,12 @@
+Old RA
+======
+OldNYC code forked to generate the following site :
+
+Live site: htt://www.oldra.it
+
+A tutorial http://www.opendatabassaromagna.it/2016/07/how-to-map-photos-of-your-city-like.html
+
+
 Old NYC
 =======
 
